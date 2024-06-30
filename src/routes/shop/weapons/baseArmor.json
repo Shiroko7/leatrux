@@ -1,0 +1,192 @@
+[
+    {
+        "Name": "Padded",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Resistance": "11 AC + Dex modifier",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Leather",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Resistance": "11 AC+ Dex modifier",
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Studded Leather",
+        "Cost": 45,
+        "CostUnit": "gp",
+        "Resistance": "12 AC + Dex modifier",
+        "Weight": 13,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Hide",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Resistance": "12 AC + Dex modifier (max 2)",
+        "Weight": 12,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Chain shirt",
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Resistance": "13 AC + Dex modifier (max 2)",
+        "Weight": 20,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Scale mail",
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Resistance": "14 AC + Dex modifier (max 2)",
+        "Weight": 45,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Breastplate",
+        "Cost": 400,
+        "CostUnit": "gp",
+        "Resistance": "14 AC + Dex modifier (max 2)",
+        "Weight": 20,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Half plate",
+        "Cost": 750,
+        "CostUnit": "gp",
+        "Resistance": "15 AC + Dex modifier (max 2)",
+        "Weight": 40,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Ring mail",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Resistance": "14 AC",
+        "Weight": 40,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor"
+        ],
+        "Group": "Heavy Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Chain mail",
+        "Cost": 75,
+        "CostUnit": "gp",
+        "Resistance": "16 AC",
+        "Weight": 55,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 13"
+        ],
+        "Group": "Heavy Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Splint",
+        "Cost": 200,
+        "CostUnit": "gp",
+        "Resistance": "17 AC",
+        "Weight": 60,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 15"
+        ],
+        "Group": "Heavy Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Plate",
+        "Cost": 1500,
+        "CostUnit": "gp",
+        "Resistance": "18 AC",
+        "Weight": 65,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 15"
+        ],
+        "Group": "Heavy Armor",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Shield",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Resistance": "+2 AC",
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Group": "Shield",
+        "Rarity": "Standard"
+    }
+]

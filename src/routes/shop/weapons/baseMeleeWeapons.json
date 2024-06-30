@@ -1,0 +1,568 @@
+[
+    {
+        "Name": "Club",
+        "Cost": 1,
+        "CostUnit": "sp",
+        "Damage": "1d4",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Club",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Dagger",
+        "Cost": 2,
+        "CostUnit": "gp",
+        "Damage": "1d4",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Dagger",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Greatclub",
+        "Cost": 2,
+        "CostUnit": "sp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Greatclub",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Handaxe",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Handaxe",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Javelin",
+        "Cost": 5,
+        "CostUnit": "sp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 30/120)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Javelin",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Light hammer",
+        "Cost": 2,
+        "CostUnit": "gp",
+        "Damage": "1d4",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Light hammer",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Mace",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Mace",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Quarterstaff",
+        "Cost": 2,
+        "CostUnit": "sp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d8)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Quarterstaff",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Sickle",
+        "Cost": 1,
+        "CostUnit": "gp",
+        "Damage": "1d4",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Sickle",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Spear",
+        "Cost": 1,
+        "CostUnit": "gp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 20/60)",
+            "Versatile (1d8)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Sickle",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Battleaxe",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Battleaxe",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Flail",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Flail",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Glaive",
+        "Cost": 20,
+        "CostUnit": "gp",
+        "Damage": "1d10",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Reach",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Glaive",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Greataxes",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Damage": "1d12",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 7,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Greataxe",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Greatsword",
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Damage": "2d6",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Greatsword",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Halberd",
+        "Cost": 20,
+        "CostUnit": "gp",
+        "Damage": "1d10",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Reach",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Halberd",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Lance",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Damage": "1d12",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Reach",
+            "Special"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Lance",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Longsword",
+        "Cost": 15,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Longsword",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Maul",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Damage": "2d6",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Maul",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Morningstar",
+        "Cost": 15,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Morningstar",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Pike",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Damage": "1d10",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 18,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Pike",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Rapier",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Rapier",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Scimitar",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Scimitar",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Shortsword",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Shortsword",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Trident",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Damage": "1d6",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 20/60)",
+            "Versatile (1d8)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Trident",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "War pick",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "War pick",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Warhammer",
+        "Cost": 15,
+        "CostUnit": "gp",
+        "Damage": "1d8",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Warhammer",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Whip",
+        "Cost": 2,
+        "CostUnit": "gp",
+        "Damage": "1d4",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Reach"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Whip",
+        "Range": "Melee",
+        "Rarity": "Standard"
+    }
+]
