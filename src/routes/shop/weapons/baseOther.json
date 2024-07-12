@@ -1,0 +1,73 @@
+[
+    {
+        "Name": "Navigator’s tools",
+        "Description": "This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Thieves’ tools",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Disguise Kit",
+        "Description": "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any Ability Checks you make to create a visual disguise.",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Disguise Kit",
+        "Description": "This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.",
+        "Cost": 15,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Herbalism Kit",
+        "Description": "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and any potion of healing.",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Poisoner Kit",
+        "Description": "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.", 
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Other tools",
+        "Rarity": "Standard"
+    }
+]

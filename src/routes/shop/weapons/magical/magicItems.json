@@ -1,0 +1,15 @@
+[
+    {
+        "Name": "Phoenix's Feather",
+        "Description": "When you experience death while attuned to this item, the feather is set ablaze, burning your body to ashes. From the ashes, this flame reforms your body. The feather takes a day to restore itself.",
+        "flavorText": "A single, radiant feather that glows with a warm, golden light, pulsating softly like a heartbeat. The feather feels almost alive in your hand, emanating a comforting warmth. Said to contain the essence of rebirth and eternal flame, it is a rare and powerful symbol of hope and renewal.",
+        "Cost": 0,
+        "CostUnit": "",
+        "Weight": 0,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Magic items",
+        "Rarity": "Very Rare"
+    }
+]

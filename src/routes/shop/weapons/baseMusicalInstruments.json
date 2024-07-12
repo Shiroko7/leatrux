@@ -1,0 +1,113 @@
+[
+    {
+        "Name": "Bagpipes",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Drum",
+        "Cost": 6,
+        "CostUnit": "gp",
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Dulcimer",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Flute",
+        "Cost": 2,
+        "CostUnit": "gp",
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Lute",
+        "Cost": 35,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Lyre",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Horn",
+        "Cost": 3,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Pan flute",
+        "Cost": 12,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Shawm",
+        "Cost": 2,
+        "CostUnit": "gp",
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Viol",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Musical instruments",
+        "Rarity": "Standard"
+    }
+]
+

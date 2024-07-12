@@ -1,39 +1,42 @@
-import baseMeleeWeaponsJSON from './weapons/baseMeleeWeapons.json';
-import baseRangeWeaponsJSON from './weapons/baseRangeWeapons.json';
-import baseArmorJSON from './weapons/baseArmor.json';
-import { get, writable } from 'svelte/store';
+import baseArmorJSON from "./weapons/baseArmor.json";
+import baseArtisanToolsJSON from "./weapons/baseArtisanTools.json";
+import baseGamingSetsJSON from "./weapons/baseGamingSets.json";
+import baseMeleeWeaponsJSON from "./weapons/baseMeleeWeapons.json";
+import baseMusicalInstrument from "./weapons/baseMusicalInstruments.json";
+import baseRangeWeaponsJSON from "./weapons/baseRangeWeapons.json";
+import baseOtherJSON from "./weapons/baseOther.json"
+import baseAmmuniutionJSON from "./weapons/baseAmmunition.json"
 
-const weaponsJSON = Object.values({ ...baseMeleeWeaponsJSON, ...baseRangeWeaponsJSON })
+const weaponsJSON = [...baseMeleeWeaponsJSON, ...baseRangeWeaponsJSON];
 
 export type BaseItem = {
-    name: string
-    flavorText: string
-    description: string
-    cost: number 
-    costUnit: string,
-    weight: number
-    weightUnit: string
-    properties: string[]
-    requirements: string[]
-    group: string
-    rarity: string
-}
+    name: string;
+    flavorText: string;
+    description: string;
+    cost: number;
+    costUnit: string;
+    weight: number;
+    weightUnit: string;
+    properties: string[];
+    requirements: string[];
+    group: string;
+    rarity: string;
+};
 
 export type Weapon = BaseItem & {
-    damage: string
-    damageTypes: string[]
-    range: string
-}
-
+    damage: string;
+    damageTypes: string[];
+    range: string;
+};
 
 export type Armor = BaseItem & {
-    resistance: string
-    resistanceTypes: string[]
-}
+    resistance: string;
+    resistanceTypes: string[];
+};
 
-export type Item = BaseItem | Weapon | Armor
+export type Item = BaseItem | Weapon | Armor;
 
-export const weapons = writable<Weapon[]>(weaponsJSON.map(json => {
+const transformWeapon = (json: any): Weapon => {
     const {
         Name = "",
         FlavorText = "",
@@ -66,11 +69,9 @@ export const weapons = writable<Weapon[]>(weaponsJSON.map(json => {
         rarity: Rarity,
         range: Range,
     };
-}));
+};
 
-
-
-export const armors = writable<Armor[]>(baseArmorJSON.map(json => {
+const transformArmor = (json: any): Armor => {
     const {
         Name = "",
         FlavorText = "",
@@ -101,15 +102,60 @@ export const armors = writable<Armor[]>(baseArmorJSON.map(json => {
         group: Group,
         rarity: Rarity,
     };
-}));
-
-export const allItems = writable<Item[]>([]);
-
-const updateAllItems = () => {
-    const combined = [...get(armors), ...get(weapons)];
-    allItems.set(combined);
 };
 
+const transformBaseItem = (json: any): BaseItem => {
+    const {
+        Name = "",
+        FlavorText = "",
+        Description = "",
+        Cost = 0,
+        CostUnit = "",
+        Weight = 0,
+        WeightUnit = "",
+        Properties = [],
+        Requirements = [],
+        Group = "",
+        Rarity = "",
+    } = json;
 
-armors.subscribe(updateAllItems);
-weapons.subscribe(updateAllItems);
+    return {
+        name: Name,
+        flavorText: FlavorText,
+        description: Description,
+        cost: Cost,
+        costUnit: CostUnit,
+        weight: Weight,
+        weightUnit: WeightUnit,
+        properties: Properties,
+        requirements: Requirements,
+        group: Group,
+        rarity: Rarity,
+    };
+};
+
+export const allItemsMap: { [key: string]: BaseItem[] | Weapon[] | Armor[] } = {
+  armors: baseArmorJSON.map(transformArmor),
+  tools: baseArtisanToolsJSON.map(transformBaseItem),
+  gamingSets: baseGamingSetsJSON.map(transformBaseItem),
+  weapons: weaponsJSON.map(transformWeapon),
+  instruments: baseMusicalInstrument.map(transformBaseItem),
+  otherItems: baseOtherJSON.map(transformBaseItem),
+  ammunition: baseAmmuniutionJSON.map(transformBaseItem),
+};
+
+export const allItems = [...allItemsMap.weapons, ...allItemsMap.armors, ...allItemsMap.tools, ...allItemsMap.gamingSets, ...allItemsMap.instruments, ...allItemsMap.otherItems, ...allItemsMap.ammunition];
+
+
+export function translateFileName(fileName: string): string {
+  const itemFiles: { [key: string]: string } = {
+    "baseArmor.json": "armors",
+    "baseArtisanTools.json": "tools",
+    "baseGamingSets.json": "gamingSets",
+    "baseMeleeWeapons.json": "weapons",
+    "baseMusicalInstruments.json": "instruments",
+    "baseOther.json": "otherItems",
+    "baseAmmunition.json": "ammunition"
+  };
+  return itemFiles[fileName] || ""
+}

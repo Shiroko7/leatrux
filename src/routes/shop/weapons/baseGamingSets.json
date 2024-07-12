@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "Dice set",
+        "Cost": 1,
+        "CostUnit": "sp",
+        "Weight": 0,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Gaming sets",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Playing card set",
+        "Cost": 5,
+        "CostUnit": "sp",
+        "Weight": 0,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Gaming sets",
+        "Rarity": "Standard"
+    }
+]
+

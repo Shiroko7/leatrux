@@ -1,0 +1,190 @@
+[
+    {
+        "Name": "Alchemist’s supplies",
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Brewer’s supplies",
+        "Cost": 20,
+        "CostUnit": "gp",
+        "Weight": 9,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Calligrapher's supplies",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Carpenter’s tools",
+        "Cost": 8,
+        "CostUnit": "gp",
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Cartographer’s tools",
+        "Cost": 15,
+        "CostUnit": "gp",
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Cobbler’s tools",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Cook’s utensils",
+        "Cost": 1,
+        "CostUnit": "gp",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Glassblower’s tools",
+        "Cost": 30,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Jeweler’s tools",
+        "Cost": 25,
+        "CostUnit": "gp",
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Leatherworker’s tools",
+        "Cost": 5,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Mason’s tools",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Painter’s supplies",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Potter’s tools",
+        "Cost": 10,
+        "CostUnit": "gp",
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Smith’s tools",
+        "Cost": 20,
+        "CostUnit": "gp",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Tinker’s tools",
+        "Cost": 50,
+        "CostUnit": "gp",
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Weaver’s tools",
+        "Cost": 1,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    },
+    {
+        "Name": "Woodcarver’s tools",
+        "Cost": 1,
+        "CostUnit": "gp",
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [],
+        "Requirements": [],
+        "Group": "Artisan’s tools",
+        "Rarity": "Standard"
+    }
+]
+
