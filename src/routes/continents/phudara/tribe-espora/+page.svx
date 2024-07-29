@@ -1,0 +1,91 @@
+<script>
+  import Wood from '../../../essence/paths/wood.svx'
+  import Poison from '../../../essence/paths/poison.svx'
+  import Acid from '../../../essence/paths/acid.svx'
+  import Header from '../../../essence/header.svx'
+  import '../../../essence/markdown.css'
+
+  let selectedComponent = 'Poison';
+  let isWoodHovered = false;
+  let isPoisonHovered = false;
+  let isAcidHovered = false;
+
+  function selectComponent(component) {
+    selectedComponent = component;
+  }
+
+</script>
+
+<div style="max-width: 60%; margin: auto; padding-top: 1rem;">
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tribe Espora</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class:selected={selectedComponent === 'Wood'}
+            class:hover={isWoodHovered && selectedComponent !== 'Wood'}
+            on:click={() => selectComponent('Wood')}
+            on:mouseover={() => isWoodHovered = true}
+            on:mouseout={() => isWoodHovered = false}
+          >
+            Wood Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Poison'}
+            class:hover={isPoisonHovered && selectedComponent !== 'Poison'}
+            on:click={() => selectComponent('Poison')}
+            on:mouseover={() => isPoisonHovered = true}
+            on:mouseout={() => isPoisonHovered = false}
+          >
+            Poison Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Acid'}
+            class:hover={isAcidHovered && selectedComponent !== 'Acid'}
+            on:click={() => selectComponent('Acid')}
+            on:mouseover={() => isAcidHovered = true}
+            on:mouseout={() => isAcidHovered = false}
+          >
+            Acid Pillar
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <Header />
+    {#if selectedComponent === 'Wood'}
+      <Wood />
+    {/if}
+    {#if selectedComponent === 'Poison'}
+      <Poison />
+    {/if}
+    {#if selectedComponent === 'Acid'}
+      <Acid />
+    {/if}
+</div>
+
+
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #a6adbb;
+    padding: 8px;
+    text-align: center;
+  }
+  .selected {
+    @apply bg-base-300;
+  }
+  .hover {
+    @apply bg-base-200;
+  }
+</style>
+
+
+

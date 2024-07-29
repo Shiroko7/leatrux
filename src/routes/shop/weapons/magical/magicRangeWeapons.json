@@ -1,0 +1,193 @@
+[
+    {
+        "Name": "Crossbow, Light +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 5,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 80/320)",
+            "Loading",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Crossbow, Light, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Dart +1",
+        "Cost": 500,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 0.25,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Dart, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Shortbow +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 80/320)",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Shortbow, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Sling +1",
+        "Cost": 510,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 0,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 30/120)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Sling, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Blowgun +1",
+        "Cost": 600,
+        "CostUnit": "gp",
+        "Damage": "1+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 25/100)",
+            "Loading"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Blowgun, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Crossbow, Hand +1",
+        "Cost": 850,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 30/120)",
+            "Light",
+            "Loading"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Crossbow, Hand, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Crossbow, Heavy +1",
+        "Cost": 900,
+        "CostUnit": "gp",
+        "Damage": "1d10+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 18,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 100/400)",
+            "Heavy",
+            "Loading",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Crossbow, Heavy, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Longbow +1",
+        "Cost": 950,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Ammunition (range 150/600)",
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Longbow, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Net +1",
+        "Cost": 600,
+        "CostUnit": "gp",
+        "Damage": "-",
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Special",
+            "Thrown (range 5/15)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Net, Magic",
+        "Range": "Ranged",
+        "Rarity": "Uncommon"
+    }
+]
+

@@ -67,16 +67,21 @@
 
   function fuzzySearchByName<T extends Item>(
     Items: T[],
-    searchText: string
+    searchText: string,
+    type: string = "",
   ): T[] {
-    const searcher = new FuzzySearch(Items, [
+    var groups = [
       "group",
       "range",
       "name",
       "properties",
       "requirements",
       "description",
-    ]);
+    ]
+    if (type == "category") {
+        groups = ["group", "range"]
+    } 
+    const searcher = new FuzzySearch(Items, groups);
     const res = searcher.search(searchText) 
     filterItemsLength = res.length
     return res;
@@ -85,9 +90,8 @@
   function displayPropAndReq(Item: Item): string {
     const props = Item.properties ?? [];
     const reqs = Item.requirements ?? [];
-    const rarity = Item.rarity ?? "";
 
-    const combined = [rarity, ...props, ...reqs];
+    const combined = [...props, ...reqs];
     const result = combined.filter(Boolean).join(", ");
 
     return result ? result : "";
@@ -160,6 +164,8 @@
       </thead>
       <tbody>
         <tr on:click={() => toggleCategory("")}><td>All</td></tr>
+        <tr on:click={() => toggleCategory("Magic")}><td>Magic Items</td></tr>
+        <tr on:click={() => toggleCategory("Consumable")}><td>Consumables</td></tr>
         <tr on:click={() => toggleCategory("Armor")}><td>Armor</td></tr>
         <tr on:click={() => toggleCategory("Melee")}><td>Melee Weapons</td></tr>
         <tr on:click={() => toggleCategory("Range")}><td>Range Weapons</td></tr>
@@ -251,7 +257,7 @@
         </tr>
       </thead>
       <tbody>
-        {#each fuzzySearchByName(fuzzySearchByName($merchantItems, selectedCategory), searchFilter) as item (item)}
+        {#each fuzzySearchByName(fuzzySearchByName($merchantItems, selectedCategory, "category"), searchFilter) as item (item)}
           <tr
             class:selected={clickedItem === item}
             on:click={() => toggleSelection(item)}
@@ -274,19 +280,19 @@
   <!-- Item Details -->
   <div class="flex-none w-1/4 m-2 bg-primary-content p-4">
     {#if selectedItem}
-      <div class="text-2xl">
+      <div class="text-4xl">
         {selectedItem.name} 
       </div>
       <div>
         {@html colorRarity(selectedItem.rarity)}
       </div>
-      <div class="text-xs py-4">
+      <div class="py-4">
         <i>{displayPropAndReq(selectedItem)}</i>
       </div>
       <div>
         <p><i>{selectedItem.flavorText}</i></p>
       </div>
-      <div class="text-xs pb-2">
+      <div class="pb-2">
         <p>{selectedItem.description}</p>
       </div>
 
@@ -312,16 +318,20 @@
         {/if}
       {/if}
 
+      {#if selectedItem.weight > 0 && selectedItem.weightUnit != ""}
       <div>
         <strong>Weight:</strong>
         {selectedItem.weight}
         {selectedItem.weightUnit}
       </div>
+      {/if}
+      {#if selectedItem.cost > 0 && selectedItem.costUnit != ""}
       <div>
         <strong>Cost:</strong>
         {selectedItem.cost}
         {selectedItem.costUnit}
       </div>
+      {/if}
     {/if}
   </div>
 </div>

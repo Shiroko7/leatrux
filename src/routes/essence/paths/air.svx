@@ -1,0 +1,30 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Misty Escape:** When you take damage, you can use your reaction to turn into a cloud of mist, causing the attack to miss. You must spend a spell slot of 1st level or higher to use this ability. Can be used once per short or long rest.
+- **Mistbound Step:** The Misty Step spell does not consume a spell slot if you begin or end your movement in a heavily obscured area.
+- **Misty Veil:** You can create a shroud of mist around you that obscures your appearance, granting advantage on Stealth checks to hide and disadvantage on Insight checks to discern your true intentions. This effect lasts for 1 hour and can be used once per long rest.
+- **Wind Sprint:** You can double your movement speed for 1 minute. You must spend a short or long rest to use this ability again.
+- **Thunderous Roar:** You can let out a powerful roar that creates a shockwave, forcing all creatures within 10 feet to make a Constitution saving throw or be pushed 10 feet away from you and become deafened for 1 minute. This ability can be used once per short or long rest.
+- **Gale Force Strike:** When you hit a creature with a melee attack, you can choose to create a gust of wind that pushes the creature 5 feet away from you. This effect can be used once per turn.
+- **Sound Analysis:** You can accurately determine the source and direction of any sound within 300 feet of you. This ability can be used to track creatures or detect hidden enemies. It provides you advantage on Wisdom (Perception) checks related to sound.
+
+**Cantrips:**
+- [Gust](https://www.dandwiki.com/wiki/Gust_(5e_Spell) "Gust (5e Spell)")
+- [Thunderclap](https://www.dandwiki.com/wiki/Thunderclap_(5e_Spell) "Thunderclap (5e Spell)")
+
+**1st Level Spells:**
+- [Fog cloud](https://www.dandwiki.com/wiki/Fog_Cloud_(5e_Spell) "Fog Cloud (5e Spell)")
+- [Feather fall](https://www.dandwiki.com/wiki/Feather_Fall_(5e_Spell) "Feather Fall (5e Spell)")
+- [Jump](https://www.dandwiki.com/wiki/Jump_(5e_Spell) "Jump (5e Spell)")
+- [Thunderwave](https://www.dandwiki.com/wiki/Thunderwave_(5e_Spell) "Thunderwave (5e Spell)")
+- [Warding wind](https://www.dandwiki.com/wiki/Warding_Wind_(5e_Spell) "Warding Wind (5e Spell)")
+
+**2nd Level Spells:**
+- [Misty step](https://www.dandwiki.com/wiki/Misty_Step_(5e_Spell) "Misty Step (5e Spell)")
+- [Dust devil](https://www.dandwiki.com/wiki/Dust_Devil_(5e_Spell) "Dust Devil (5e Spell)")
+- [Gust of wind](https://www.dandwiki.com/wiki/Gust_of_Wind_(5e_Spell) "Gust of Wind (5e Spell)")
+- [Shatter](https://www.dandwiki.com/wiki/Shatter_(5e_Spell) "Shatter (5e Spell)")
+- [Silence](https://www.dandwiki.com/wiki/Silence_(5e_Spell) "Silence (5e Spell)")
+

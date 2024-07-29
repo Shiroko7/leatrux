@@ -1,0 +1,28 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Echoes of the Deep:** You can communicate with aquatic creatures or spirits of water, allowing you to understand their language and gain information about underwater locations or hidden treasures. This ability lasts for 10 minutes and can be used once per short rest.
+- **Ice Form:** As a bonus action, you can turn your body into ice for 1 minute. You gain resistance to cold and fire damage and your movement speed is reduced by 10 feet. You can use this ability once per long rest.
+- **Raincaller:** You can call forth a light rain within a 20-foot radius centered on you for 10 minutes. This rain lightly obscures the area, granting disadvantage on Perception checks relying on sight and extinguishing small fires.
+- **Restorative Rain:** You can call forth a light rain that provides a soothing effect. As an action, you create a 20-foot radius of rain that lasts for 10 minutes. Allies within the rain remove one level of exhaustion, and every round, they regain 1 hit point. Usable once per long rest.
+- **Aqua Agility**: Your swimming speed equals your walking speed and you can move through difficult terrain in water (like underwater vegetation or currents) at normal speed without penalty.
+
+**Cantrips:**
+- [Acid splash](https://www.dandwiki.com/wiki/Acid_Splash_(5e_Spell) "Acid Splash (5e Spell)")
+- [Frostbite](https://www.dandwiki.com/wiki/Frostbite_(5e_Spell) "Frostbite (5e Spell)")
+- [Ray of frost](https://www.dandwiki.com/wiki/Ray_of_Frost_(5e_Spell) "Ray of Frost (5e Spell)")
+- [Shape water](https://www.dandwiki.com/wiki/Shape_Water_(5e_Spell) "Shape Water (5e Spell)")
+
+**1st Level Spells:**
+- [Create or destroy water](https://www.dandwiki.com/wiki/Create_or_Destroy_Water_(5e_Spell) "Create or Destroy Water (5e Spell)")
+- [Detect poison and disease](https://www.dandwiki.com/wiki/Detect_Poison_and_Disease_(5e_Spell) "Detect Poison and Disease (5e Spell)")
+- [Fog cloud](https://www.dandwiki.com/wiki/Fog_Cloud_(5e_Spell) "Fog Cloud (5e Spell)")
+- [Grease](https://www.dandwiki.com/wiki/Grease_(5e_Spell) "Grease (5e Spell)")
+- [Ice knife](https://www.dandwiki.com/wiki/Ice_Knife_(5e_Spell) "Ice Knife (5e Spell)")
+
+**2nd Level Spells:**
+- [Acid arrow](https://www.dandwiki.com/wiki/Acid_Arrow_(5e_Spell) "Acid Arrow (5e Spell)")
+- [Protection from poison](https://www.dandwiki.com/wiki/Protection_from_Poison_(5e_Spell) "Protection from Poison (5e Spell)")
+- [Snilloc's snowball swarm](https://www.dandwiki.com/wiki/Snilloc%27s_Snowball_Swarm_(5e_Spell) "Snilloc's Snowball Swarm (5e Spell)")
+- [Misty step](https://www.dandwiki.com/wiki/Misty_Step_(5e_Spell) "Misty Step (5e Spell)")

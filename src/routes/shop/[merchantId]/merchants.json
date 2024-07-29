@@ -1,200 +1,256 @@
 {
-  "tribu-lluvia": [
-    {
-      "filename": "baseArmor.json",
-      "items": [
-        "Padded",
-        "Leather",
-        "Studded Leather",
-        "Hide",
-        "Ring Mail"
-      ]
-    },
-    {
-      "filename": "baseMeleeWeapons.json",
-      "items": [
-        "Club",
-        "Dagger",
-        "Greatclub",
-        "Javelin",
-        "Light hammer",
-        "Quarterstaff",
-        "Trident",
-        "Whip"
-      ]
-    },
-    {
-      "filename": "baseRangeWeapons.json",
-      "items": [
-        "Dart",
-        "Shortbow",
-        "Sling",
-        "Longbow",
-        "Net"
-      ]
-    },
-    {
-      "filename": "baseArtisanTools.json",
-      "items": [
-        "Alchemist’s supplies",
-        "Brewer’s supplies",
-        "Calligrapher's supplies",
-        "Cobbler’s tools",
-        "Cook’s utensils",
-        "Jeweler’s tools",
-        "Leatherworker’s tools",
-        "Mason’s tools",
-        "Painter’s supplies",
-        "Potter’s tools",
-        "Weaver’s tools"
-      ]
-    },
-    {
-      "filename": "baseGamingSets.json",
-       "items": [
-        "Playing card set"
-      ]
-    },
-    {
-      "filename": "baseMusicalInstruments.json",
-       "items": [
-        "Flute",
-        "Pan flute",
-        "Drum"
-      ]
-    },
-    {
-      "filename": "baseAmmunition.json",
-       "items": [
-        "Arrows (20)",
-        "Sling bullets (20)"
-      ]
-    }
-  ],
-  "tribu-espora": [
-    {
-      "filename": "baseArmor.json",
-      "items": [
-        "Padded",
-        "Leather",
-        "Studded Leather",
-        "Hide",
-        "Ring Mail",
-        "Shield"
-      ]
-    },
-    {
-      "filename": "baseMeleeWeapons.json",
-      "items": [
-        "Club",
-        "Dagger",
-        "Greatclub",
-        "Javelin",
-        "Light hammer",
-        "Quarterstaff",
-        "Whip"
-      ]
-    },
-    {
-      "filename": "baseRangeWeapons.json",
-      "items": [
-        "Dart",
-        "Blowgun",
-        "Shortbow",
-        "Sling",
-        "Longbow",
-        "Net",
-        "Crossbow, Light",
-        "Crossbow, Hand",
-        "Crossbow, Heavy"
-      ]
-    },
-    {
-      "filename": "baseArtisanTools.json",
-      "items": [
-        "Alchemist’s supplies",
-        "Brewer’s supplies",
-        "Carpenter’s tools",
-        "Cook’s utensils",
-        "Mason’s tools",
-        "Painter’s supplies",
-        "Potter’s tools",
-        "Tinker’s tools",
-        "Woodcarver’s tools"
-      ]
-    },
-    {
-      "filename": "baseMusicalInstruments.json",
-       "items": [
-        "Viol",
-        "Lute",
-        "Drum"
-      ]
-    },
-    {
-      "filename": "baseAmmunition.json",
-       "items": [
-        "Arrows (20)",
-        "Blowgun needles (50)",
-        "Crossbow bolts (20)",
-        "Sling bullets (20)"
-      ]
-    }
-  ],
-  "tribu-llamarada": [
-    {
-      "filename": "baseArmor.json",
-      "items": ["*"]
-    },
-    {
-      "filename": "baseMeleeWeapons.json",
-      "items": ["*"]
-    },
-    {
-      "filename": "baseRangeWeapons.json",
-      "items": ["*"]
-    },
-    {
-      "filename": "baseArtisanTools.json",
-      "items": [
-        "Alchemist’s supplies",
-        "Brewer’s supplies",
-        "Calligrapher's supplies",
-        "Carpenter’s tools",
-        "Cook’s utensils",
-        "Cobbler’s tools",
-        "Glassblower’s tools",
-        "Jeweler’s tools",
-        "Leatherworker’s tools",
-        "Mason’s tools",
-        "Potter’s tools",
-        "Smith’s tools",
-        "Tinker’s tools"
-      ]
-    },
-    {
-      "filename": "baseGamingSets.json",
-       "items": [
-        "Dice set"
-      ]
-    },
-    {
-      "filename": "baseMusicalInstruments.json",
-       "items": [
-        "Horn",
-        "Shawm",
-        "Drum"
-      ]
-    },
-    {
-      "filename": "baseAmmunition.json",
-       "items": [
-        "Arrows (20)",
-        "Blowgun needles (50)",
-        "Crossbow bolts (20)",
-        "Sling bullets (20)"
-      ]
-    }
-  ]
+    "tribu-lluvia": [
+        {
+            "filename": "baseArmor.json",
+            "items": [
+                "Padded",
+                "Leather",
+                "Studded Leather",
+                "Hide",
+                "Ring Mail"
+            ]
+        },
+        {
+            "filename": "baseMeleeWeapons.json",
+            "items": [
+                "Club",
+                "Dagger",
+                "Greatclub",
+                "Javelin",
+                "Light hammer",
+                "Quarterstaff",
+                "Trident",
+                "Whip"
+            ]
+        },
+        {
+            "filename": "baseRangeWeapons.json",
+            "items": ["Dart", "Shortbow", "Sling", "Longbow", "Net"]
+        },
+        {
+            "filename": "baseArtisanTools.json",
+            "items": [
+                "Alchemist’s supplies",
+                "Brewer’s supplies",
+                "Calligrapher's supplies",
+                "Cobbler’s tools",
+                "Cook’s utensils",
+                "Jeweler’s tools",
+                "Leatherworker’s tools",
+                "Mason’s tools",
+                "Painter’s supplies",
+                "Potter’s tools",
+                "Weaver’s tools"
+            ]
+        },
+        {
+            "filename": "baseGamingSets.json",
+            "items": ["Playing card set"]
+        },
+        {
+            "filename": "baseMusicalInstruments.json",
+            "items": ["Flute", "Pan flute", "Drum"]
+        },
+        {
+            "filename": "baseAmmunition.json",
+            "items": ["Arrows (20)", "Sling bullets (20)"]
+        },
+        {
+            "filename": "magical/magicItems.json",
+            "items": [
+                "Galecaller Ring",
+                "Cloak of the Manta Ray",
+                "Mist Veil Cloak",
+                "Ring of Cold Resistance",
+                "Wand of the Healing Tides",
+                "Coral Scepter"
+            ]
+        },
+        {
+            "filename": "magical/consumables.json",
+            "items": [
+                "Potion of Cold Resistance",
+                "Potion of Water Breathing"
+            ]
+        },
+        {
+            "filename": "magical/magicMeleeWeapons.json",
+            "items": ["Quarterstaff +1", "Shortbow +1", "Longbow +1"]
+        },
+        {
+            "filename": "magical/magicArmor.json",
+            "items": ["Studded Leather +1"]
+        }
+    ],
+    "tribu-espora": [
+        {
+            "filename": "baseArmor.json",
+            "items": [
+                "Padded",
+                "Leather",
+                "Studded Leather",
+                "Hide",
+                "Ring Mail",
+                "Shield"
+            ]
+        },
+        {
+            "filename": "baseMeleeWeapons.json",
+            "items": [
+                "Club",
+                "Dagger",
+                "Greatclub",
+                "Javelin",
+                "Light hammer",
+                "Quarterstaff",
+                "Whip"
+            ]
+        },
+        {
+            "filename": "baseRangeWeapons.json",
+            "items": [
+                "Dart",
+                "Blowgun",
+                "Shortbow",
+                "Sling",
+                "Longbow",
+                "Net",
+                "Crossbow, Light",
+                "Crossbow, Hand",
+                "Crossbow, Heavy"
+            ]
+        },
+        {
+            "filename": "baseArtisanTools.json",
+            "items": [
+                "Alchemist’s supplies",
+                "Brewer’s supplies",
+                "Carpenter’s tools",
+                "Cook’s utensils",
+                "Mason’s tools",
+                "Painter’s supplies",
+                "Potter’s tools",
+                "Tinker’s tools",
+                "Woodcarver’s tools"
+            ]
+        },
+        {
+            "filename": "baseMusicalInstruments.json",
+            "items": ["Viol", "Lute", "Drum"]
+        },
+        {
+            "filename": "baseAmmunition.json",
+            "items": [
+                "Arrows (20)",
+                "Blowgun needles (50)",
+                "Crossbow bolts (20)",
+                "Sling bullets (20)"
+            ]
+        },
+        {
+            "filename": "magical/magicItems.json",
+            "items": [
+                "Toadstool Cap",
+                "Woodland Amulet",
+                "Ring of Poison Resistance"
+            ]
+        },
+        {
+            "filename": "magical/consumables.json",
+            "items": [
+                "Potion of Poison Resistance",
+                "Potion of Reduce", 
+                "Potion of Enlarge"
+            ]
+        },
+        {
+            "filename": "magical/magicMeleeWeapons.json",
+            "items": [
+                "Club +1", 
+                "Vine Whip +1",
+                "Greatclub +1,", 
+                "Crossbow, Hand +1", 
+                "Crossbow, Light +1", 
+                "Crossbow, Heavy +1"
+            ]
+        },
+        {
+            "filename": "magical/magicArmor.json",
+            "items": ["Hide +1"]
+        }
+    ],
+    "tribu-llamarada": [
+        {
+            "filename": "baseArmor.json",
+            "items": ["*"]
+        },
+        {
+            "filename": "baseMeleeWeapons.json",
+            "items": ["*"]
+        },
+        {
+            "filename": "baseRangeWeapons.json",
+            "items": ["*"]
+        },
+        {
+            "filename": "baseArtisanTools.json",
+            "items": [
+                "Alchemist’s supplies",
+                "Brewer’s supplies",
+                "Calligrapher's supplies",
+                "Carpenter’s tools",
+                "Cook’s utensils",
+                "Cobbler’s tools",
+                "Glassblower’s tools",
+                "Jeweler’s tools",
+                "Leatherworker’s tools",
+                "Mason’s tools",
+                "Potter’s tools",
+                "Smith’s tools",
+                "Tinker’s tools"
+            ]
+        },
+        {
+            "filename": "baseGamingSets.json",
+            "items": ["Dice set"]
+        },
+        {
+            "filename": "baseMusicalInstruments.json",
+            "items": ["Horn", "Shawm", "Drum"]
+        },
+        {
+            "filename": "baseAmmunition.json",
+            "items": [
+                "Arrows (20)",
+                "Blowgun needles (50)",
+                "Crossbow bolts (20)",
+                "Sling bullets (20)"
+            ]
+        },
+        {
+            "filename": "magical/magicItems.json",
+            "items": [
+                "Ring of Fire Resistance",
+                "Cinderstorm Gloves",
+                "Belt of Fiery Fortitude"
+            ]
+        },
+        {
+            "filename": "magical/consumables.json",
+            "items": [
+                "Potion of Fire Resistance"
+            ]
+        },
+        {
+            "filename": "magical/magicMeleeWeapons.json",
+            "items": [
+                "Scimitar +1",
+                "Maul +1"
+            ]
+        },
+        {
+            "filename": "magical/magicArmor.json",
+            "items": ["Breastplate +1", "Plate +1"]
+        }
+    ]
 }
-

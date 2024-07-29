@@ -1,0 +1,23 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Acid Resistance**: Gain resistance to acid damage. You are unaffected by acidic environments and can handle corrosive substances without harm.
+- **Expanded Explosion**: Your expertise in crafting explosives has improved the effectiveness of your bombs. When you create or use an explosive device, you increase its radius by 5 feet. For example, a bomb that normally affects a 10-foot radius now affects a 15-foot radius. This increased radius applies to all explosive effects you create, including those from your Improvised Explosives and any similar abilities.
+- **Caustic Bomb**: As an action, you can create a powerful, improvised explosive from available materials. It deals 3d6 acid damage in a 10-foot radius on a failed Dexterity saving throw, or half as much on a successful save. You can use this ability once per long rest.
+- **Alchemy Proficiency**: Gain proficiency in Alchemist’s Supplies. You can craft basic alchemical substances, such as acid flasks, potions of healing, and other simple concoctions.
+- **Acidic Insight**: You have developed a keen understanding of acidic substances and their effects. You gain advantage on Intelligence (Arcana) and Wisdom (Nature) checks related to acids, alchemical reactions, and chemical processes. This knowledge allows you to identify and analyze unknown substances or toxins with ease.
+
+**Cantrips:**
+- [Acid Splash](https://5e.tools/spells.html#acid%20splash_phb)
+- [Primal Savagery](https://5e.tools/spells.html#primal%20savagery_xge)
+
+**1st Level Spells:**
+- [Absorb Elements](https://5e.tools/spells.html#absorb%20elements_xge)
+- [Chromatic Orb](https://5e.tools/spells.html#chromatic%20orb_phb)
+- [Chaos Bolt](https://5e.tools/spells.html#chaos%20bolt_xge)
+
+**2nd Level Spells:**
+- [Melf's Acid Arrow ](https://5e.tools/spells.html#melf's%20acid%20arrow_phb)
+- [Dragon's Breath](https://5e.tools/spells.html#dragon's%20breath_xge)
+

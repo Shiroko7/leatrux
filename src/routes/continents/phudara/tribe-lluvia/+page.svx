@@ -1,0 +1,89 @@
+<script>
+  import Air from '../../../essence/paths/air.svx'
+  import Water from '../../../essence/paths/water.svx'
+  import Lightning from '../../../essence/paths/lightning.svx'
+  import Header from '../../../essence/header.svx'
+  import '../../../essence/markdown.css'
+
+  let selectedComponent = 'Water';
+  let isAirHovered = false;
+  let isWaterHovered = false;
+  let isLightningHovered = false;
+
+  function selectComponent(component) {
+    selectedComponent = component;
+  }
+
+</script>
+
+<div style="max-width: 60%; margin: auto; padding-top: 1rem;">
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tribe Lluvia</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class:selected={selectedComponent === 'Air'}
+            class:hover={isAirHovered && selectedComponent !== 'Air'}
+            on:click={() => selectComponent('Air')}
+            on:mouseover={() => isAirHovered = true}
+            on:mouseout={() => isAirHovered = false}
+          >
+            Air Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Water'}
+            class:hover={isWaterHovered && selectedComponent !== 'Water'}
+            on:click={() => selectComponent('Water')}
+            on:mouseover={() => isWaterHovered = true}
+            on:mouseout={() => isWaterHovered = false}
+          >
+            Water Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Lightning'}
+            class:hover={isLightningHovered && selectedComponent !== 'Lightning'}
+            on:click={() => selectComponent('Lightning')}
+            on:mouseover={() => isLightningHovered = true}
+            on:mouseout={() => isLightningHovered = false}
+          >
+          ?
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <Header />
+    {#if selectedComponent === 'Air'}
+      <Air />
+    {/if}
+    {#if selectedComponent === 'Water'}
+      <Water />
+    {/if}
+    {#if selectedComponent === 'Lightning'}
+    {/if}
+</div>
+
+
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #a6adbb;
+    padding: 8px;
+    text-align: center;
+  }
+  .selected {
+    @apply bg-base-300;
+  }
+  .hover {
+    @apply bg-base-200;
+  }
+</style>
+
+

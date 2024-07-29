@@ -1,0 +1,18 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Thunderous Strike**: When you hit a creature with a melee weapon attack, you can channel the force of a thunderstorm into your strike. The target must succeed on a Constitution saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier, your choice) or be stunned until the end of your next turn. This ability can only be used once per turn, and once a creature is stunned by this ability, it cannot be stunned again by it for 1 minute. You can use this ability a number of times equal to your proficiency bonus per long rest. 
+- **Static Reflexes:** You gain advantage on Dexterity saving throws against effects that deal lightning damage or require quick reflexes, such as traps or spells.
+- **Lightning Step**: As a bonus action, you can harness the power of lightning to enhance your movement. Your jump distance is tripled, and your movement does not provoke opportunity attacks until the end of your turn. You can use this ability a number of times equal to your proficiency bonus per long rest.
+- **Stormborn Presence:** You can channel the power of storms to influence others. Once per long rest, you can use your Charisma (Persuasion) or Charisma (Intimidation) checks to sway a group of people, inspired by your stormy presence.
+- **Storm Navigator:** You gain proficiency in Navigator’s Tools and have advantage on Wisdom (Survival) checks made to navigate or map out sea routes in stormy weather. Your understanding of storms helps you predict their patterns and avoid hazards.
+- **Lightning Insight:** When on or near water, you can use your connection to lightning to sense changes in weather. You can use a bonus action to gain advantage on Wisdom (Perception) checks to spot distant ships, landmarks, or other navigation hazards.
+
+**Cantrips:**
+- [Lightning lure](https://www.dandwiki.com/wiki/Lightning_Lure_(5e_Spell) "Lightning Lure (5e Spell)")
+- [Shocking grasp](https://www.dandwiki.com/wiki/Shocking_Grasp_(5e_Spell) "Shocking Grasp (5e Spell)")
+
+**1st Level Spells:**
+- [Witch bolt](https://www.dandwiki.com/wiki/Witch_Bolt_(5e_Spell) "Witch Bolt (5e Spell)")
+

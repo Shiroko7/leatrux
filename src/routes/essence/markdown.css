@@ -1,0 +1,54 @@
+* {
+    margin-bottom: 1em;
+}
+:root {
+    --base-font-size: 14px; /* Replace X with your desired base font size */
+}
+
+body {
+    font-size: var(--base-font-size);
+}
+
+h1 {
+    font-size: 2em; /* Adjust multiplier as needed */
+}
+
+h2 {
+    font-size: 1.5em; /* Adjust multiplier as needed */
+}
+
+h3 {
+    font-size: 1.25em; /* Adjust multiplier as needed */
+}
+
+h4 {
+    font-size: 1.1em; /* Adjust multiplier as needed */
+}
+
+h5 {
+    font-size: 1.05em; /* Adjust multiplier as needed */
+}
+
+h6 {
+    font-size: 1em; /* This could be smaller if desired */
+}
+
+ul {
+    padding-left: 2em;
+}
+li {
+    margin-bottom: 0;
+    list-style: disc;
+}
+a {
+    color: #8c8cff
+}
+a:visited {
+    color: #ffadff
+}
+a:active {
+    color: #ff6666
+}
+a:hover {
+    text-decoration-line: underline;
+}

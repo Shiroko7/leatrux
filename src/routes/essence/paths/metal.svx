@@ -1,0 +1,17 @@
+## **Initiate****
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Metalcrafting:** Gain proficiency with smith's tools if you don't already have it. When you use smith's tools, you can craft metal items (weapons, armor, etc.) in half the normal time.
+- **Magnetic Attraction:** Once per short rest, you can use a bonus action to pull or push a metal object weighing up to 10 pounds up to 10 feet towards or away from you. This can be used to manipulate weapons, tools, or similar objects in combat or to solve puzzles.
+- **Metal Sense:** You can detect the presence of metal within 30 feet of you. You sense the type and general location of metal objects, including hidden compartments or concealed weapons.
+- **Keen Edge:** You can use a bonus action to temporarily sharpen a weapon, granting it a +1 bonus to attack rolls and damage rolls for the next minute. You can use this ability a number of times equal to your proficiency bonus per long rest.
+- **Magnetic Focus:** As a bonus action, you can magnetically attract a metal weapon you can see within 30 feet of you to your hand. This weapon does not provoke opportunity attacks while being drawn.
+
+**Cantrips:**
+- [Blade ward](https://www.dandwiki.com/wiki/Blade_Ward_(5e_Spell) "Blade Ward (5e Spell)")
+- [Sword burst](https://www.dandwiki.com/wiki/Sword_Burst_(5e_Spell) "Sword Burst (5e Spell)")
+
+**2nd Level Spells:**
+- [Cloud of daggers](https://www.dandwiki.com/wiki/Cloud_of_Daggers_(5e_Spell) "Cloud of Daggers (5e Spell)")
+- [Heat metal](https://www.dandwiki.com/wiki/Heat_Metal_(5e_Spell) "Heat Metal (5e Spell)")

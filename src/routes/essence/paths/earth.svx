@@ -1,0 +1,21 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Stonecunning:** Gain proficiency in History. If already proficient, add double your proficiency bonus to History checks related to the origin of stonework.
+- **Miner's Touch:** Gain proficiency with mason’s tools and miner’s tools.
+- **Rock Whisperer:** You can communicate simple ideas with earth elementals and creatures of stone.
+- **Earth Sense:** You have advantage on Survival and Perception checks to navigate underground or in rocky terrain.
+- **Stone Fist:** Your unarmed strikes deal 1d6 bludgeoning damage and count as magical for overcoming resistance and immunity.
+- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). The target must succeed on a Dexterity saving throw or be knocked prone.
+
+**Cantrips:**
+- [Magic stone](https://www.dandwiki.com/wiki/Magic_Stone_(5e_Spell) "Magic Stone (5e Spell)")
+- [Mold earth](https://www.dandwiki.com/wiki/Mold_Earth_(5e_Spell) "Mold Earth (5e Spell)")
+
+**1st Level Spells:**
+- [Earth tremor](https://www.dandwiki.com/wiki/Earth_Tremor_(5e_Spell) "Earth Tremor (5e Spell)")
+
+**2nd Level Spells:**
+- [Earthbind](https://www.dandwiki.com/wiki/Earthbind_(5e_Spell) "Earthbind (5e Spell)")
+- [Maximilian's earthen grasp](https://www.dandwiki.com/wiki/Maximilian%E2%80%99s_Earthen_Grasp_(5e_Spell) "Maximilian’s Earthen Grasp (5e Spell)")

@@ -1,0 +1,88 @@
+<script>
+  import Fire from './paths/fire.svx'
+  import Earth from './paths/earth.svx'
+  import Metal from './paths/metal.svx'
+  import Header from './header.svx'
+  import './markdown.css'
+
+  let selectedComponent = 'Earth';
+  let isFireHovered = false;
+  let isEarthHovered = false;
+  let isMetalHovered = false;
+
+  function selectComponent(component) {
+    selectedComponent = component;
+  }
+
+</script>
+
+<div style="max-width: 60%; margin: auto; padding-top: 1rem;">
+              <Header />
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tribe Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            class:selected={selectedComponent === 'Fire'}
+            class:hover={isFireHovered && selectedComponent !== 'Fire'}
+            on:click={() => selectComponent('Fire')}
+            on:mouseover={() => isFireHovered = true}
+            on:mouseout={() => isFireHovered = false}
+          >
+            Fire Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Earth'}
+            class:hover={isEarthHovered && selectedComponent !== 'Earth'}
+            on:click={() => selectComponent('Earth')}
+            on:mouseover={() => isEarthHovered = true}
+            on:mouseout={() => isEarthHovered = false}
+          >
+            Earth Pillar
+          </td>
+          <td
+            class:selected={selectedComponent === 'Metal'}
+            class:hover={isMetalHovered && selectedComponent !== 'Metal'}
+            on:click={() => selectComponent('Metal')}
+            on:mouseover={() => isMetalHovered = true}
+            on:mouseout={() => isMetalHovered = false}
+          >
+            Metal Pillar
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    {#if selectedComponent === 'Fire'}
+      <Fire />
+    {/if}
+    {#if selectedComponent === 'Earth'}
+      <Earth />
+    {/if}
+    {#if selectedComponent === 'Metal'}
+      <Metal />
+    {/if}
+</div>
+
+
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #a6adbb;
+    padding: 8px;
+    text-align: center;
+  }
+  .selected {
+    @apply bg-base-300;
+  }
+  .hover {
+    @apply bg-base-200;
+  }
+</style>

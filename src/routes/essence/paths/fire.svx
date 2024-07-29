@@ -1,0 +1,27 @@
+## **Initiate**
+_Each ability costs 1 talent point_
+
+**Abilities:**
+- **Flame Ward:** You have advantage on saving throws against being frightened or charmed while within 10 feet of a source of fire or heat.
+- **Searing Gaze:** When you focus intently on a creature for 1 minute, you can attempt an Intimidation check. If successful, the creature is unsettled and has disadvantage on saving throws against being frightened or charmed by you for 1 hour. This ability can only be used once per long rest.
+- **Flame Lash:** You can use your action to create a whip-like tendril of fire that extends up to 15 feet. Make a melee spell attack against a creature within range. On a hit, the target takes fire damage equal to 1d6 + your spellcasting ability modifier and must make a Dexterity saving throw or be ignited, taking 1d6 fire damage at the start of each of its turns until it uses an action to douse the flames.  
+- **Ember Strike:** When you hit a creature with a weapon attack, you can expend a spell slot to deal an additional 1d6 fire damage per level of the spell slot expended. This damage increases to 2d6 if the spell slot is 3rd level or higher.
+
+**Cantrips:**
+- [Control flames](https://www.dandwiki.com/wiki/Control_Flames_(5e_Spell) "Control Flames (5e Spell)")
+- [Create bonfire](https://www.dandwiki.com/wiki/Create_Bonfire_(5e_Spell) "Create Bonfire (5e Spell)")
+- [Fire bolt](https://www.dandwiki.com/wiki/Fire_Bolt_(5e_Spell) "Fire Bolt (5e Spell)")
+- [Green-flame blade](https://www.dandwiki.com/wiki/Green-Flame_Blade_(5e_Spell) "Green-Flame Blade (5e Spell)") 
+- [Produce flame](https://www.dandwiki.com/wiki/Produce_Flame_(5e_Spell) "Produce Flame (5e Spell)")
+
+**1st Level Spells:**
+- [Burning hands](https://www.dandwiki.com/wiki/Burning_Hands_(5e_Spell) "Burning Hands (5e Spell)")
+- [Hellish rebuke](https://www.dandwiki.com/wiki/Hellish_Rebuke_(5e_Spell) "Hellish Rebuke (5e Spell)")
+
+**2nd Level Spells:**
+- [Aganazzar's scorcher](https://www.dandwiki.com/wiki/Aganazzar%27s_Scorcher_(5e_Spell) "Aganazzar's Scorcher (5e Spell)") 
+- [Continual flame](https://www.dandwiki.com/wiki/Continual_Flame_(5e_Spell) "Continual Flame (5e Spell)")
+- [Flame blade](https://www.dandwiki.com/wiki/Flame_Blade_(5e_Spell) "Flame Blade (5e Spell)")
+- [Flaming sphere](https://www.dandwiki.com/wiki/Flaming_Sphere_(5e_Spell) "Flaming Sphere (5e Spell)")
+- [Scorching ray](https://www.dandwiki.com/wiki/Scorching_Ray_(5e_Spell) "Scorching Ray (5e Spell)")
+

@@ -1,0 +1,193 @@
+[
+    {
+        "Name": "Padded +1",
+        "Cost": 1000,
+        "CostUnit": "gp",
+        "Resistance": "12 AC + Dex modifier",
+        "Weight": 8,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Leather +1",
+        "Cost": 1200,
+        "CostUnit": "gp",
+        "Resistance": "12 AC + Dex modifier",
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Studded Leather +1",
+        "Cost": 1400,
+        "CostUnit": "gp",
+        "Resistance": "13 AC + Dex modifier",
+        "Weight": 13,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Light Armor"
+        ],
+        "Group": "Light Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Hide +1",
+        "Cost": 1600,
+        "CostUnit": "gp",
+        "Resistance": "13 AC + Dex modifier (max 2)",
+        "Weight": 12,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Chain Shirt +1",
+        "Cost": 1800,
+        "CostUnit": "gp",
+        "Resistance": "14 AC + Dex modifier (max 2)",
+        "Weight": 20,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Scale Mail +1",
+        "Cost": 2000,
+        "CostUnit": "gp",
+        "Resistance": "15 AC + Dex modifier (max 2)",
+        "Weight": 45,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Breastplate +1",
+        "Cost": 2500,
+        "CostUnit": "gp",
+        "Resistance": "15 AC + Dex modifier (max 2)",
+        "Weight": 20,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Half Plate +1",
+        "Cost": 3000,
+        "CostUnit": "gp",
+        "Resistance": "16 AC + Dex modifier (max 2)",
+        "Weight": 40,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Medium Armor"
+        ],
+        "Group": "Medium Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Ring Mail +1",
+        "Cost": 3500,
+        "CostUnit": "gp",
+        "Resistance": "15 AC",
+        "Weight": 40,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor"
+        ],
+        "Group": "Heavy Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Chain Mail +1",
+        "Cost": 4000,
+        "CostUnit": "gp",
+        "Resistance": "17 AC",
+        "Weight": 55,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 13"
+        ],
+        "Group": "Heavy Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Splint +1",
+        "Cost": 4500,
+        "CostUnit": "gp",
+        "Resistance": "18 AC",
+        "Weight": 60,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 15"
+        ],
+        "Group": "Heavy Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Plate +1",
+        "Cost": 5000,
+        "CostUnit": "gp",
+        "Resistance": "19 AC",
+        "Weight": 65,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Stealth Disadvantage"
+        ],
+        "Requirements": [
+            "Heavy Armor",
+            "Str 15"
+        ],
+        "Group": "Heavy Armor, Magic",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Shield +1",
+        "Cost": 1500,
+        "CostUnit": "gp",
+        "Resistance": "+3 AC",
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Group": "Shield, Magic",
+        "Rarity": "Uncommon"
+    }
+]
+

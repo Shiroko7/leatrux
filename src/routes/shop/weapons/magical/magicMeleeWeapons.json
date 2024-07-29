@@ -1,0 +1,592 @@
+[
+    {
+        "Name": "Club +1",
+        "Cost": 500,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Club, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Dagger +1",
+        "Cost": 510,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 1,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Dagger, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Greatclub +1",
+        "Cost": 520,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Greatclub, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Handaxe +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Handaxe, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Javelin +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 30/120)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Javelin, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Light hammer +1",
+        "Cost": 510,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light",
+            "Thrown (range 20/60)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Light hammer, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Mace +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Mace, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Quarterstaff +1",
+        "Cost": 510,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d8+1)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Quarterstaff, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Sickle +1",
+        "Cost": 505,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Light"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Sickle, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Spear +1",
+        "Cost": 505,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 20/60)",
+            "Versatile (1d8+1)"
+        ],
+        "Requirements": [
+            "Simple"
+        ],
+        "Group": "Spear, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Battleaxe +1",
+        "Cost": 700,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10+1)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Battleaxe, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Flail +1",
+        "Cost": 700,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Flail, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Glaive +1",
+        "Cost": 900,
+        "CostUnit": "gp",
+        "Damage": "1d10+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Reach",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Glaive, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Greataxe +1",
+        "Cost": 950,
+        "CostUnit": "gp",
+        "Damage": "1d12+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 7,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Greataxe, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Greatsword +1",
+        "Cost": 1000,
+        "CostUnit": "gp",
+        "Damage": "2d6+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Greatsword, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Halberd +1",
+        "Cost": 900,
+        "CostUnit": "gp",
+        "Damage": "1d10+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Reach",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Halberd, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Lance +1",
+        "Cost": 800,
+        "CostUnit": "gp",
+        "Damage": "1d12+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 6,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Reach",
+            "Special"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Lance, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Longsword +1",
+        "Cost": 700,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10+1)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Longsword, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Maul +1",
+        "Cost": 750,
+        "CostUnit": "gp",
+        "Damage": "2d6+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 10,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Maul, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Morningstar +1",
+        "Cost": 650,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Morningstar, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Pike +1",
+        "Cost": 750,
+        "CostUnit": "gp",
+        "Damage": "1d10+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 18,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Heavy",
+            "Reach",
+            "Two-handed"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Pike, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Rapier +1",
+        "Cost": 725,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Rapier, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Scimitar +1",
+        "Cost": 725,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Scimitar, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Shortsword +1",
+        "Cost": 510,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Light"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Shortsword, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Trident +1",
+        "Cost": 550,
+        "CostUnit": "gp",
+        "Damage": "1d6+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 4,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Thrown (range 20/60)",
+            "Versatile (1d8+1)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Trident, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "War pick +1",
+        "Cost": 600,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Piercing"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "War pick, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Warhammer +1",
+        "Cost": 750,
+        "CostUnit": "gp",
+        "Damage": "1d8+1",
+        "Damagetypes": [
+            "Bludgeoning"
+        ],
+        "Weight": 2,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Versatile (1d10+1)"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Warhammer, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Whip +1",
+        "Cost": 700,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Reach"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Whip, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    },
+    {
+        "Name": "Vine Whip +1",
+        "Description": "When you hit a creature with this weapon, you can use your reaction to attempt to grapple the creature. The grapple check is contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). The check uses your Strength (Athletics) modifier. Once grappled you can attempt to restrain it using your action",
+        "Cost": 900,
+        "CostUnit": "gp",
+        "Damage": "1d4+1",
+        "Damagetypes": [
+            "Slashing"
+        ],
+        "Weight": 3,
+        "WeightUnit": "lb",
+        "Properties": [
+            "Finesse",
+            "Reach"
+        ],
+        "Requirements": [
+            "Martial"
+        ],
+        "Group": "Whip, Magic",
+        "Range": "Melee",
+        "Rarity": "Uncommon"
+    }
+]
+

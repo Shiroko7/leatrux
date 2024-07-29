@@ -1,0 +1,7 @@
+## **Mastering of the essence**
+Harness power of the elements by acquiring and understanding the raw essence of this newly born world. Each path allows you to learn super-natural abilities to make your way through the world and protect yourself from the elemental chaos.
+
+## **Spellcasting**
+- Alternatively to learning abilities, you can use your talents points to learn elemental-themed spells.
+- Each spell learned through this path can be cast without spending a spell slot once per long rest. They are considered learned spells for you.
+- Your spell-casting ability is your maximum score between CHA, WIS and INT.
