@@ -1,0 +1,35 @@
+# Crafting Rules
+
+**1. Proficiency and Tools:**
+
+- The character must be proficient with an herbalism kit and have access to a workspace.
+
+**2. Formula and Ingredients:**
+
+- A character must have a formula for the potion. They also need the necessary ingredients, which can sometimes involve special or rare components.
+
+**3. Crafting Process:**
+
+- Crafting a potion involves mixing ingredients and brewing them over a period of time. The time required depends on the potion's rarity.
+
+| Potion Rarity | Crafting Time |
+| ------------- | ------------- |
+| Common        | 1 day         |
+| Uncommon      | 1 workweek    |
+| Rare          | 2 workweeks   |
+| Very Rare     | 3 workweeks   |
+| Legendary     | 4 workweeks   |
+
+**4. Checks:**
+
+- At the end of the crafting process, the character may need to make an Intelligence (Arcana) check or a Wisdom (Medicine) check, depending on the DM's discretion. This check determines the quality of the potion and whether any complications arise.
+
+
+| Potion Rarity | DC  |
+| ------------- | --- |
+| Common        | 10  |
+| Uncommon      | 15  |
+| Rare          | 20  |
+| Very Rare     | 25  |
+| Legendary     | 30  |
+

@@ -1,0 +1,85 @@
+# Herbolarium
+
+Magic consumables are crafted from a myriad of ingredients and plants. In nature, countless variations exist, but the most renowned plants can often serve as bio-equivalents to fabricate nearly anything with the right formula. The art of concocting potions and pills often yields products that are sold for twice the cost of their fabrication.
+
+| Plant Rarity | Price |
+| ------------ | ----: |
+| Common       |    5g |
+| Uncommon     |   25g |
+| Rare         |  250g |
+| Very Rare    | 1000g |
+| Legendary    | 5000g |
+
+## Acid Plants
+
+- **Common**: **Vinegarwort** – A common herb with sour-smelling leaves.
+- **Uncommon**: **Sourbell** – A plant with bell-shaped flowers that secrete a mild acidic substance.
+- **Rare**: **Bittervine** – A creeping vine that exudes a corrosive sap.
+- **Very Rare**: **Caustic Lily** – A beautiful lily whose petals can dissolve metal.
+- **Legendary**: **Acid Lotus** – A rare lotus found in acidic swamps, capable of secreting a powerful acid.
+
+
+## Earth Plants
+
+- **Common**: **Stonecrop** – A succulent plant that thrives in rocky terrain.
+- **Uncommon**: **Pebblefern** – A fern with fronds resembling small pebbles.
+- **Rare**: **Rockrose** – A hardy plant with flowers that bloom in rocky crevices.
+- **Very Rare**: **Crystal Bloom** – A plant that produces crystalline flowers.
+- **Legendary**: **Earth Lotus** – A lotus that grows in caves and has petals as hard as stone.
+
+
+## Fire Plants
+
+- **Common**: **Flameweed** – A common plant with red-tipped leaves that resemble flames.
+- **Uncommon**: **Ember Bloom** – A flower that glows faintly like embers.
+- **Rare**: **Blazeblossom** – A flower whose petals can ignite when disturbed.
+- **Very Rare**: **Inferno Lily** – A lily that burns with an eternal flame.
+- **Legendary**: **Phoenix Flower** – A mythical flower that bursts into flames upon blooming and regenerates from its ashes.
+
+## Lightning Plants
+
+- **Common**: **Sparkweed** – A plant with leaves that crackle with static electricity.
+- **Uncommon**: **Thunderbell** – A flower that emits a faint humming sound.
+- **Rare**: **Stormvine** – A vine that attracts lightning during storms.
+- **Very Rare**: **Electro Orchid** – An orchid that stores electrical energy.
+- **Legendary**: **Lightning Lotus** – A lotus that releases powerful electrical discharges.
+
+## Metal Plants
+
+- **Common**: **Ironleaf** – A plant with leaves as tough as iron.
+- **Uncommon**: **Silverthorn** – A thorny plant with silver-colored thorns.
+- **Rare**: **Goldbloom** – A flower with petals that shimmer like gold.
+- **Very Rare**: **Platinum Fern** – A rare fern with fronds that shine like platinum.
+- **Legendary**: **Mercury Lotus** – A lotus with petals that reflect light like liquid metal.
+
+## Poison Plants
+
+- **Common**: **Nightshade** – A common poisonous plant with dark berries.
+- **Uncommon**: **Venomvine** – A vine that secretes a mild toxin.
+- **Rare**: **Toxinbloom** – A flower whose pollen is highly toxic.
+- **Very Rare**: **Noxious Lily** – A lily that emits a deadly vapor.
+- **Legendary**: **Poison Lotus** – A rare lotus that produces a lethal toxin.
+
+## Water Plants
+
+- **Common**: **Waterweed** – A common aquatic plant.
+- **Uncommon**: **Frostbell** – A flower that blooms in cold climates.
+- **Rare**: **Ice Fern** – A fern that thrives in icy environments.
+- **Very Rare**: **Glacial Lily** – A lily that blooms on glaciers.
+- **Legendary**: **Water Lotus** – A lotus that grows in the purest waters, with petals that never freeze.
+
+## Wind Plants
+
+- **Common**: **Breezegrass** – A plant with delicate blades that sway in the wind.
+- **Uncommon**: **Gustbloom** – A flower that releases seeds carried by the wind.
+- **Rare**: **Zephyrvine** – A vine that grows in windy areas.
+- **Very Rare**: **Whirlwind Orchid** – An orchid that sways even in still air.
+- **Legendary**: **Wind Lotus** – A lotus that thrives in high altitudes, with petals that flutter in the slightest breeze.
+
+## Wood Plants
+
+- **Common**: **Oakleaf** – A common plant with oak-like leaves.
+- **Uncommon**: **Thornbush** – A bush with sharp thorns.
+- **Rare**: **Barkbloom** – A flower that grows on tree bark.
+- **Very Rare**: **Timber Lily** – A lily that blooms on old tree stumps.
+- **Legendary**: **Wood Lotus** – A lotus that blooms on ancient trees, with petals that are as tough as wood.

@@ -9,6 +9,7 @@
 
   const merchantItems = writable<Item[]>(allItems);
   const merchantName = $page.params.merchantId;
+  const merchantImageUrl = "/"+merchantName+".jpg"
 
   const updateMerchantItems = () => {
       const merchantItemNames = new Set(getItemsForMerchant(merchantName));
@@ -129,7 +130,7 @@
 <div class="flex flex-col md:flex-row h-screen">
   <!-- Merchant -->
   <div class="flex-none w-1/6 m-2 border border-neutral">
-    <div class="flex w-full h-1/3 bg-cover bg-center" style="background-image: url('/merchant.png');"></div>
+    <div class="flex w-full h-1/3 bg-cover bg-center" style="background-image: url({merchantImageUrl});"></div>
     <div class="flex p-4 m-2 border border-base-content">
       <p class="max-w-md">
         <TypingParagraph text={merchantText}/>

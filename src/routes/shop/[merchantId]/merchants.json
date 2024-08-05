@@ -1,5 +1,5 @@
 {
-    "tribu-lluvia": [
+    "tribe-lluvia": [
         {
             "filename": "baseArmor.json",
             "items": [
@@ -82,7 +82,7 @@
             "items": ["Studded Leather +1"]
         }
     ],
-    "tribu-espora": [
+    "tribe-espora": [
         {
             "filename": "baseArmor.json",
             "items": [
@@ -179,7 +179,7 @@
             "items": ["Hide +1"]
         }
     ],
-    "tribu-llamarada": [
+    "tribe-llamarada": [
         {
             "filename": "baseArmor.json",
             "items": ["*"]

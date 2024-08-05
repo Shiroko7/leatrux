@@ -1,0 +1,25 @@
+# Tribe Espora Mission Board
+
+## 1. **Poison Extraction**
+
+- **Objective**: Extract valuable poisons from the dangerous flora and fauna of the Venomshade Sanctum.
+- **Reward**: About 1-50 gold pieces for each creature depending on the rarity.
+## 2. **Mushroom Harvest**
+
+- **Objective**: Harvest rare and potent herbs from the depths of the swamp.
+- **Reward**: Twice as much gold coins for each herb.
+
+## 3. **Enlightenment Quest**
+
+- **Objective**: Ingest a series of strange substances and survive a hallucinatory trial.
+- **Reward**: 5 gold pieces.
+
+## 4. **Laura's Assistant**
+
+- **Objective**: My last assistant mysteriously banished.... again.
+- **Reward**: 1 gold piece an hour.
+
+## 5. **Exterminate the "Chupacabra"**
+
+- **Objective**: The Chupacabra, formerly known as the Bloodthorn Demon, is a fearsome beast of legend. Cloaked in dark, matted fur that glimmers with an eerie crimson under the moonlight, it prowls the night, seeking to siphon the life force of its prey. Its eyes, glowing like burning coals, pierce the soul, paralyzing victims with an ancient, malevolent Qi. Recently, this mythic creature has been seen terrorizing the flora and a fauna in the outside landscape of the tribe and must be stopped.
+- **Reward**: 500 gold pieces, likely to increase the bounty as its destruction levels increase.

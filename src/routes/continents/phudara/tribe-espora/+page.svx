@@ -22,6 +22,16 @@
         <tr>
           <th colspan="3">Tribe Espora</th>
         </tr>
+        <tr>
+            <h2 style="margin:10px">Points of Interest</h2>
+            <ul style="margin-bottom:20px">
+                <li><a href="tribe-espora/mission-board">Mission Board</a></li>
+                <li><a href="/shop/tribe-espora">Merchant</a></li>
+            </ul>
+        </tr>
+        <tr class = "padded">
+          <th colspan="3">Main Essence Pillars</th>
+        </tr>
       </thead>
       <tbody>
         <tr>

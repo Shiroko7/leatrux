@@ -1,0 +1,28 @@
+# Potion Recipes
+## Potion of Poison Resistance
+
+**Rarity**: Common  
+**Sell Price**: 100 gp
+- **Ingredients** - 50 gp worth of:
+	1. **Vinegarwort** (Acid, Common) – Provides the initial layer of resistance against toxins.
+	2. **Nightshade** (Poison, Common) – A controlled dose to build immunity.
+	3. **Waterweed** (Water, Common) – Dilutes and harmonizes the components for safe consumption.
+
+## Potion of Enlarge or Reduce
+
+**Rarity**: Uncommon  
+**Sell Price**: 250 gp
+- **Ingredients** - 125 gp worth of:
+	1. **Sourbell** (Acid, Uncommon) – Enhances the potency of size-altering magic.
+	2. A Common or Uncommon Earth plant – Provides the stability needed for the body to endure enlargement.
+	3. A Common or Uncommon Wind plant – Infuses the potion with the essence of expansion and movement.
+
+<style>
+    h2 {
+        padding-top: 10px;
+    }
+    ol {
+        list-style-type: decimal; 
+        padding-left: 2em;
+    }
+</style>
