@@ -1,0 +1,84 @@
+# Mining
+
+The crafting of weapons and armor requires rare and potent materials, each imbued with elemental essence or unique properties. Unlike consumables, these materials are not easily replenished and hold immense value due to their rarity and the craftsmanship required to harness their power. The most esteemed materials are often rare and legendary, sought after by master smiths and enchanters for their unparalleled qualities. The art of forging with these materials yields masterpieces of exceptional durability and power, with prices reflecting their coveted status and the skill required to craft them.
+
+|Rarity|Price|
+|---|---|
+|Common|50g|
+|Uncommon|250g|
+|Rare|1500g|
+|Very Rare|5000g|
+|Legendary|20000g|
+
+### Acid Crafting Materials
+
+- **Common**: **Acidic Stone** – A basic stone with mild corrosive properties used in simple crafting.
+- **Uncommon**: **Corrosive Shard** – A stone with stronger acid properties for more refined items.
+- **Rare**: **Bittermetal** – A rare metal with potent corrosive effects used in durable gear.
+- **Very Rare**: **Caustic Crystal** – A crystal with intense acid properties used in high-quality equipment.
+- **Legendary**: **Viper’s Fang** – A legendary material with extreme corrosive effects used for top-tier crafting.
+
+### Earth Crafting Materials
+
+- **Common**: **Stonecrop** – A basic rock used in crafting simple items.
+- **Uncommon**: **Pebblefern** – A refined rock for more specialized items.
+- **Rare**: **Rockrose** – A tough rock used in crafting durable equipment.
+- **Very Rare**: **Crystal Bloom** – A crystalline rock with magical properties used for high-quality items.
+- **Legendary**: **Earth Lotus** – A nearly indestructible rock used in legendary crafting.
+
+### Fire Crafting Materials
+
+- **Common**: **Flame Ore** – A metal with fiery properties used in basic fire-themed items.
+- **Uncommon**: **Ember Ingot** – A metal with a faint glow, enhancing fire-related properties.
+- **Rare**: **Blaze Shard** – A rare metal with intense heat, used for powerful fire-enhanced gear.
+- **Very Rare**: **Inferno Bar** – A metal that burns with an eternal flame, used in exceptional items.
+- **Legendary**: **Phoenix Ember** – A mythical metal with regenerating properties, used for legendary fire-themed gear.
+
+### Lightning Crafting Materials
+
+- **Common**: **Spark Crystal** – A crystal with static properties used in basic lightning-themed items.
+- **Uncommon**: **Thunderstone** – A stone that hums with electrical energy, enhancing lightning items.
+- **Rare**: **Storm Shard** – A rare gem that attracts lightning, used in powerful lightning gear.
+- **Very Rare**: **Electro Ingot** – A metal storing electrical energy, used in exceptional lightning items.
+- **Legendary**: **Lightning Core** – A rare and potent material releasing powerful electrical discharges for legendary gear.
+
+### Metal Crafting Materials
+
+- **Common**: **Ironleaf** – A metal with properties similar to iron, often used in basic crafting.
+- **Uncommon**: **Silverthorn** – A metal with a silver sheen, used for refined or lightweight items.
+- **Rare**: **Goldbloom** – A gold-like metal for crafting high-value or enchanted items.
+- **Very Rare**: **Platinum Fern** – A platinum-like metal, highly durable for exceptional equipment.
+- **Legendary**: **Mercury Lotus** – A rare metal with liquid-like properties used for legendary gear.
+
+### Poison Crafting Materials
+
+- **Common**: **Toxic Resin** – A basic resin with mild poison properties used in simple items.
+- **Uncommon**: **Venomous Leaf** – A leaf with stronger poison properties for more specialized gear.
+- **Rare**: **Deadly Essence** – A rare essence with potent toxins used in powerful items.
+- **Very Rare**: **Noxious Crystal** – A crystal with lethal poison properties for high-quality crafting.
+- **Legendary**: **Wraith’s Venom** – A legendary poison with extreme potency used for legendary gear.
+
+### Water Crafting Materials
+
+- **Common**: **Waterstone** – A basic rock with aquatic properties used in simple water-themed items.
+- **Uncommon**: **Frost Crystal** – A crystal with cold properties, enhancing water-related equipment.
+- **Rare**: **Ice Shard** – A rare ice-infused material used in powerful water-themed items.
+- **Very Rare**: **Glacial Bar** – A metal with ice-like properties, used in high-quality water gear.
+- **Legendary**: **Aqua Jewel** – A legendary gem that never freezes, used for top-tier water-themed crafting.
+
+### Wind Crafting Materials
+
+- **Common**: **Breeze Metal** – A lightweight metal used in basic wind-themed items.
+- **Uncommon**: **Gust Stone** – A stone with airy properties, enhancing wind-related equipment.
+- **Rare**: **Zephyr Shard** – A rare material that moves with the wind, used in powerful wind gear.
+- **Very Rare**: **Whirlwind Bar** – A metal that flows like the wind, used in exceptional wind items.
+- **Legendary**: **Storm Lotus** – A legendary material with ethereal wind properties used for legendary wind-themed gear.
+
+### Wood Crafting Materials
+
+- **Common**: **Oakwood** – A basic wood used in crafting simple items.
+- **Uncommon**: **Thornbark** – A wood with sharp properties, used for more specialized items.
+- **Rare**: **Barkwood** – A tough wood used in crafting durable equipment.
+- **Very Rare**: **Timber Ingot** – A rare and resilient wood used in high-quality gear.
+- **Legendary**: **Elderwood** – A legendary wood with ancient properties used in crafting legendary gear.
+

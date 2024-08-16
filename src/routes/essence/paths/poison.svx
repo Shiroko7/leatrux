@@ -2,23 +2,40 @@
 _Each ability costs 1 talent point_
 
 **Abilities:**
-- **Venomous Touch:** As an action, you can imbue your touch with a mild poison. A creature you touch must make a Constitution saving throw against your spell save DC or become poisoned for 1 minute. While poisoned this way, the creature takes 1d6 poison damage at the start of each of its turns until it succeeds a saving throw. The poison ends early if the creature receives any kind of healing.
+- **Venomous Touch:** As an action, you can imbue your touch with a mild poison. A creature you touch must make a Constitution saving throw against your spell save DC or become poisoned for 1 minute. While poisoned this way, the creature takes 1d4 poison damage at the start of each of its turns until it succeeds a saving throw. The poison ends early if the creature receives any kind of healing. This ability’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 - **Herbalist’s Knowledge:** You gain proficiency with the Medicine skill and advantage on checks to identify or use medicinal herbs and poisons.
-- **Elixir of Vitality:** As a bonus action, you can consume a special elixir, gaining temporary hit points equal to 1d6 + your proficiency bonus. These temporary hit points last for 1 hour or until depleted. You can use this ability once per short or long rest.
+- **Elixir of Vitality:** As a bonus action, you can consume a special elixir to regain hit dice. You regain a number of hit dice equal to half your proficiency bonus (minimum of one). You can use this ability once per long rest.
 - **Strength Booster:** You can drink a mutagen to gain advantage on Strength-based ability checks and saving throws for 10 minutes. Additionally, you gain a +2 bonus to Strength-based attack rolls during this time. You can use this ability once per short or long rest.
 - **Quickening Draught:** By drinking a specially prepared potion, you gain an additional 10 feet of movement speed for 1 hour and advantage on Dexterity-based ability checks. This effect can be used once per short or long rest.
-- **Enchanting Perfume**: As an action, you can apply a specially crafted perfume that enhances your charm and charisma. For the next hour, you gain a +3 bonus to Charisma (Persuasion) and Charisma (Deception) checks against humanoids. You can use this effect on a creature once per long rest.
+- **Enchanting Perfume**: As an action, you can apply a specially crafted perfume that enhances your charm and charisma. For the next hour, you gain a 1d4 bonus to Charisma (Persuasion) and Charisma (Deception) checks against humanoids. You can use this effect on a creature once per long rest.
 
 **Cantrips:**
--  [Poison Spray](https://5e.tools/spells.html#poison%20spray_phb)
--  [Infestation](https://5e.tools/spells.html#infestation_xge)
+- [Poison Spray](https://5e.tools/spells.html#poison%20spray_phb)
+- [Infestation](https://5e.tools/spells.html#infestation_xge)
 
 **1st Level Spells:**
 - [Ray of Sickness](https://5e.tools/spells.html#ray%20of%20sickness_phb)
-- [Purify food and drink](https://www.dandwiki.com/wiki/Purify_Food_and_Drink_(5e_Spell) "Purify Food and Drink (5e Spell)")
+- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_phb)
 
 **2nd Level Spells:**
-- [Enlarge/reduce](https://www.dandwiki.com/wiki/Enlarge/Reduce_(5e_Spell) "Enlarge/Reduce (5e Spell)")
-- [Protection from poison](https://www.dandwiki.com/wiki/Protection_from_Poison_(5e_Spell) "Protection from Poison (5e Spell)")
+- [Enlarge/Reduce](https://5e.tools/spells.html#enlarge%2freduce_phb)
+- [Protection from Poison](https://5e.tools/spells.html#protection%20from%20poison_phb)
 
+---
+
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Venomous Strike:** As a bonus action, you can coat a weapon with a potent poison. The next attack you make with that weapon deals an additional 2d6 poison damage on a hit. The target must also succeed on a Constitution saving throw or be poisoned for 1 minute. You can use this ability once per long rest.
+- **Hallucinogenic Trance:** As an action, you can force a creature within 30 feet to make a Wisdom saving throw. On a failed save, the creature is subjected to vivid hallucinations for 1 minute, during which it has disadvantage on attack rolls, ability checks and mental saving throws. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. You can use this feature once per short or long rest.
+- **Enhanced Mutagen:** When you drink a mutagen, you can choose one ability score (Strength, Dexterity, or Constitution) to gain a +2 bonus for 10 minutes. You can use this ability once per short or long rest.
+- **Pill of Focus:** As a bonus action, you can consume a pill to gain advantage on concentration checks for the next hour. Additionally, you can maintain concentration on up to one additional spell or ability for the duration. This ability can be used once per long rest.
+
+**3rd Level Spells:**
+- [Bestow Curse](https://5e.tools/spells.html#bestow%20curse_phb)
+
+**4th Level Spells:**
 

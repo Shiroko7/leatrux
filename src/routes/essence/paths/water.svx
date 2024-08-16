@@ -9,20 +9,50 @@ _Each ability costs 1 talent point_
 - **Aqua Agility**: Your swimming speed equals your walking speed and you can move through difficult terrain in water (like underwater vegetation or currents) at normal speed without penalty.
 
 **Cantrips:**
-- [Acid splash](https://www.dandwiki.com/wiki/Acid_Splash_(5e_Spell) "Acid Splash (5e Spell)")
-- [Frostbite](https://www.dandwiki.com/wiki/Frostbite_(5e_Spell) "Frostbite (5e Spell)")
-- [Ray of frost](https://www.dandwiki.com/wiki/Ray_of_Frost_(5e_Spell) "Ray of Frost (5e Spell)")
-- [Shape water](https://www.dandwiki.com/wiki/Shape_Water_(5e_Spell) "Shape Water (5e Spell)")
+- [Acid Splash](https://5e.tools/spells.html#acid%20splash_phb)
+- [Frostbite](https://5e.tools/spells.html#frostbite_xge)
+- [Ray of Frost](https://5e.tools/spells.html#ray%20of%20frost_phb)
+- [Shape Water](https://5e.tools/spells.html#shape%20water_xge)
 
 **1st Level Spells:**
-- [Create or destroy water](https://www.dandwiki.com/wiki/Create_or_Destroy_Water_(5e_Spell) "Create or Destroy Water (5e Spell)")
-- [Detect poison and disease](https://www.dandwiki.com/wiki/Detect_Poison_and_Disease_(5e_Spell) "Detect Poison and Disease (5e Spell)")
-- [Fog cloud](https://www.dandwiki.com/wiki/Fog_Cloud_(5e_Spell) "Fog Cloud (5e Spell)")
-- [Grease](https://www.dandwiki.com/wiki/Grease_(5e_Spell) "Grease (5e Spell)")
-- [Ice knife](https://www.dandwiki.com/wiki/Ice_Knife_(5e_Spell) "Ice Knife (5e Spell)")
+- [Create or Destroy Water](https://5e.tools/spells.html#create%20or%20destroy%20water_phb)
+- [Detect Poison and Disease](https://5e.tools/spells.html#detect%20poison%20and%20disease_phb)
+- [Fog Cloud](https://5e.tools/spells.html#fog%20cloud_phb)
+- [Grease](https://5e.tools/spells.html#grease_phb)
+- [Ice Knife](https://5e.tools/spells.html#ice%20knife_xge)
 
 **2nd Level Spells:**
-- [Acid arrow](https://www.dandwiki.com/wiki/Acid_Arrow_(5e_Spell) "Acid Arrow (5e Spell)")
-- [Protection from poison](https://www.dandwiki.com/wiki/Protection_from_Poison_(5e_Spell) "Protection from Poison (5e Spell)")
-- [Snilloc's snowball swarm](https://www.dandwiki.com/wiki/Snilloc%27s_Snowball_Swarm_(5e_Spell) "Snilloc's Snowball Swarm (5e Spell)")
-- [Misty step](https://www.dandwiki.com/wiki/Misty_Step_(5e_Spell) "Misty Step (5e Spell)")
+- [Melf's Acid Arrow](https://5e.tools/spells.html#melf's%20acid%20arrow_phb)
+- [Protection from Poison](https://5e.tools/spells.html#protection%20from%20poison_phb)
+- [Snilloc's Snowball Swarm](https://5e.tools/spells.html#snilloc's%20snowball%20swarm_xge)
+- [Misty Step](https://5e.tools/spells.html#misty%20step_phb)
+
+---
+
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Tide of Emotions:** By channeling the ebb and flow of water, you can influence the emotions of others within a 30-foot radius. Choose one emotion (calm, fear, or joy); affected creatures must succeed on a Wisdom saving throw or be overwhelmed by that emotion for 1 hour. Usable once per long rest.
+- **Tidal Surge:** You can summon a powerful wave of water that heals and revitalizes. As an action, you create a wave that washes over allies in a 30-foot radius, restoring hit points equal to 3d8 + your spellcasting ability modifier. This wave also removes one condition affecting allies (charmed, frightened, or poisoned). Usable once per long rest.
+- **Frozen Insight:** You can temporarily turn your thoughts into ice, allowing you to gain deep insight into a complex problem or puzzle. For 1 hour, you gain advantage on Intelligence checks related to solving mysteries or understanding arcane knowledge.
+- **Rain of Revelation:** You can summon a gentle, magical rain that grants clarity and insight to those who stand in it. Allies within a 20-foot radius can ask one question about their future or destiny, and you provide a vague but helpful answer based on your understanding of the world.
+- **Glacial Shield:** As a reaction, you can spend one spell slot and encase yourself in a barrier of ice, granting you temporary hit points equal to twice your spellcasting ability modifier + your spell level. This lasts for 1 minute. Usable once per long rest.
+- **Hydroportation:** You can teleport up to 60 feet to a space you can see within a body of water or mist. You must be in contact with the water or mist to use this ability. Can be used once per long rest.
+- **Surface Strider**: You can walk on the surface of water and you gain advantage on Dexterity (Acrobatics) checks to maintain your balance while walking on slippery or unstable surfaces.
+
+**3rd Level Spells:**
+- [Sleet Storm](https://5e.tools/spells.html#sleet%20storm_phb)
+- [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
+- [Wall of Water](https://5e.tools/spells.html#wall%20of%20water_xge)
+- [Water Breathing](https://5e.tools/spells.html#water%20breathing_phb)
+- [Water Walk](https://5e.tools/spells.html#water%20walk_phb)
+
+**4th Level Spells:**
+- [Control Water](https://5e.tools/spells.html#control%20water_phb)
+- [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
+- [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)
+- [Watery Sphere](https://5e.tools/spells.html#watery%20sphere_xge)
+

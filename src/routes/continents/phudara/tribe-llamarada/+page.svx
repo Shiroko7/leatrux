@@ -4,8 +4,9 @@
   import Metal from '../../../essence/paths/metal.svx'
   import Header from '../../../essence/header.svx'
   import '../../../essence/markdown.css'
+  import Navbar from '../Navbar.svelte';
 
-  let selectedComponent = 'Earth';
+  let selectedComponent = 'Fire';
   let isFireHovered = false;
   let isEarthHovered = false;
   let isMetalHovered = false;
@@ -17,33 +18,28 @@
 </script>
 
 <div style="max-width: 60%; margin: auto; padding-top: 1rem;">
-    <table>
+    <Navbar />
+    <h1>
+          Tribe Llamarada
+    </h1>
+    <h2 style="margin: 10px;">Points of Interest</h2>
+    <ul style="margin-bottom: 20px;">
+        <li><a href="tribe-llamarada/mission-board">Mission Board</a></li>
+        <li><a href="/shop/tribe-llamarada">Merchant</a></li>
+    </ul>
+
+    <table class="table-fixed w-full">
       <thead>
         <tr>
-          <th colspan="3">Tribe Llamarada</th>
-        </tr>
-        <tr>
-            <h2 style="margin:10px">Points of Interest</h2>
-            <ul style="margin-bottom:20px">
-                <li><a href="tribe-llamarada/mission-board">Mission Board</a></li>
-                <li><a href="/shop/tribe-llamarada">Merchant</a></li>
-            </ul>
+          <th colspan="3" class="text-center">Main Essence Pillars</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td
-            class:selected={selectedComponent === 'Fire'}
-            class:hover={isFireHovered && selectedComponent !== 'Fire'}
-            on:click={() => selectComponent('Fire')}
-            on:mouseover={() => isFireHovered = true}
-            on:mouseout={() => isFireHovered = false}
-          >
-            Fire Pillar
-          </td>
-          <td
+            class="w-1/3 text-center cursor-pointer"
             class:selected={selectedComponent === 'Earth'}
-            class:hover={isEarthHovered && selectedComponent !== 'Earth'}
+            class:hover={isEarthHovered && selectedComponent !== 'Earth' ? 'bg-gray-200' : ''}
             on:click={() => selectComponent('Earth')}
             on:mouseover={() => isEarthHovered = true}
             on:mouseout={() => isEarthHovered = false}
@@ -51,8 +47,19 @@
             Earth Pillar
           </td>
           <td
+            class="w-1/3 text-center cursor-pointer"
+            class:selected={selectedComponent === 'Fire'}
+            class:hover={isFireHovered && selectedComponent !== 'Fire' ? 'bg-gray-200' : ''}
+            on:click={() => selectComponent('Fire')}
+            on:mouseover={() => isFireHovered = true}
+            on:mouseout={() => isFireHovered = false}
+          >
+            Fire Pillar
+          </td>
+          <td
+            class="w-1/3 text-center cursor-pointer"
             class:selected={selectedComponent === 'Metal'}
-            class:hover={isMetalHovered && selectedComponent !== 'Metal'}
+            class:hover={isMetalHovered && selectedComponent !== 'Metal' ? 'bg-gray-200' : ''}
             on:click={() => selectComponent('Metal')}
             on:mouseover={() => isMetalHovered = true}
             on:mouseout={() => isMetalHovered = false}
@@ -62,17 +69,20 @@
         </tr>
       </tbody>
     </table>
+
     <Header />
-    {#if selectedComponent === 'Fire'}
-      <Fire />
-    {/if}
+
     {#if selectedComponent === 'Earth'}
       <Earth />
+    {/if}
+    {#if selectedComponent === 'Fire'}
+      <Fire />
     {/if}
     {#if selectedComponent === 'Metal'}
       <Metal />
     {/if}
 </div>
+
 
 
 

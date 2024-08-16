@@ -3,6 +3,7 @@
 </script>
 
 <div style="max-width: 60%; margin: auto; padding-top: 1rem;">
+    <a href="/">Home</a> 
     <h1>Discovered Essences</h1>
     <ul>
         <li><h2><a href="continents/phudara/tribe-llamarada">Tribe Llamarada's Essences</a></h2></li>

@@ -1,0 +1,34 @@
+# Crafting Rules
+
+**1. Proficiency and Tools:**
+
+- The character must be proficient with a smith's tools and have access to a forge or appropriate workspace.
+
+**2. Formula and Materials:**
+
+- A character must have a blueprint or design for the item. They also need the required materials, which can include specific metals, rocks, gems, and elemental components, depending on the item’s rarity.
+
+**3. Crafting Process:**
+
+- Forging a weapon or armor involves smelting, shaping, and tempering the materials over a period of time. The time required depends on the item’s rarity.
+
+|Item Rarity|Crafting Time|
+|---|---|
+|Common|3 days|
+|Uncommon|2 workweeks|
+|Rare|3 workweeks|
+|Very Rare|4 workweeks|
+|Legendary|6 workweeks|
+
+**4. Checks:**
+
+- At the end of the crafting process, the character may need to make a Strength check or an Intelligence (Smith’s Tools) check, depending on the DM's discretion. This check determines the quality of the item and whether any complications arise.
+
+|Item Rarity|DC|
+|---|---|
+|Common|10|
+|Uncommon|15|
+|Rare|20|
+|Very Rare|25|
+|Legendary|30|
+

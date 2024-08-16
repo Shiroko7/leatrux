@@ -7,15 +7,39 @@ _Each ability costs 1 talent point_
 - **Rock Whisperer:** You can communicate simple ideas with earth elementals and creatures of stone.
 - **Earth Sense:** You have advantage on Survival and Perception checks to navigate underground or in rocky terrain.
 - **Stone Fist:** Your unarmed strikes deal 1d6 bludgeoning damage and count as magical for overcoming resistance and immunity.
-- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). The target must succeed on a Dexterity saving throw or be knocked prone.
+- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). On three successful hits the target must succeed on a Dexterity saving throw or be knocked prone. The number of pebbles you can hurl increases by 1 when you reach 5th level (4 pebbles), 11th level (5 pebbles), and 17th level (6 pebbles).
 
 **Cantrips:**
-- [Magic stone](https://www.dandwiki.com/wiki/Magic_Stone_(5e_Spell) "Magic Stone (5e Spell)")
-- [Mold earth](https://www.dandwiki.com/wiki/Mold_Earth_(5e_Spell) "Mold Earth (5e Spell)")
+- [Magic Stone](https://5e.tools/spells.html#magic%20stone_xge)
+- [Mold Earth](https://5e.tools/spells.html#mold%20earth_xge)
 
 **1st Level Spells:**
-- [Earth tremor](https://www.dandwiki.com/wiki/Earth_Tremor_(5e_Spell) "Earth Tremor (5e Spell)")
+- [Earth Tremor](https://5e.tools/spells.html#earth%20tremor_xge)
 
 **2nd Level Spells:**
-- [Earthbind](https://www.dandwiki.com/wiki/Earthbind_(5e_Spell) "Earthbind (5e Spell)")
-- [Maximilian's earthen grasp](https://www.dandwiki.com/wiki/Maximilian%E2%80%99s_Earthen_Grasp_(5e_Spell) "Maximilian’s Earthen Grasp (5e Spell)")
+- [Earthbind](https://5e.tools/spells.html#earthbind_xge)
+- [Maximilian's Earthen Grasp](https://5e.tools/spells.html#maximilian's%20earthen%20grasp_xge)
+
+---
+
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Earthen Resilience:** Gain proficiency in Constitution saving throws.
+- **Terramancer:** Gain expertise (double proficiency bonus) in Athletics when performing tasks involving lifting, pushing, or pulling heavy objects made of stone or earth.
+- **Stone Camouflage:** You have advantage on Stealth checks to hide in rocky terrain or against stone surfaces.
+- **Earthen Grasp:** You can use an action to cause the ground to grasp a creature within 30 feet, restraining it for 1 minute. The target can make a Strength saving throw at the end of each of its turns to break free. You can use this feature after a long res
+- **Stone Armor:** As a bonus action, you can encase yourself in a layer of stone, granting you resistance to bludgeoning, piercing, and slashing damage for 1 minute. You can use this feature after a short or long rest.
+- **Sandstorm:** You can use an action to create a swirling storm of sand in a 20-foot radius centered on you. Creatures in the area must make a Constitution saving throw or be blinded until the end of their next turn. You can use this feature after a long rest.
+
+**3rd Level Spells:**
+- [Erupting Earth](https://5e.tools/spells.html#erupting%20earth_xge)
+- [Wall of Sand](https://5e.tools/spells.html#wall%20of%20sand_xge)
+- [Meld into Stone](https://5e.tools/spells.html#meld%20into%20stone_phb)
+
+**4th Level Spells:**
+- [Stone Shape](https://5e.tools/spells.html#stone%20shape_phb)
+- [Stoneskin](https://5e.tools/spells.html#stoneskin_phb)

@@ -21,3 +21,25 @@ _Each ability costs 1 talent point_
 - [Melf's Acid Arrow ](https://5e.tools/spells.html#melf's%20acid%20arrow_phb)
 - [Dragon's Breath](https://5e.tools/spells.html#dragon's%20breath_xge)
 
+--- 
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Chemical Expertise**: You can create more advanced alchemical mixtures, such as potent acid flasks or alchemical fire. You gain a +2 bonus to checks involving Alchemist’s Supplies and can create these mixtures in half the usual time.
+- **Chaos Manipulation**: Once per long rest, you can cause a minor chaotic effect within 30 feet, such as causing objects to tremble, flicker, or shift unpredictably. The effect lasts for 1 minute and can create distractions or disorient opponents.
+- **Explosive Savant**: When you use an explosive device or alchemical flask, its damage increases by 1d6. Additionally, you can use such devices as a bonus action instead of an action.
+- **Miasmic Cloud**: You can create a cloud of acidic mist in a 10-foot radius around you. Any creature that starts its turn within the cloud must make a Constitution saving throw or take 2d6 acid damage and be blinded until the end of its next turn. The cloud lasts for 1 minute and can be used once per long rest.
+- **Acidic Embrace**: You can magically coat a weapon or object in a layer of corrosive acid. The weapon deals an additional 2d6 acid damage on a successful hit, and the object corrodes any non-magical material it touches. This effect lasts for 10 minutes and can be used once per long rest.
+
+**3rd Level Spells:**
+- [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
+- [Glyph of Warding](https://5e.tools/spells.html#glyph%20of%20warding_phb)
+- [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_phb)
+
+**4th Level Spells:**
+- [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)
+- [Elemental Bane](https://5e.tools/spells.html#elemental%20bane_xge)
+

@@ -4,6 +4,7 @@
   import Acid from '../../../essence/paths/acid.svx'
   import Header from '../../../essence/header.svx'
   import '../../../essence/markdown.css'
+  import Navbar from '../Navbar.svelte';
 
   let selectedComponent = 'Poison';
   let isWoodHovered = false;
@@ -17,27 +18,28 @@
 </script>
 
 <div style="max-width: 60%; margin: auto; padding-top: 1rem;">
-    <table>
+    <Navbar />
+    <h1>
+          Tribe Espora
+    </h1>
+    <h2 style="margin: 10px;">Points of Interest</h2>
+    <ul style="margin-bottom: 20px;">
+        <li><a href="tribe-espora/mission-board">Mission Board</a></li>
+        <li><a href="/shop/tribe-espora">Merchant</a></li>
+    </ul>
+
+    <table class="table-fixed w-full">
       <thead>
         <tr>
-          <th colspan="3">Tribe Espora</th>
-        </tr>
-        <tr>
-            <h2 style="margin:10px">Points of Interest</h2>
-            <ul style="margin-bottom:20px">
-                <li><a href="tribe-espora/mission-board">Mission Board</a></li>
-                <li><a href="/shop/tribe-espora">Merchant</a></li>
-            </ul>
-        </tr>
-        <tr class = "padded">
-          <th colspan="3">Main Essence Pillars</th>
+          <th colspan="3" class="text-center">Main Essence Pillars</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td
+            class="w-1/3 text-center cursor-pointer"
             class:selected={selectedComponent === 'Wood'}
-            class:hover={isWoodHovered && selectedComponent !== 'Wood'}
+            class:hover={isWoodHovered && selectedComponent !== 'Wood' ? 'bg-gray-200' : ''}
             on:click={() => selectComponent('Wood')}
             on:mouseover={() => isWoodHovered = true}
             on:mouseout={() => isWoodHovered = false}
@@ -45,8 +47,9 @@
             Wood Pillar
           </td>
           <td
+            class="w-1/3 text-center cursor-pointer"
             class:selected={selectedComponent === 'Poison'}
-            class:hover={isPoisonHovered && selectedComponent !== 'Poison'}
+            class:hover={isPoisonHovered && selectedComponent !== 'Poison' ? 'bg-gray-200' : ''}
             on:click={() => selectComponent('Poison')}
             on:mouseover={() => isPoisonHovered = true}
             on:mouseout={() => isPoisonHovered = false}
@@ -54,8 +57,9 @@
             Poison Pillar
           </td>
           <td
+            class="w-1/3 text-center cursor-pointer"
             class:selected={selectedComponent === 'Acid'}
-            class:hover={isAcidHovered && selectedComponent !== 'Acid'}
+            class:hover={isAcidHovered && selectedComponent !== 'Acid' ? 'bg-gray-200' : ''}
             on:click={() => selectComponent('Acid')}
             on:mouseover={() => isAcidHovered = true}
             on:mouseout={() => isAcidHovered = false}
@@ -65,7 +69,9 @@
         </tr>
       </tbody>
     </table>
+
     <Header />
+
     {#if selectedComponent === 'Wood'}
       <Wood />
     {/if}
@@ -76,7 +82,6 @@
       <Acid />
     {/if}
 </div>
-
 
 
 <style>

@@ -4,24 +4,44 @@ _Each ability costs 1 talent point_
 **Abilities:**
 - **Flame Ward:** You have advantage on saving throws against being frightened or charmed while within 10 feet of a source of fire or heat.
 - **Searing Gaze:** When you focus intently on a creature for 1 minute, you can attempt an Intimidation check. If successful, the creature is unsettled and has disadvantage on saving throws against being frightened or charmed by you for 1 hour. This ability can only be used once per long rest.
-- **Flame Lash:** You can use your action to create a whip-like tendril of fire that extends up to 15 feet. Make a melee spell attack against a creature within range. On a hit, the target takes fire damage equal to 1d6 + your spellcasting ability modifier and must make a Dexterity saving throw or be ignited, taking 1d6 fire damage at the start of each of its turns until it uses an action to douse the flames.  
 - **Ember Strike:** When you hit a creature with a weapon attack, you can expend a spell slot to deal an additional 1d6 fire damage per level of the spell slot expended. This damage increases to 2d6 if the spell slot is 3rd level or higher.
+- **Flame Lash:** You can use your action to create a whip-like tendril of fire that extends up to 15 feet. Make a melee spell attack against a creature within range. On a hit, the target takes fire damage equal to 1d6 + your spellcasting ability modifier. The intense heat also causes the target to become dazzled, giving them disadvantage on their next attack roll. This ability’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Cantrips:**
-- [Control flames](https://www.dandwiki.com/wiki/Control_Flames_(5e_Spell) "Control Flames (5e Spell)")
-- [Create bonfire](https://www.dandwiki.com/wiki/Create_Bonfire_(5e_Spell) "Create Bonfire (5e Spell)")
-- [Fire bolt](https://www.dandwiki.com/wiki/Fire_Bolt_(5e_Spell) "Fire Bolt (5e Spell)")
-- [Green-flame blade](https://www.dandwiki.com/wiki/Green-Flame_Blade_(5e_Spell) "Green-Flame Blade (5e Spell)") 
-- [Produce flame](https://www.dandwiki.com/wiki/Produce_Flame_(5e_Spell) "Produce Flame (5e Spell)")
+- [Control Flames](https://5e.tools/spells.html#control%20flames_xge)
+- [Create Bonfire](https://5e.tools/spells.html#create%20bonfire_xge)
+- [Fire Bolt](https://5e.tools/spells.html#fire%20bolt_phb)
+- [Green-Flame Blade](https://5e.tools/spells.html#green-flame%20blade_tce)
+- [Produce Flame](https://5e.tools/spells.html#produce%20flame_phb)
 
 **1st Level Spells:**
-- [Burning hands](https://www.dandwiki.com/wiki/Burning_Hands_(5e_Spell) "Burning Hands (5e Spell)")
-- [Hellish rebuke](https://www.dandwiki.com/wiki/Hellish_Rebuke_(5e_Spell) "Hellish Rebuke (5e Spell)")
+- [Burning Hands](https://5e.tools/spells.html#burning%20hands_phb)
+- [Hellish Rebuke](https://5e.tools/spells.html#hellish%20rebuke_phb)
 
 **2nd Level Spells:**
-- [Aganazzar's scorcher](https://www.dandwiki.com/wiki/Aganazzar%27s_Scorcher_(5e_Spell) "Aganazzar's Scorcher (5e Spell)") 
-- [Continual flame](https://www.dandwiki.com/wiki/Continual_Flame_(5e_Spell) "Continual Flame (5e Spell)")
-- [Flame blade](https://www.dandwiki.com/wiki/Flame_Blade_(5e_Spell) "Flame Blade (5e Spell)")
-- [Flaming sphere](https://www.dandwiki.com/wiki/Flaming_Sphere_(5e_Spell) "Flaming Sphere (5e Spell)")
-- [Scorching ray](https://www.dandwiki.com/wiki/Scorching_Ray_(5e_Spell) "Scorching Ray (5e Spell)")
+- [Aganazzar's Scorcher](https://5e.tools/spells.html#aganazzar's%20scorcher_xge)
+- [Continual Flame](https://5e.tools/spells.html#continual%20flame_phb)
+- [Flaming Sphere](https://5e.tools/spells.html#flaming%20sphere_phb)
+- [Scorching Ray](https://5e.tools/spells.html#scorching%20ray_phb)
 
+---
+
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Blazing Presence:** Your fiery aura gives you a commanding presence. You can use your action to create a burst of heat and light, giving you advantage on Intimidation checks and causing those who fail a Wisdom saving throw to be frightened until the end of your next turn.
+- **Flame Kinship:** You gain the ability to communicate with creatures of fire, such as Fire Elementals and Magmin, as if you shared a common language. This does not grant you the ability to control or command them but allows for basic communication and understanding.
+- **Ember’s Resilience:** You can channel the residual heat around you to bolster your own resistance. Once per short rest, when you fail a saving throw, you can choose to succeed instead, as long as the saving throw is against an effect that deals fire or heat damage.
+- **Blazing Trail:** As a bonus action, you can leave a trail of fire in your wake. For the next minute, any creature that moves through or ends its turn in a 10-foot-wide line you create takes fire damage equal to your spellcasting ability modifier. This trail lasts for 1 minute or until you choose to end it. This ability can only be used once per short rest.
+- **Scorched Ground:** As an action, you can cause a 20-foot radius area on the ground to become superheated for 1 minute. Creatures that start their turn in this area take fire damage equal to 2d6 + your spellcasting ability modifier. The area is difficult terrain, and the fire persists even if you move away from it.  This ability can only be used once per short rest.
+
+**3rd Level Spells:**
+- [Fireball](https://5e.tools/spells.html#fireball_phb)
+- [Flame Arrows](https://5e.tools/spells.html#flame%20arrows_xge)
+
+**4th Level Spells:**
+- [Fire Shield](https://5e.tools/spells.html#fire%20shield_phb)
+- [Wall of Fire](https://5e.tools/spells.html#wall%20of%20fire_phb)

@@ -5,30 +5,66 @@ _Each ability costs 1 talent point_
 - **Vine Manipulation:** You gain the ability to manipulate vines and roots within 30 feet of you. As an action, you can cause vines to emerge from the ground or surrounding vegetation to ensnare a creature or create barriers. The vines can grapple or restrain a creature (Strength saving throw) or create difficult terrain in a 10-foot square area for 1 minute.
 - **Verdant Armor**: As an action, you can envelop yourself in a protective layer of magically enhanced bark and vines. For the next hour, you gain temporary hit points equal to 1d8 + your proficiency bonus. Additionally, you have resistance to bludgeoning, slashing and piercing damage. 
 - **Fertile Ground Resilience**: When you are standing on or above fertile soil (such as grasslands, forests, or similar natural terrain), you can use your reaction to gain immunity to effects that would knock you prone or push you away. Additionally, while on such terrain, you gain advantage on saving throws against being grappled or restrained.
-- **Thorny Defense:** When a creature hits you with a melee attack, you can use your reaction to cause thorns to erupt from your skin. The attacker takes 1d4 piercing damage. You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses after a long rest.
+- **Thorny Defense:** When a creature hits you with a melee attack, you can use your reaction to cause thorns to erupt from your skin. The attacker takes 1d4 piercing damage. This ability’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 -  **Woodcraft:** You gain proficiency with woodcarver’s tools and the ability to craft simple wooden items. You can create small wooden objects (e.g., a carved figurine, a simple tool) in 1 hour, provided you have access to suitable materials. You can also use your tools to make minor repairs to wooden objects.
 
 
 **Cantrips:**
-- [Thorn whip](https://www.dandwiki.com/wiki/Thorn_Whip_(5e_1Spell) "Thorn Whip (5e Spell)")
-- [Shillelagh](https://www.dandwiki.com/wiki/Shillelagh_(5e_Spell) "Shillelagh (5e Spell)")
-- [Poison spray](https://www.dandwiki.com/wiki/Poison_Spray_(5e_Spell) "Poison Spray (5e Spell)")
+- [Thorn Whip](https://5e.tools/spells.html#thorn%20whip_phb)
+- [Shillelagh](https://5e.tools/spells.html#shillelagh_phb)
+- [Shillelagh](https://5e.tools/spells.html#shillelagh_phb)
 
 **1st Level Spells:**
-- [Purify food and drink](https://www.dandwiki.com/wiki/Purify_Food_and_Drink_(5e_Spell) "Purify Food and Drink (5e Spell)")
-- [Animal friendship](https://www.dandwiki.com/wiki/Animal_Friendship_(5e_Spell) "Animal Friendship (5e Spell)")
-- [Entangle](https://www.dandwiki.com/wiki/Entangle_(5e_Spell) "Entangle (5e Spell)")
-- [Find familiar](https://www.dandwiki.com/wiki/Find_Familiar_(5e_Spell) "Find Familiar (5e Spell)")
-- [Goodberry](https://www.dandwiki.com/wiki/Goodberry_(5e_Spell) "Goodberry (5e Spell)")
-- [Speak with animals](https://www.dandwiki.com/wiki/Speak_with_Animals_(5e_Spell) "Speak with Animals (5e Spell)")
-- [Unseen servant](https://www.dandwiki.com/wiki/Unseen_Servant_(5e_Spell) "Unseen Servant (5e Spell)")
+- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_phb)
+- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_phb)
+- [Entangle](https://5e.tools/spells.html#entangle_phb)
+- [Find Familiar](https://5e.tools/spells.html#find%20familiar_phb)
+- [Goodberry](https://5e.tools/spells.html#goodberry_phb)
+- [Speak with Animals](https://5e.tools/spells.html#speak%20with%20animals_phb)
+- [Unseen Servant](https://5e.tools/spells.html#unseen%20servant_phb)
 
 **2nd Level Spells:**
-- [Pass without trace](https://www.dandwiki.com/wiki/Pass_without_Trace_(5e_Spell) "Pass without Trace (5e Spell)")
-- [Lesser restoration](https://www.dandwiki.com/wiki/Lesser_Restoration_(5e_Spell) "Lesser Restoration (5e Spell)")
-- [Animal messenger](https://www.dandwiki.com/wiki/Animal_Messenger_(5e_Spell) "Animal Messenger (5e Spell)")
-- [Barkskin](https://www.dandwiki.com/wiki/Barkskin_(5e_Spell) "Barkskin (5e Spell)")
-- [Find steed](https://www.dandwiki.com/wiki/Find_Steed_(5e_Spell) "Find Steed (5e Spell)")
-- [Locate animals or plants](https://www.dandwiki.com/wiki/Locate_Animals_or_Plants_(5e_Spell) "Locate Animals or Plants (5e Spell)")
-- [Spike growth](https://www.dandwiki.com/wiki/Spike_Growth_(5e_Spell) "Spike Growth (5e Spell)")
+- [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_phb)
+- [Lesser Restoration](https://5e.tools/spells.html#lesser%20restoration_phb)
+- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_phb)
+- [Barkskin](https://5e.tools/spells.html#barkskin_phb)
+- [Barkskin](https://5e.tools/spells.html#barkskin_phb)
+- [Locate Animals or Plants](https://5e.tools/spells.html#locate%20animals%20or%20plants_phb)
+- [Spike Growth](https://5e.tools/spells.html#spike%20growth_phb)
+
+---
+
+## **Adept**
+**_Prerequisite: 5th level_**
+
+_Each ability costs 2 talent points_
+
+**Abilities:**
+- **Plant Bond:** You can communicate with plants in a basic way. You understand their emotions and can ask simple questions (e.g., "Where is the nearest source of water?"). Plants can also provide you with basic information about their immediate surroundings.
+- **Woodland Stride:** Moving through nonmagical plant life, such as undergrowth or vines, costs you no extra movement. You can also move through difficult terrain caused by plant life without penalty.
+- **Nature’s Insight:** You gain proficiency in Nature and Survival skills. If you are already proficient in either of these skills, you gain expertise, doubling your proficiency bonus for those skills.
+- **Tree Form:** You can use your action to transform into a treelike creature. While in this form, you gain the following benefits:
+	- **AC 17:** Your skin becomes as tough as bark.
+	- **Hit Points:** You gain temporary hit points equal to twice your level.
+	- **Attacks:** You can make a slam attack with +6 to hit, dealing 2d6+4 bludgeoning damage.
+	- **Rooted:** You can root yourself to the ground. While rooted, you cannot move, but you have advantage on Strength and Constitution saving throws, and any creature that starts its turn within 5 feet of you takes 1d6 bludgeoning damage.
+	- This form lasts for 1 minute or until you use your action to revert to your normal form. You can use this feature once per long rest.
+
+**3rd Level Spells:**
+- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_phb)
+- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_phb)
+- [Phantom Steed](https://5e.tools/spells.html#phantom%20steed_phb)
+- [Plant Growth](https://5e.tools/spells.html#plant%20growth_phb)
+- [Speak with Dead](https://5e.tools/spells.html#speak%20with%20dead_phb)
+- [Speak with Plants](https://5e.tools/spells.html#speak%20with%20plants_phb)
+- [Spirit Guardians](https://5e.tools/spells.html#spirit%20guardians_phb)
+
+**4th Level Spells:**
+- [Conjure Woodland Beings](https://5e.tools/spells.html#conjure%20woodland%20beings_phb)
+- [Dominate Beast](https://5e.tools/spells.html#dominate%20beast_phb)
+- [Faithful hound](https://www.dandwiki.com/wiki/Faithful_Hound_(5e_Spell) "Faithful Hound (5e Spell)")
+- [Grasping Vine](https://5e.tools/spells.html#grasping%20vine_phb)
+- [Giant Insect](https://5e.tools/spells.html#giant%20insect_phb)
+- [Guardian of Faith](https://5e.tools/spells.html#guardian%20of%20faith_phb)
+- [Locate Creature](https://5e.tools/spells.html#locate%20creature_phb)
 

@@ -1,11 +1,11 @@
 <script>
-  import Recipes from './recipes.svx'
   import '../../essence/markdown.css'
-  import Navbar from '../Navbar.svelte';
+  import Mining from './mining.svx'
+  import Navbar from '../navbar.svelte';
 </script>
 
 <div style="max-width: 60%; margin: auto; padding-top: 1rem;">
     <Navbar />
-    <Recipes />
+    <Mining />
 </div>
 
