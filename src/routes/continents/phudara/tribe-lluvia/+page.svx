@@ -4,7 +4,7 @@
   import Lightning from '../../../essence/paths/lightning.svx'
   import Header from '../../../essence/header.svx'
   import '../../../essence/markdown.css'
-  import Navbar from '../Navbar.svelte';
+  import Navbar from '../navbar.svelte';
 
   let selectedComponent = 'Water';
   let isAirHovered = false;
