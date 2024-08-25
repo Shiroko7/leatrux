@@ -2,8 +2,8 @@
 _Each ability costs 1 talent point_
 
 **Abilities**:
-- **Gale Force Strike:** When you hit a creature smaller or larger than you with a melee attack, you can choose to create a gust of wind that pushes the creature 5 feet away from you. This effect can be used once per turn.
-- **Misty Escape:** When you take damage, you can use your reaction to turn into a cloud of mist, causing the attack to miss. You must spend a spell slot of 1st level or higher to use this ability. Can be used once per short or long rest.
+- **Gale Force Strike:** When you hit a creature of your size or smaller, or any creature that is one size category larger than you, with a weapon attack, you can choose to create a gust of wind that forces the creature to make a Strength saving throw. On a failed save, the creature is pushed 10 feet away from you. The distance increases by an additional 10 feet at 5th Adept level (20 feet), 9th Master level (30 feet), 13th Grandmaster level (40 feet), and 17th Great-grandmaster level (50 feet). This effect can be used once per turn.
+- **Misty Escape:** When you take damage, you can use your reaction to turn into a cloud of mist, causing the attack to miss. You must spend a spell slot of 1st level or higher to use this ability. 
 - **Mistbound Step:** The Misty Step spell does not consume a spell slot if you begin or end your movement in a heavily obscured area.
 - **Misty Veil:** You can create a shroud of mist around you that obscures your appearance, granting advantage on Stealth checks to hide and disadvantage on Insight checks to discern your true intentions. This effect lasts for 1 hour and can be used once per long rest.
 - **Wind Sprint:** You can double your movement speed for 1 minute. You must spend a short or long rest to use this ability again.
@@ -37,9 +37,11 @@ _Each ability costs 2 talent points_
 
 **Abilities:**
 - **Echoing Footsteps:** You can move with such speed and silence that your footsteps echo faintly. You gain advantage on Stealth checks, and creatures within 10 feet of you have disadvantage on Wisdom (Perception) checks to hear you. This effect lasts for 10 minutes.
-- **Thunderstep:** You can use a bonus action to make a sudden, loud noise, creating a brief but intense thunderclap that can be heard up to 300 feet away. Creatures within 10 feet of you must make a Constitution saving throw or be stunned until the end of your next turn. This ability can be used once per short or long rest.
+- **Thunderstep:** You can use a bonus action to make a sudden, loud noise, creating a brief but intense thunderclap that can be heard up to 300 feet away. Creatures within 30 feet of you must make a Constitution saving throw or be stunned until the end of your next turn. This ability can be used once per short or long rest. This ability’s range increases by 10 feet when you reach 9th Master level (40 feet), 11th Grandmaster level (50 feet), and 17th Great-Grandmaster level (60 feet).
 - **Calm Breeze:** You can use a bonus action to create a soothing breeze that relaxes and calms creatures within a 30-foot radius, providing them with advantage on saving throws against being frightened or charmed. This effect lasts for 10 minutes and can be used once per short or long rest.
 - **Whispering Winds:** You can use your action to send a message carried by the wind to any creature within 1 mile of you. The message is heard as a whisper by the intended recipient. This ability allows for secret communications or covert information exchange.
+- **Wind Barrier:** As a reaction to being targeted by an attack or harmful spell, you can summon a barrier of wind around you. You gain a +2 bonus to AC and saving throws until the start of your next turn. Additionally, ranged weapon attacks against you have disadvantage. You can use this ability a number of times equal to your proficiency bonus per long rest.
+- **Cyclone Step:** When you use the Dash action, you can create a swirling vortex of wind around you. Creatures within 5 feet of your path must make a Strength saving throw or be knocked prone. The wind dissipates at the end of your movement. 
 
 **3rd Level Spells:**
 - [Fly](https://5e.tools/spells.html#fly_phb)
@@ -47,3 +49,4 @@ _Each ability costs 2 talent points_
 - [Stinking Cloud](https://5e.tools/spells.html#stinking%20cloud_phb)
 - [Wind Wall](https://5e.tools/spells.html#wind%20wall_phb)
 - [Haste](https://5e.tools/spells.html#haste_phb)
+

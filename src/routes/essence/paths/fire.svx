@@ -4,8 +4,9 @@ _Each ability costs 1 talent point_
 **Abilities:**
 - **Flame Ward:** You have advantage on saving throws against being frightened or charmed while within 10 feet of a source of fire or heat.
 - **Searing Gaze:** When you focus intently on a creature for 1 minute, you can attempt an Intimidation check. If successful, the creature is unsettled and has disadvantage on saving throws against being frightened or charmed by you for 1 hour. This ability can only be used once per long rest.
-- **Ember Strike:** When you hit a creature with a weapon attack, you can expend a spell slot to deal an additional 1d6 fire damage per level of the spell slot expended. This damage increases to 2d6 if the spell slot is 3rd level or higher.
+- **Ember Strike:** When you hit a creature with a weapon attack, you can expend a spell slot to deal an additional 1d12 fire damage per level of the spell slot expended. 
 - **Flame Lash:** You can use your action to create a whip-like tendril of fire that extends up to 15 feet. Make a melee spell attack against a creature within range. On a hit, the target takes fire damage equal to 1d6 + your spellcasting ability modifier. The intense heat also causes the target to become dazzled, giving them disadvantage on their next attack roll. This ability’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+- **Inferno Disengage:** When you use the Disengage action, you create a burst of fire around you. Each creature within 5 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d6 fire damage and catches fire. On a successful save, a creature takes half damage The damage increases by 1d6 at 5th Adept level (2d6), 9th Master level (3d6), 13th Grandmaster level (4d6), and 17th Great-grandmaster level (5d6).
 
 **Cantrips:**
 - [Control Flames](https://5e.tools/spells.html#control%20flames_xge)
@@ -21,6 +22,7 @@ _Each ability costs 1 talent point_
 **2nd Level Spells:**
 - [Aganazzar's Scorcher](https://5e.tools/spells.html#aganazzar's%20scorcher_xge)
 - [Continual Flame](https://5e.tools/spells.html#continual%20flame_phb)
+- [Flame Blade](https://5e.tools/spells.html#flame%20blade_phb)
 - [Flaming Sphere](https://5e.tools/spells.html#flaming%20sphere_phb)
 - [Scorching Ray](https://5e.tools/spells.html#scorching%20ray_phb)
 
@@ -34,9 +36,9 @@ _Each ability costs 2 talent points_
 **Abilities:**
 - **Blazing Presence:** Your fiery aura gives you a commanding presence. You can use your action to create a burst of heat and light, giving you advantage on Intimidation checks and causing those who fail a Wisdom saving throw to be frightened until the end of your next turn.
 - **Flame Kinship:** You gain the ability to communicate with creatures of fire, such as Fire Elementals and Magmin, as if you shared a common language. This does not grant you the ability to control or command them but allows for basic communication and understanding.
-- **Ember’s Resilience:** You can channel the residual heat around you to bolster your own resistance. Once per short rest, when you fail a saving throw, you can choose to succeed instead, as long as the saving throw is against an effect that deals fire or heat damage.
-- **Blazing Trail:** As a bonus action, you can leave a trail of fire in your wake. For the next minute, any creature that moves through or ends its turn in a 10-foot-wide line you create takes fire damage equal to your spellcasting ability modifier. This trail lasts for 1 minute or until you choose to end it. This ability can only be used once per short rest.
-- **Scorched Ground:** As an action, you can cause a 20-foot radius area on the ground to become superheated for 1 minute. Creatures that start their turn in this area take fire damage equal to 2d6 + your spellcasting ability modifier. The area is difficult terrain, and the fire persists even if you move away from it.  This ability can only be used once per short rest.
+- **Ember’s Resilience:** You can channel the residual heat around you to bolster your own resistance. Once per long rest, when you fail a saving throw, you can choose to succeed instead.
+- **Blazing Trail:** When you take the dash action, you can leave a trail of fire in your wake. For the duration of the movement, any creature that moves through or ends its turn in a 10-foot-wide line you create takes fire damage equal to twice your spellcasting ability modifier. This trail lasts for 1 minute or until you choose to end it. 
+- **Scorched Ground:** As an action, you can cause a 20-foot radius area on the ground to become superheated within 120 feet of you for 1 minute. Creatures that start their turn in this area take fire damage equal to 2d6 + your spellcasting ability modifier. The area is difficult terrain, and the fire persists even if you move away from it. This ability can only be used once per short rest or long rest. This ability’s damage increases by 1d6 when you reach 9th Master level (3d6), 13th Grandmaster level (4d6), and 17th Great-grandmaster level (5d6).
 
 **3rd Level Spells:**
 - [Fireball](https://5e.tools/spells.html#fireball_phb)
@@ -45,3 +47,4 @@ _Each ability costs 2 talent points_
 **4th Level Spells:**
 - [Fire Shield](https://5e.tools/spells.html#fire%20shield_phb)
 - [Wall of Fire](https://5e.tools/spells.html#wall%20of%20fire_phb)
+

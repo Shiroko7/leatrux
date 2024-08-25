@@ -6,8 +6,8 @@ _Each ability costs 1 talent point_
 - **Miner's Touch:** Gain proficiency with mason’s tools and miner’s tools.
 - **Rock Whisperer:** You can communicate simple ideas with earth elementals and creatures of stone.
 - **Earth Sense:** You have advantage on Survival and Perception checks to navigate underground or in rocky terrain.
-- **Stone Fist:** Your unarmed strikes deal 1d6 bludgeoning damage and count as magical for overcoming resistance and immunity.
-- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). On three successful hits the target must succeed on a Dexterity saving throw or be knocked prone. The number of pebbles you can hurl increases by 1 when you reach 5th level (4 pebbles), 11th level (5 pebbles), and 17th level (6 pebbles).
+- **Stone Fist:** Your unarmed strikes deal 1d6 bludgeoning damage and count as magical for overcoming resistance and immunity. The damage dice increase to 1d8 at 5th Adept level, 1d10 at 9th Master level, and 1d12 at 11th Grandmaster level.
+- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). On three successful hits the target must succeed on a Dexterity saving throw or be knocked prone. The number of pebbles you can hurl increases by 1 when you reach 5th Adept level (4 pebbles), 9th Master level (5 pebbles), 13th Grandmaster level (6 pebbles) and 17th Great-grandmaster level (7 pebbles).
 
 **Cantrips:**
 - [Magic Stone](https://5e.tools/spells.html#magic%20stone_xge)
@@ -31,9 +31,9 @@ _Each ability costs 2 talent points_
 - **Earthen Resilience:** Gain proficiency in Constitution saving throws.
 - **Terramancer:** Gain expertise (double proficiency bonus) in Athletics when performing tasks involving lifting, pushing, or pulling heavy objects made of stone or earth.
 - **Stone Camouflage:** You have advantage on Stealth checks to hide in rocky terrain or against stone surfaces.
-- **Earthen Grasp:** You can use an action to cause the ground to grasp a creature within 30 feet, restraining it for 1 minute. The target can make a Strength saving throw at the end of each of its turns to break free. You can use this feature after a long res
+- **Earthen Grasp:** You can use an action to cause the ground to grasp a creature within 30 feet, restraining it for 1 minute. The target can make a Strength saving throw at the end of each of its turns to break free. You can use this feature after a long rest.
 - **Stone Armor:** As a bonus action, you can encase yourself in a layer of stone, granting you resistance to bludgeoning, piercing, and slashing damage for 1 minute. You can use this feature after a short or long rest.
-- **Sandstorm:** You can use an action to create a swirling storm of sand in a 20-foot radius centered on you. Creatures in the area must make a Constitution saving throw or be blinded until the end of their next turn. You can use this feature after a long rest.
+- **Sandstorm:** As an action, you create a swirling storm of sand in a 20-foot radius centred on you. Each creature in the area must make a Constitution saving throw, taking 3d6 bludgeoning damage on a failed save and becoming blinded until the end of their next turn, or half as much damage on a successful save. The storm lasts for 1 minute. The area is difficult terrain, any creature that starts its turn within the storm takes 1d6 damage. This ability can be used once per long rest. This ability’s range increases by 10-foot when you reach 9th Master level (30-foot radius), 13th Grandmaster level (40-foot radius) and 17th Great-grandmaster level (50-foot radius).
 
 **3rd Level Spells:**
 - [Erupting Earth](https://5e.tools/spells.html#erupting%20earth_xge)
@@ -43,3 +43,4 @@ _Each ability costs 2 talent points_
 **4th Level Spells:**
 - [Stone Shape](https://5e.tools/spells.html#stone%20shape_phb)
 - [Stoneskin](https://5e.tools/spells.html#stoneskin_phb)
+
