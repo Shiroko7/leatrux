@@ -2,30 +2,24 @@
 _Each ability costs 1 talent point_
 
 **Abilities:**
-- **Echoes of the Deep:** You can communicate with aquatic creatures or spirits of water, allowing you to understand their language and gain information about underwater locations or hidden treasures. This ability lasts for 10 minutes and can be used once per short rest.
-- **Ice Form:** As a bonus action, you can turn your body into ice for 1 minute. You gain resistance to cold and fire damage and your movement speed is reduced by 10 feet. You can use this ability once per long rest.
-- **Raincaller:** You can call forth a light rain within a 20-foot radius centered on you for 10 minutes. This rain lightly obscures the area, granting disadvantage on Perception checks relying on sight and extinguishing small fires.
-- **Restorative Rain:** You can call forth a light rain that provides a soothing effect. As an action, you create a 20-foot radius of rain that lasts for 10 minutes. Allies within the rain remove one level of exhaustion, and every round, they regain 1 hit point. Usable once per long rest.
-- **Aqua Agility**: Your swimming speed equals your walking speed. Additionally, you gain the ability to breathe underwater and move through water at your normal speed without penalty.
+- **Venomous Touch:** As an action, you can imbue your touch with a mild poison. A creature you touch must make a Constitution saving throw against your spell save DC or become poisoned for 1 minute. While poisoned this way, the creature takes 1d4 poison damage at the start of each of its turns until it succeeds a saving throw. The poison ends early if the creature receives any kind of healing. This ability’s damage increases by 1d4 when you reach 5th Adept level (2d4), 9th Master level (3d4), 13th Grandmaster level (4d4), and 17th Great-grandmaster level (5d4).
+- **Herbalist’s Knowledge:** You gain proficiency with the Medicine skill and advantage on checks to identify or use medicinal herbs and poisons.
+- **Elixir of Vitality:** As a bonus action, you can consume a special elixir to regain hit dice. You regain a number of hit dice equal to half your proficiency bonus (minimum of one). You can use this ability once per long rest.
+- **Strength Booster:** You can drink a mutagen to gain advantage on Strength-based ability checks and saving throws for 10 minutes. Additionally, you gain a +2 bonus to Strength-based attack rolls during this time. You can use this ability once per short or long rest.
+- **Quickening Draught:** By drinking a specially prepared potion, you gain an additional 10 feet of movement speed for 1 hour and advantage on Dexterity-based ability checks. This effect can be used once per short or long rest.
+- **Enchanting Perfume**: As an action, you can apply a specially crafted perfume that enhances your charm and charisma. For the next hour, you gain a 1d4 bonus to Charisma (Persuasion) and Charisma (Deception) checks against humanoids. You can use this effect on a creature once per long rest.
 
 **Cantrips:**
-- [Acid Splash](https://5e.tools/spells.html#acid%20splash_phb)
-- [Frostbite](https://5e.tools/spells.html#frostbite_xge)
-- [Ray of Frost](https://5e.tools/spells.html#ray%20of%20frost_phb)
-- [Shape Water](https://5e.tools/spells.html#shape%20water_xge)
+- [Poison Spray](https://5e.tools/spells.html#poison%20spray_phb)
+- [Infestation](https://5e.tools/spells.html#infestation_xge)
 
 **1st Level Spells:**
-- [Create or Destroy Water](https://5e.tools/spells.html#create%20or%20destroy%20water_phb)
-- [Detect Poison and Disease](https://5e.tools/spells.html#detect%20poison%20and%20disease_phb)
-- [Fog Cloud](https://5e.tools/spells.html#fog%20cloud_phb)
-- [Grease](https://5e.tools/spells.html#grease_phb)
-- [Ice Knife](https://5e.tools/spells.html#ice%20knife_xge)
+- [Ray of Sickness](https://5e.tools/spells.html#ray%20of%20sickness_phb)
+- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_phb)
 
 **2nd Level Spells:**
-- [Melf's Acid Arrow](https://5e.tools/spells.html#melf's%20acid%20arrow_phb)
+- [Enlarge/Reduce](https://5e.tools/spells.html#enlarge%2freduce_phb)
 - [Protection from Poison](https://5e.tools/spells.html#protection%20from%20poison_phb)
-- [Snilloc's Snowball Swarm](https://5e.tools/spells.html#snilloc's%20snowball%20swarm_xge)
-- [Misty Step](https://5e.tools/spells.html#misty%20step_phb)
 
 ---
 
@@ -35,24 +29,14 @@ _Each ability costs 1 talent point_
 _Each ability costs 2 talent points_
 
 **Abilities:**
-- **Tide of Emotions:** By channelling the ebb and flow of water, you can influence the emotions of others within a 30-foot radius. Choose one emotion (calm, fear, or joy); affected creatures must succeed on a Wisdom saving throw or be overwhelmed by that emotion for 1 hour. Usable once per long rest.
-- **Tidal Surge:** You can summon a powerful wave of water that heals and revitalizes. As an action, you create a wave that washes over allies in a 30-foot radius, restoring hit points equal to 3d8 + your spellcasting ability modifier. This wave also removes one condition affecting allies (charmed, frightened, or poisoned). Usable once per long rest. This ability’s healing increases by 1d8 when you reach 9th Master level (4d8), 11th Grandmaster level (5d8), and 17th Great-Grandmaster level (6d8).
-- **Frozen Insight:** You can temporarily turn your thoughts into ice, allowing you to gain deep insight into a complex problem or puzzle. For 1 hour, you gain advantage on Intelligence checks related to solving mysteries or understanding arcane knowledge.
-- **Rain of Revelation:** You can summon a gentle, magical rain that grants clarity and insight to those who stand in it. Allies within a 20-foot radius can ask one question about their future or destiny, and you provide a vague but helpful answer based on your understanding of the world.
-- **Glacial Shield:** As a reaction, you can spend one spell slot and encase yourself in a barrier of ice, granting you temporary hit points equal to twice your spellcasting ability modifier + your spell level. This lasts for 1 minute. Usable once per long rest.
-- **Hydroportation:** You can teleport up to 60 feet to a space you can see within a body of water or mist. You must be in contact with the water or mist to use this ability. Can be used once per long rest.
-- **Surface Strider**: You can walk on the surface of water and you gain advantage on Dexterity (Acrobatics) checks to maintain your balance while walking on slippery or unstable surfaces.
+- **Venomous Strike:** As a bonus action, you can coat a weapon with a potent poison. The next attack you make with that weapon deals an additional 2d6 poison damage on a hit. The target must also succeed on a Constitution saving throw or be poisoned for 1 minute. You can use this ability once per long rest.
+- **Hallucinogenic Trance:** As an action, you can force a creature within 30 feet to make a Wisdom saving throw. On a failed save, the creature is subjected to vivid hallucinations for 1 minute, during which it has disadvantage on attack rolls, ability checks and mental saving throws. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. You can use this feature once per short or long rest.
+- **Enhanced Mutagen:** When you drink a mutagen, you can choose one ability score (Strength, Dexterity, or Constitution) to gain a +2 bonus for 10 minutes. You can use this ability once per short or long rest.
+- **Pill of Focus:** As a bonus action, you can consume a pill to gain advantage on concentration checks for the next hour. Additionally, you can maintain concentration on up to one additional spell or ability for the duration. This ability can be used once per long rest.
+- **Venomous Precision:** When attacking a creature that is poisoned, you have advantage on attack rolls against that creature. Starting at 9th Master level, when you hit a poisoned creature with a weapon attack, you deal an extra 1d6 poison damage. This bonus damage increases to 2d6 at 13th Grandmaster level and 3d6 at 17th Great-grandmaster level.
 
 **3rd Level Spells:**
-- [Sleet Storm](https://5e.tools/spells.html#sleet%20storm_phb)
-- [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
-- [Wall of Water](https://5e.tools/spells.html#wall%20of%20water_xge)
-- [Water Breathing](https://5e.tools/spells.html#water%20breathing_phb)
-- [Water Walk](https://5e.tools/spells.html#water%20walk_phb)
+- [Bestow Curse](https://5e.tools/spells.html#bestow%20curse_phb)
 
 **4th Level Spells:**
-- [Control Water](https://5e.tools/spells.html#control%20water_phb)
-- [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
-- [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)
-- [Watery Sphere](https://5e.tools/spells.html#watery%20sphere_xge)
 
