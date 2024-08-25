@@ -17,8 +17,81 @@
 	2. A Common or Uncommon Earth plant – Provides the stability needed for the body to endure enlargement.
 	3. A Common or Uncommon Wind plant – Infuses the potion with the essence of expansion and movement.
 
+## Healing Potion
+
+**Rarity**: Common  
+**Sell Price**: 50 gp
+
+- **Ingredients** - 25 gp worth of:
+    1. **Flameweed** (Fire, Common) – Provides a warm essence that revitalizes and stimulates recovery.
+    2. **Waterweed** (Water, Common) – Balances the potion, ensuring the healing properties are effectively delivered.
+    3. **Oakleaf** (Wood, Common) – Adds a stabilizing touch, reinforcing the body's natural healing processes.
+
+# Common Poisons
+
+## Poison of Weakness
+
+**Rarity**: Common  
+**Sell Price**: 100 gp
+
+- **Ingredients** - 50 gp worth of:
+    1. **Nightshade** (Poison, Common) – Provides the base toxic effect.
+    2. **Vinegarwort** (Acid, Common) – Enhances the weakening effect.
+
+**Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned and have disadvantage on Strength-based checks and saving throws for 1 hour.
+
+## Poison of Dullness
+
+**Rarity**: Common  
+**Sell Price**: 100 gp
+
+- **Ingredients** - 50 gp worth of:
+    1. **Nightshade** (Poison, Common) – Provides the base toxic effect.
+    2. **Waterweed** (Water, Common) – Balances the poison for a dulling effect.
+
+**Effect**: The victim must succeed on a Wisdom saving throw against the poisoner's DC or be poisoned and have disadvantage on Wisdom-based checks and saving throws for 1 hour.
+
+# Uncommon Poisons
+
+## Poison of Sluggishness
+
+**Rarity**: Uncommon  
+**Sell Price**: 200 gp
+
+- **Ingredients** - 100 gp worth of:
+    1. **Venomvine** (Poison, Uncommon) – Provides the base toxic effect.
+    2. **Pebblefern** (Earth, Uncommon) – Slows the victim's movements.
+    3. **Gustbloom** (Wind, Uncommon) – Adds a dispersive effect to the poison.
+
+**Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have their speed reduced by 10 feet, and have disadvantage on Dexterity-based checks and saving throws for 1 hour.
+
+## Poison of Confusion
+
+**Rarity**: Uncommon  
+**Sell Price**: 200 gp
+
+- **Ingredients** - 100 gp worth of:
+    1. **Venomvine** (Poison, Uncommon) – Provides the base toxic effect.
+    2. **Frostbell** (Water, Uncommon) – Adds an element of disorientation.
+    3. **Thunderbell** (Lightning, Uncommon) – Enhances the confusion effect.
+
+**Effect**: The victim must succeed on an Intelligence saving throw against the poisoner's DC or be poisoned, have disadvantage on Intelligence-based checks and saving throws, and may act erratically (similar to the _confusion_ spell) for 1 hour.
+
+## Poison of Lethargy
+
+**Rarity**: Uncommon  
+**Sell Price**: 200 gp
+
+- **Ingredients** - 100 gp worth of:
+    1. **Venomvine** (Poison, Uncommon) – Provides the base toxic effect.
+    2. **Stonecrop** (Earth, Common) – Contributes to the lethargic effect.
+    3. **Frostbell** (Water, Uncommon) – Adds a numbing sensation to the poison.
+
+**Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have disadvantage on Constitution-based checks and saving throws, and feel extremely fatigued for 1 hour.
+
+
 <style>
-    h2 {
+    h1,h2 {
         padding-top: 10px;
     }
     ol {
