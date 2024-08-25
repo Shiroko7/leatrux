@@ -6,7 +6,7 @@ _Each ability costs 1 talent point_
 - **Ice Form:** As a bonus action, you can turn your body into ice for 1 minute. You gain resistance to cold and fire damage and your movement speed is reduced by 10 feet. You can use this ability once per long rest.
 - **Raincaller:** You can call forth a light rain within a 20-foot radius centered on you for 10 minutes. This rain lightly obscures the area, granting disadvantage on Perception checks relying on sight and extinguishing small fires.
 - **Restorative Rain:** You can call forth a light rain that provides a soothing effect. As an action, you create a 20-foot radius of rain that lasts for 10 minutes. Allies within the rain remove one level of exhaustion, and every round, they regain 1 hit point. Usable once per long rest.
-- **Aqua Agility**: Your swimming speed equals your walking speed and you can move through difficult terrain in water (like underwater vegetation or currents) at normal speed without penalty.
+- **Aqua Agility**: Your swimming speed equals your walking speed. Additionally, you gain the ability to breathe underwater and move through water at your normal speed without penalty.
 
 **Cantrips:**
 - [Acid Splash](https://5e.tools/spells.html#acid%20splash_phb)
@@ -35,8 +35,8 @@ _Each ability costs 1 talent point_
 _Each ability costs 2 talent points_
 
 **Abilities:**
-- **Tide of Emotions:** By channeling the ebb and flow of water, you can influence the emotions of others within a 30-foot radius. Choose one emotion (calm, fear, or joy); affected creatures must succeed on a Wisdom saving throw or be overwhelmed by that emotion for 1 hour. Usable once per long rest.
-- **Tidal Surge:** You can summon a powerful wave of water that heals and revitalizes. As an action, you create a wave that washes over allies in a 30-foot radius, restoring hit points equal to 3d8 + your spellcasting ability modifier. This wave also removes one condition affecting allies (charmed, frightened, or poisoned). Usable once per long rest.
+- **Tide of Emotions:** By channelling the ebb and flow of water, you can influence the emotions of others within a 30-foot radius. Choose one emotion (calm, fear, or joy); affected creatures must succeed on a Wisdom saving throw or be overwhelmed by that emotion for 1 hour. Usable once per long rest.
+- **Tidal Surge:** You can summon a powerful wave of water that heals and revitalizes. As an action, you create a wave that washes over allies in a 30-foot radius, restoring hit points equal to 3d8 + your spellcasting ability modifier. This wave also removes one condition affecting allies (charmed, frightened, or poisoned). Usable once per long rest. This ability’s healing increases by 1d8 when you reach 9th Master level (4d8), 11th Grandmaster level (5d8), and 17th Great-Grandmaster level (6d8).
 - **Frozen Insight:** You can temporarily turn your thoughts into ice, allowing you to gain deep insight into a complex problem or puzzle. For 1 hour, you gain advantage on Intelligence checks related to solving mysteries or understanding arcane knowledge.
 - **Rain of Revelation:** You can summon a gentle, magical rain that grants clarity and insight to those who stand in it. Allies within a 20-foot radius can ask one question about their future or destiny, and you provide a vague but helpful answer based on your understanding of the world.
 - **Glacial Shield:** As a reaction, you can spend one spell slot and encase yourself in a barrier of ice, granting you temporary hit points equal to twice your spellcasting ability modifier + your spell level. This lasts for 1 minute. Usable once per long rest.
@@ -55,4 +55,5 @@ _Each ability costs 2 talent points_
 - [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
 - [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)
 - [Watery Sphere](https://5e.tools/spells.html#watery%20sphere_xge)
+
 
