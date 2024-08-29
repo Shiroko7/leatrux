@@ -1,21 +1,4 @@
 # Potion Recipes
-## Potion of Poison Resistance
-
-**Rarity**: Common  
-**Sell Price**: 100 gp
-- **Ingredients** - 50 gp worth of:
-	1. **Vinegarwort** (Acid, Common) – Provides the initial layer of resistance against toxins.
-	2. **Nightshade** (Poison, Common) – A controlled dose to build immunity.
-	3. **Waterweed** (Water, Common) – Dilutes and harmonizes the components for safe consumption.
-
-## Potion of Enlarge or Reduce
-
-**Rarity**: Uncommon  
-**Sell Price**: 250 gp
-- **Ingredients** - 125 gp worth of:
-	1. **Sourbell** (Acid, Uncommon) – Enhances the potency of size-altering magic.
-	2. A Common or Uncommon Earth plant – Provides the stability needed for the body to endure enlargement.
-	3. A Common or Uncommon Wind plant – Infuses the potion with the essence of expansion and movement.
 
 ## Healing Potion
 
@@ -26,6 +9,48 @@
     1. **Flameweed** (Fire, Common) – Provides a warm essence that revitalizes and stimulates recovery.
     2. **Waterweed** (Water, Common) – Balances the potion, ensuring the healing properties are effectively delivered.
     3. **Oakleaf** (Wood, Common) – Adds a stabilizing touch, reinforcing the body's natural healing processes.
+
+**Effect**: You regain 2d4 + 2 hit points when you drink this potion.
+
+## Potion of Poison Resistance
+
+**Rarity**: Common  
+**Sell Price**: 100 gp
+- **Ingredients** - 50 gp worth of:
+1. **Vinegarwort** (Acid, Common) – Provides the initial layer of resistance against toxins.
+2. **Nightshade** (Poison, Common) – A controlled dose to build immunity.
+3. **Waterweed** (Water, Common) – Dilutes and harmonizes the components for safe consumption.
+
+**Effect**: When you drink this potion, you gain resistance to poison damage for 1 hour.
+
+---
+
+# Spell Elixirs
+
+## Elixir of Enlarge or Reduce
+
+**Rarity**: Uncommon  
+**Sell Price**: 250 gp
+- **Ingredients** - 125 gp worth of:
+    1. **Sourbell** (Acid, Uncommon) – Enhances the potency of size-altering magic.
+    2. A Common or Uncommon Earth plant – Provides the stability needed for the body to endure enlargement.
+    3. A Common or Uncommon Wind plant – Infuses the potion with the essence of expansion and movement.
+
+**Effect**: The target receives the effect of the _Enlarge/Reduce_ spell. If the target is unwilling, it must succeed on a Constitution saving throw against the poisoner's DC.
+
+## Elixir of Confusion
+
+**Rarity**: Rare  
+**Sell Price**: 1000 gp
+
+- **Ingredients** - 500 gp worth of:
+    1. **Venomvine** (Poison, Uncommon) – Provides the base toxic effect.
+    2. **Ice Fern** (Water, Rare) – Adds an element of disorientation.
+    3. **Thunderbell** (Lightning, Uncommon) – Enhances the confusion effect.
+
+**Effect**: The target must succeed on a Wisdom saving throw against the poisoner's DC or suffer the effects of the _Confusion_ spell.
+
+---
 
 # Common Poisons
 
@@ -65,17 +90,6 @@
 
 **Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have their speed reduced by 10 feet, and have disadvantage on Dexterity-based checks and saving throws for 1 hour.
 
-## Poison of Confusion
-
-**Rarity**: Uncommon  
-**Sell Price**: 200 gp
-
-- **Ingredients** - 100 gp worth of:
-    1. **Venomvine** (Poison, Uncommon) – Provides the base toxic effect.
-    2. **Frostbell** (Water, Uncommon) – Adds an element of disorientation.
-    3. **Thunderbell** (Lightning, Uncommon) – Enhances the confusion effect.
-
-**Effect**: The victim must succeed on an Intelligence saving throw against the poisoner's DC or be poisoned, have disadvantage on Intelligence-based checks and saving throws, and may act erratically (similar to the _confusion_ spell) for 1 hour.
 
 ## Poison of Lethargy
 
@@ -87,8 +101,7 @@
     2. **Stonecrop** (Earth, Common) – Contributes to the lethargic effect.
     3. **Frostbell** (Water, Uncommon) – Adds a numbing sensation to the poison.
 
-**Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have disadvantage on Constitution-based checks and saving throws, and feel extremely fatigued for 1 hour.
-
+**Effect**: The target must succeed on a Constitution saving throw against the poisoner's DC or become poisoned, suffer disadvantage on Constitution checks and saving throws, and gain one level of exhaustion for 1 hour due to extreme fatigue.
 
 <style>
     h1,h2 {
