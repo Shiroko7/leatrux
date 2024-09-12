@@ -2,7 +2,7 @@
 _Each ability costs 1 talent point_
 
 **Abilities**:
-- **Gale Force Strike:** When you hit a creature of your size or smaller, or any creature that is one size category larger than you, with a weapon attack, you can choose to create a gust of wind that forces the creature to make a Strength saving throw. On a failed save, the creature is pushed 10 feet away from you. The distance increases by an additional 10 feet at 5th Adept level (20 feet), 9th Master level (30 feet), 13th Grandmaster level (40 feet), and 17th Great-grandmaster level (50 feet). This effect can be used once per turn.
+- **Gale Force Strike:** When you hit a creature of your size or smaller, or any creature that is one size category larger than you, with a weapon or melee attack, you can choose to create a gust of wind that forces the creature to make a Strength saving throw. On a failed save, the creature is pushed 10 feet away from you. The distance increases by an additional 10 feet at 5th Adept level (20 feet), 9th Master level (30 feet), 13th Grandmaster level (40 feet), and 17th Great-grandmaster level (50 feet). This effect can be used once per turn.
 - **Misty Escape:** When you take damage, you can use your reaction to turn into a cloud of mist, causing the attack to miss. You must spend a spell slot of 1st level or higher to use this ability. 
 - **Mistbound Step:** The Misty Step spell does not consume a spell slot if you begin or end your movement in a heavily obscured area.
 - **Misty Veil:** You can create a shroud of mist around you that obscures your appearance, granting advantage on Stealth checks to hide and disadvantage on Insight checks to discern your true intentions. This effect lasts for 1 hour and can be used once per long rest.
@@ -26,7 +26,7 @@ _Each ability costs 1 talent point_
 - [Dust Devil](https://5e.tools/spells.html#dust%20devil_xge)
 - [Gust of Wind](https://5e.tools/spells.html#gust%20of%20wind_phb)
 - [Shatter](https://5e.tools/spells.html#shatter_phb)
-- [Shatter](https://5e.tools/spells.html#shatter_phb)
+- [Silence](https://5e.tools/spells.html#silence_phb)
 
 ---
 

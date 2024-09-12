@@ -20,20 +20,27 @@ The crafting of weapons and armor requires rare and potent materials, each imbue
 
 ### Earth Crafting Materials
 
-- **Common**: **Stonecrop** – A basic rock used in crafting simple items.
-- **Uncommon**: **Pebblefern** – A refined rock for more specialized items.
-- **Rare**: **Rockrose** – A tough rock used in crafting durable equipment.
-- **Very Rare**: **Crystal Bloom** – A crystalline rock with magical properties used for high-quality items.
-- **Legendary**: **Earth Lotus** – A nearly indestructible rock used in legendary crafting.
+- **Common**: **Granite Shard** – A basic stone used in crafting simple items.
+- **Uncommon**: **Basalt Fragment** – A refined stone for more specialized items.
+- **Rare**: **Obsidian Slab** – A tough stone used in crafting durable equipment.
+- **Very Rare**: **Crystal Cluster** – A crystalline stone with magical properties used for high-quality items.
+- **Legendary**: **Geode Core** – A nearly indestructible stone used in legendary crafting.
 
 ### Fire Crafting Materials
 
-- **Common**: **Flame Ore** – A metal with fiery properties used in basic fire-themed items.
-- **Uncommon**: **Ember Ingot** – A metal with a faint glow, enhancing fire-related properties.
-- **Rare**: **Blaze Shard** – A rare metal with intense heat, used for powerful fire-enhanced gear.
-- **Very Rare**: **Inferno Bar** – A metal that burns with an eternal flame, used in exceptional items.
-- **Legendary**: **Phoenix Ember** – A mythical metal with regenerating properties, used for legendary fire-themed gear.
+- **Common**: **Inferno Ore** – A metal with fiery properties used in basic fire-themed items.
+- **Uncommon**: **Ember Metal** – A metal with a faint glow, enhancing fire-related properties.
+- **Rare**: **Blaze Crystal** – A rare metal with intense heat, used for powerful fire-enhanced gear.
+- **Very Rare**: **Flare Bar** – A metal that burns with an eternal flame, used in exceptional items.
+- **Legendary**: **Phoenix Ash** – A mythical metal with regenerating properties, used for legendary fire-themed gear.
 
+### Metal Crafting Materials
+
+- **Common**: **Ironstone** – A metal with properties similar to iron, often used in basic crafting.
+- **Uncommon**: **Silver Vein** – A metal with a silver sheen, used for refined or lightweight items.
+- **Rare**: **Gold Shard** – A gold-like metal for crafting high-value or enchanted items.
+- **Very Rare**: **Platinum Ore** – A platinum-like metal, highly durable for exceptional equipment.
+- **Legendary**: **Mercurial Alloy** – A rare metal with liquid-like properties used for legendary gear.
 ### Lightning Crafting Materials
 
 - **Common**: **Spark Crystal** – A crystal with static properties used in basic lightning-themed items.
@@ -42,21 +49,14 @@ The crafting of weapons and armor requires rare and potent materials, each imbue
 - **Very Rare**: **Electro Ingot** – A metal storing electrical energy, used in exceptional lightning items.
 - **Legendary**: **Lightning Core** – A rare and potent material releasing powerful electrical discharges for legendary gear.
 
-### Metal Crafting Materials
-
-- **Common**: **Ironleaf** – A metal with properties similar to iron, often used in basic crafting.
-- **Uncommon**: **Silverthorn** – A metal with a silver sheen, used for refined or lightweight items.
-- **Rare**: **Goldbloom** – A gold-like metal for crafting high-value or enchanted items.
-- **Very Rare**: **Platinum Fern** – A platinum-like metal, highly durable for exceptional equipment.
-- **Legendary**: **Mercury Lotus** – A rare metal with liquid-like properties used for legendary gear.
 
 ### Poison Crafting Materials
 
 - **Common**: **Toxic Resin** – A basic resin with mild poison properties used in simple items.
-- **Uncommon**: **Venomous Leaf** – A leaf with stronger poison properties for more specialized gear.
-- **Rare**: **Deadly Essence** – A rare essence with potent toxins used in powerful items.
+- **Uncommon**: **Venomous Ore** – A solid ore with strong poison properties used in specialized crafting.
+- **Rare**: **Toxic Gem** – A rare gemstone infused with deadly toxins, used in powerful items.
 - **Very Rare**: **Noxious Crystal** – A crystal with lethal poison properties for high-quality crafting.
-- **Legendary**: **Wraith’s Venom** – A legendary poison with extreme potency used for legendary gear.
+- **Legendary**: **Wraith’s Shard** – A legendary mineral shard with extreme potency used for legendary gear.
 
 ### Water Crafting Materials
 
