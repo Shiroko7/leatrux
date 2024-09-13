@@ -4,7 +4,7 @@ _Each ability costs 1 talent point_
 **Abilities:**
 - **Flame Ward:** You have advantage on saving throws against being frightened or charmed while within 10 feet of a source of fire or heat.
 - **Searing Gaze:** When you focus intently on a creature for 1 minute, you can attempt an Intimidation check. If successful, the creature is unsettled and has disadvantage on saving throws against being frightened or charmed by you for 1 hour. This ability can only be used once per long rest.
-- **Ember Strike:** When you hit a creature with a weapon or melee attack, you can expend a spell slot to deal an additional 1d12 fire damage per level of the spell slot expended. 
+- **Ember Strike:** When you hit a creature with a weapon attack, you can expend a spell slot to deal an additional 1d12 fire damage per level of the spell slot expended. 
 - **Flame Lash:** You can use your action to create a whip-like tendril of fire that extends up to 15 feet. Make a melee spell attack against a creature within range. On a hit, the target takes fire damage equal to 1d6 + your spellcasting ability modifier. The intense heat also causes the target to become dazzled, giving them disadvantage on their next attack roll. This ability’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 - **Inferno Disengage:** When you use the Disengage action, you create a burst of fire around you. Each creature within 5 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d6 fire damage and catches fire. On a successful save, a creature takes half damage The damage increases by 1d6 at 5th Adept level (2d6), 9th Master level (3d6), 13th Grandmaster level (4d6), and 17th Great-grandmaster level (5d6).
 
