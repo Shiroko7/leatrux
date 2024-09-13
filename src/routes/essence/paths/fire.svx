@@ -41,8 +41,8 @@ _Each ability costs 2 talent points_
 - **Scorched Ground:** As an action, you can cause a 20-foot radius area on the ground to become superheated within 120 feet of you for 1 minute. Creatures that start their turn in this area take fire damage equal to 2d6 + your spellcasting ability modifier. The area is difficult terrain, and the fire persists even if you move away from it. This ability can only be used once per short rest or long rest. This ability’s damage increases by 1d6 when you reach 9th Master level (3d6), 13th Grandmaster level (4d6), and 17th Great-grandmaster level (5d6).
 
 **3rd Level Spells:**
-- [Fireball](https://5e.tools/spells.html#fireball_phb)
-- [Flame Arrows](https://5e.tools/spells.html#flame%20arrows_xge)
+ - [Fireball](https://5e.tools/spells.html#fireball_phb)
+ - [Flame Arrows](https://5e.tools/spells.html#flame%20arrows_xge)
 
 **4th Level Spells:**
 - [Fire Shield](https://5e.tools/spells.html#fire%20shield_phb)

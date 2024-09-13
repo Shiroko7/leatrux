@@ -7,7 +7,7 @@ _Each ability costs 1 talent point_
 - **Rock Whisperer:** You can communicate simple ideas with earth elementals and creatures of stone.
 - **Earth Sense:** You have advantage on Survival and Perception checks to navigate underground or in rocky terrain.
 - **Stone Fist:** Your unarmed strikes deal 1d6 bludgeoning damage and count as magical for overcoming resistance and immunity. The damage dice increase to 1d8 at 5th Adept level, 1d10 at 9th Master level, and 1d12 at 11th Grandmaster level.
-- **Pebble Barrage:** As an action, you can hurl a handful of pebbles at a target within 30 feet, dealing 1d4 bludgeoning damage per pebble (up to 3 pebbles). On three successful hits the target must succeed on a Dexterity saving throw or be knocked prone. The number of pebbles you can hurl increases by 1 when you reach 5th Adept level (4 pebbles), 9th Master level (5 pebbles), 13th Grandmaster level (6 pebbles) and 17th Great-grandmaster level (7 pebbles).
+- **Pebble Barrage:** As an action, you hurl a handful of pebbles at creatures within 30 feet. Make a ranged spell attack for each pebble (up to 3 pebbles), each targeting any creature of your choice within range. Each hit deals 1d4 bludgeoning damage. If the same target is hit by three consecutive pebbles in the same turn, it must succeed on a Strength saving throw or be knocked prone. The number of pebbles you can hurl increases by 1 when you reach 5th Adept level (4 pebbles), 9th Master level (5 pebbles), 13th Grandmaster level (6 pebbles), and 17th Great-grandmaster level (7 pebbles).
 
 **Cantrips:**
 - [Magic Stone](https://5e.tools/spells.html#magic%20stone_xge)

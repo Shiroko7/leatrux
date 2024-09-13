@@ -2,7 +2,6 @@
 _Each ability costs 1 talent point_
 
 **Abilities:**
-- **Acid Resistance**: Gain resistance to acid damage. You are unaffected by acidic environments and can handle corrosive substances without harm.
 - **Expanded Explosion**: Your expertise in crafting explosives has improved the effectiveness of your bombs. When you create or use an explosive device, you increase its radius by 5 feet. For example, a bomb that normally affects a 10-foot radius now affects a 15-foot radius. This increased radius applies to all explosive effects you create, including those from your Improvised Explosives and any similar abilities. This ability’s range increases by 5 feet when you reach 9th Master level (10-foot), and by 10 feet 17th Great-Grandmaster level (20-foot).
 - **Caustic Bomb**: As an action, you can create a powerful, improvised explosive from available materials. It deals 3d6 acid damage in a 10-foot radius on a failed Dexterity saving throw, or half as much on a successful save. You can use this ability once per long rest. This ability’s damage increases by 1d6 when you reach 5th Adept level (4d6), 9th Master level (5d6), 13th Grandmaster level (6d6), and 17th Great-Grandmaster level (7d6).
 - **Alchemy Proficiency**: Gain proficiency in Alchemist’s Supplies. You can craft basic alchemical substances, such as acid flasks, potions of healing, and other simple concoctions.
@@ -29,6 +28,7 @@ _Each ability costs 1 talent point_
 _Each ability costs 2 talent points_
 
 **Abilities:**
+- **Acid Resistance**: Gain resistance to acid damage. You are unaffected by acidic environments and can handle corrosive substances without harm.
 - **Chemical Expertise**: You can create more advanced alchemical mixtures, such as potent acid flasks or alchemical fire. You gain a +2 bonus to checks involving Alchemist’s Supplies and can create these mixtures in half the usual time.
 - **Chaos Manipulation**: Once per long rest, you can cause a minor chaotic effect within 30 feet, such as causing objects to tremble, flicker, or shift unpredictably. The effect lasts for 1 minute and can create distractions or disorient opponents.
 - **Explosive Savant**: When you use an explosive device or alchemical flask, its damage increases by an additional damage dice. Additionally, you can use such devices as a bonus action instead of an action.
