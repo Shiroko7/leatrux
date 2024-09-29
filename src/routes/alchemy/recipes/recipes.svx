@@ -1,6 +1,24 @@
-# Potion Recipes
+---
+title: "Potion Recipes"
+---
 
-## Healing Potion
+# Table of Contents
+
+1. [Potion Recipes](#potion-recipes)
+    - [Common Potion Recipes](#common-potion-recipes)
+2. [Spell Elixirs](#spell-elixirs)
+    - [Common Spell Elixirs](#common-spell-elixirs)
+    - [Uncommon Spell Elixirs](#uncommon-spell-elixirs)
+    - [Rare Spell Elixirs](#rare-spell-elixirs)
+3. [Poisons](#poisons)
+    - [Common Poisons](#common-poisons)
+    - [Uncommon Poisons](#uncommon-poisons)
+
+<h1 id="potion-recipes">Potion Recipes</h1>
+
+<h2 id="common-potion-recipes">Common Potion Recipes</h2>
+
+### Healing Potion
 
 **Rarity**: Common  
 **Sell Price**: 50 gp
@@ -12,7 +30,7 @@
 
 **Effect**: You regain 2d4 + 2 hit points when you drink this potion.
 
-## Potion of Poison Resistance
+### Potion of Poison Resistance
 
 **Rarity**: Common  
 **Sell Price**: 100 gp
@@ -25,9 +43,48 @@
 
 ---
 
-# Spell Elixirs
+<h1 id="spell-elixirs">Spell Elixirs</h1>
 
-## Elixir of Enlarge or Reduce
+<h2 id="common-spell-elixirs">Common Spell Elixirs</h2>
+
+### Elixir of Spare the Dying
+
+**Rarity**: Common  
+**Sell Price**: 20 gp
+- **Ingredients**: - 10 gp worth of:
+	1. **Flameweed** (Fire, Common) – The heart, the fire of life, pulses with the preservation of existence. Infuse your elixirs with Flameweed to kindle the spark that spares the dying, ensuring that the light within never fades.
+
+### Elixir of Mending
+
+**Rarity**: Common  
+**Sell Price**: 20 gp
+- **Ingredients**: 10 gp worth of:
+	1. **Ironleaf** (Metal, Common) – The lungs grant breath and vitality, the very essence of restoration. Blend Ironleaf into your concoctions to mend the body, breathing new life into those who have faltered.
+
+### Elixir of Guidance
+
+**Rarity**: Common  
+**Sell Price**: 20 gp
+- Ingredients: 10 gp worth of:
+	1. **Oakleaf** (Wood, Common) – The liver, rooted in wood, offers direction and vision. Use Oakleaf to craft elixirs that guide the wandering spirit, illuminating paths yet unseen.
+
+### Elixir of Resistance
+
+**Rarity**: Common  
+**Sell Price**: 20 gp
+- Ingredients: 10 gp worth of:
+	1. **Stonecrop** (Earth, Common) – The spleen fortifies the body with endurance, a bastion against adversity. Stonecrop serves as your ally, creating resistance that shields the weary from harm.
+
+### Elixir of Prestidigitation
+
+**Rarity**: Common  
+**Sell Price**: 20 gp
+- Ingredients: 10 gp worth of:
+	1. **Waterweed** (Water, Common) – The kidneys cleanse and purify, an eternal flow of vitality. Infuse your potions with Waterweed to create the light touch of prestidigitation, transforming the mundane into the extraordinary.
+
+<h2 id="uncommon-spell-elixirs">Uncommon Spell Elixirs</h2>
+
+### Elixir of Enlarge or Reduce
 
 **Rarity**: Uncommon  
 **Sell Price**: 250 gp
@@ -38,7 +95,10 @@
 
 **Effect**: The target receives the effect of the _Enlarge/Reduce_ spell. If the target is unwilling, it must succeed on a Constitution saving throw against the poisoner's DC.
 
-## Elixir of Confusion
+
+<h2 id="rare-spell-elixirs">Rare Spell Elixirs</h2>
+
+### Elixir of Confusion
 
 **Rarity**: Rare  
 **Sell Price**: 1000 gp
@@ -52,9 +112,11 @@
 
 ---
 
-# Common Poisons
+<h1 id="poisons">Poisons</h1>
 
-## Poison of Weakness
+<h2 id="common-poisons">Common Poisons</h2>
+
+### Poison of Weakness
 
 **Rarity**: Common  
 **Sell Price**: 100 gp
@@ -65,7 +127,7 @@
 
 **Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned and have disadvantage on Strength-based checks and saving throws for 1 hour.
 
-## Poison of Dullness
+### Poison of Dullness
 
 **Rarity**: Common  
 **Sell Price**: 100 gp
@@ -76,9 +138,9 @@
 
 **Effect**: The victim must succeed on a Wisdom saving throw against the poisoner's DC or be poisoned and have disadvantage on Wisdom-based checks and saving throws for 1 hour.
 
-# Uncommon Poisons
+<h2 id="uncommon-poisons">Uncommon Poisons</h2>
 
-## Poison of Sluggishness
+### Poison of Sluggishness
 
 **Rarity**: Uncommon  
 **Sell Price**: 200 gp
@@ -91,7 +153,7 @@
 **Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have their speed reduced by 10 feet, and have disadvantage on Dexterity-based checks and saving throws for 1 hour.
 
 
-## Poison of Lethargy
+### Poison of Lethargy
 
 **Rarity**: Uncommon  
 **Sell Price**: 200 gp
@@ -104,7 +166,7 @@
 **Effect**: The target must succeed on a Constitution saving throw against the poisoner's DC or become poisoned, suffer disadvantage on Constitution checks and saving throws, and gain one level of exhaustion for 1 hour due to extreme fatigue.
 
 <style>
-    h1,h2 {
+    h1,h2,h3,h4 {
         padding-top: 10px;
     }
     ol {
