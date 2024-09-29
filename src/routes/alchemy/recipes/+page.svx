@@ -1,6 +1,6 @@
 <script>
+import '../../essence/markdown.css'
   import Recipes from './recipes.svx'
-  import '../../essence/markdown.css'
   import Navbar from '../navbar.svelte';
 </script>
 
