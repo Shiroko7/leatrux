@@ -9,16 +9,16 @@ _Each ability costs 1 talent point_
 - **Acidic Precision**: Your expertise with corrosive substances has honed your skill in turning everyday objects into deadly weapons. You gain proficiency with all thrown weapons and improvised thrown weapons.
 
 **Cantrips:**
-- [Acid Splash](https://5e.tools/spells.html#acid%20splash_phb)
+- [Acid Splash](https://5e.tools/spells.html#acid%20splash_xphb)
 - [Primal Savagery](https://5e.tools/spells.html#primal%20savagery_xge)
 
 **1st Level Spells:**
 - [Absorb Elements](https://5e.tools/spells.html#absorb%20elements_xge)
-- [Chromatic Orb](https://5e.tools/spells.html#chromatic%20orb_phb)
+- [Chromatic Orb](https://5e.tools/spells.html#chromatic%20orb_xphb)
 - [Chaos Bolt](https://5e.tools/spells.html#chaos%20bolt_xge)
 
 **2nd Level Spells:**
-- [Melf's Acid Arrow ](https://5e.tools/spells.html#melf's%20acid%20arrow_phb)
+- [Melf's Acid Arrow ](https://5e.tools/spells.html#melf's%20acid%20arrow_xphb)
 - [Dragon's Breath](https://5e.tools/spells.html#dragon's%20breath_xge)
 
 --- 
@@ -36,9 +36,9 @@ _Each ability costs 2 talent points_
 - **Acidic Embrace**: You can magically coat a weapon or object in a layer of corrosive acid. The weapon deals an additional 2d6 acid damage on a successful hit, and the object corrodes any non-magical material it touches. This effect lasts for 10 minutes and can be used once per long rest.
 
 **3rd Level Spells:**
-- [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
-- [Glyph of Warding](https://5e.tools/spells.html#glyph%20of%20warding_phb)
-- [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_phb)
+- [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_xphb)
+- [Glyph of Warding](https://5e.tools/spells.html#glyph%20of%20warding_xphb)
+- [Hunger of Hadar](https://5e.tools/spells.html#hunger%20of%20hadar_xphb)
 
 **4th Level Spells:**
 - [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)

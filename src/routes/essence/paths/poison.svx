@@ -10,16 +10,16 @@ _Each ability costs 1 talent point_
 - **Enchanting Perfume**: As an action, you can apply a specially crafted perfume that enhances your charm and charisma. For the next hour, you gain a 1d4 bonus to Charisma (Persuasion) and Charisma (Deception) checks against humanoids. You can use this effect on a creature once per long rest.
 
 **Cantrips:**
-- [Poison Spray](https://5e.tools/spells.html#poison%20spray_phb)
+- [Poison Spray](https://5e.tools/spells.html#poison%20spray_xphb)
 - [Infestation](https://5e.tools/spells.html#infestation_xge)
 
 **1st Level Spells:**
-- [Ray of Sickness](https://5e.tools/spells.html#ray%20of%20sickness_phb)
-- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_phb)
+- [Ray of Sickness](https://5e.tools/spells.html#ray%20of%20sickness_xphb)
+- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_xphb)
 
 **2nd Level Spells:**
-- [Enlarge/Reduce](https://5e.tools/spells.html#enlarge%2freduce_phb)
-- [Protection from Poison](https://5e.tools/spells.html#protection%20from%20poison_phb)
+- [Enlarge/Reduce](https://5e.tools/spells.html#enlarge%2freduce_xphb)
+- [Protection from Poison](https://5e.tools/spells.html#protection%20from%20poison_xphb)
 
 ---
 
@@ -36,7 +36,7 @@ _Each ability costs 2 talent points_
 - **Venomous Precision:** When attacking a creature that is poisoned, you have advantage on attack rolls against that creature. Starting at 9th Master level, when you hit a poisoned creature with a weapon attack, you deal an extra 1d6 poison damage. This bonus damage increases to 2d6 at 13th Grandmaster level and 3d6 at 17th Great-grandmaster level.
 
 **3rd Level Spells:**
-- [Bestow Curse](https://5e.tools/spells.html#bestow%20curse_phb)
+- [Bestow Curse](https://5e.tools/spells.html#bestow%20curse_xphb)
 
 **4th Level Spells:**
 

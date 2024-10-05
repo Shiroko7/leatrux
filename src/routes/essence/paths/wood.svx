@@ -10,27 +10,27 @@ _Each ability costs 1 talent point_
 
 
 **Cantrips:**
-- [Thorn Whip](https://5e.tools/spells.html#thorn%20whip_phb)
-- [Shillelagh](https://5e.tools/spells.html#shillelagh_phb)
-- [Shillelagh](https://5e.tools/spells.html#shillelagh_phb)
+- [Thorn Whip](https://5e.tools/spells.html#thorn%20whip_xphb)
+- [Shillelagh](https://5e.tools/spells.html#shillelagh_xphb)
+- [Shillelagh](https://5e.tools/spells.html#shillelagh_xphb)
 
 **1st Level Spells:**
-- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_phb)
-- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_phb)
-- [Entangle](https://5e.tools/spells.html#entangle_phb)
-- [Find Familiar](https://5e.tools/spells.html#find%20familiar_phb)
-- [Goodberry](https://5e.tools/spells.html#goodberry_phb)
-- [Speak with Animals](https://5e.tools/spells.html#speak%20with%20animals_phb)
-- [Unseen Servant](https://5e.tools/spells.html#unseen%20servant_phb)
+- [Purify Food and Drink](https://5e.tools/spells.html#purify%20food%20and%20drink_xphb)
+- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_xphb)
+- [Entangle](https://5e.tools/spells.html#entangle_xphb)
+- [Find Familiar](https://5e.tools/spells.html#find%20familiar_xphb)
+- [Goodberry](https://5e.tools/spells.html#goodberry_xphb)
+- [Speak with Animals](https://5e.tools/spells.html#speak%20with%20animals_xphb)
+- [Unseen Servant](https://5e.tools/spells.html#unseen%20servant_xphb)
 
 **2nd Level Spells:**
-- [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_phb)
-- [Lesser Restoration](https://5e.tools/spells.html#lesser%20restoration_phb)
-- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_phb)
-- [Barkskin](https://5e.tools/spells.html#barkskin_phb)
-- [Barkskin](https://5e.tools/spells.html#barkskin_phb)
-- [Locate Animals or Plants](https://5e.tools/spells.html#locate%20animals%20or%20plants_phb)
-- [Spike Growth](https://5e.tools/spells.html#spike%20growth_phb)
+- [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_xphb)
+- [Lesser Restoration](https://5e.tools/spells.html#lesser%20restoration_xphb)
+- [Animal Friendship](https://5e.tools/spells.html#animal%20friendship_xphb)
+- [Barkskin](https://5e.tools/spells.html#barkskin_xphb)
+- [Barkskin](https://5e.tools/spells.html#barkskin_xphb)
+- [Locate Animals or Plants](https://5e.tools/spells.html#locate%20animals%20or%20plants_xphb)
+- [Spike Growth](https://5e.tools/spells.html#spike%20growth_xphb)
 
 ---
 
@@ -51,20 +51,20 @@ _Each ability costs 2 talent points_
 	- This form lasts for 1 minute or until you use your action to revert to your normal form. You can use this feature once per long rest.
 
 **3rd Level Spells:**
-- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_phb)
-- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_phb)
-- [Phantom Steed](https://5e.tools/spells.html#phantom%20steed_phb)
-- [Plant Growth](https://5e.tools/spells.html#plant%20growth_phb)
-- [Speak with Dead](https://5e.tools/spells.html#speak%20with%20dead_phb)
-- [Speak with Plants](https://5e.tools/spells.html#speak%20with%20plants_phb)
-- [Spirit Guardians](https://5e.tools/spells.html#spirit%20guardians_phb)
+- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_xphb)
+- [Leomund's Tiny Hut](https://5e.tools/spells.html#leomund's%20tiny%20hut_xphb)
+- [Phantom Steed](https://5e.tools/spells.html#phantom%20steed_xphb)
+- [Plant Growth](https://5e.tools/spells.html#plant%20growth_xphb)
+- [Speak with Dead](https://5e.tools/spells.html#speak%20with%20dead_xphb)
+- [Speak with Plants](https://5e.tools/spells.html#speak%20with%20plants_xphb)
+- [Spirit Guardians](https://5e.tools/spells.html#spirit%20guardians_xphb)
 
 **4th Level Spells:**
-- [Conjure Woodland Beings](https://5e.tools/spells.html#conjure%20woodland%20beings_phb)
-- [Dominate Beast](https://5e.tools/spells.html#dominate%20beast_phb)
+- [Conjure Woodland Beings](https://5e.tools/spells.html#conjure%20woodland%20beings_xphb)
+- [Dominate Beast](https://5e.tools/spells.html#dominate%20beast_xphb)
 - [Faithful hound](https://www.dandwiki.com/wiki/Faithful_Hound_(5e_Spell) "Faithful Hound (5e Spell)")
-- [Grasping Vine](https://5e.tools/spells.html#grasping%20vine_phb)
-- [Giant Insect](https://5e.tools/spells.html#giant%20insect_phb)
-- [Guardian of Faith](https://5e.tools/spells.html#guardian%20of%20faith_phb)
-- [Locate Creature](https://5e.tools/spells.html#locate%20creature_phb)
+- [Grasping Vine](https://5e.tools/spells.html#grasping%20vine_xphb)
+- [Giant Insect](https://5e.tools/spells.html#giant%20insect_xphb)
+- [Guardian of Faith](https://5e.tools/spells.html#guardian%20of%20faith_xphb)
+- [Locate Creature](https://5e.tools/spells.html#locate%20creature_xphb)
 
