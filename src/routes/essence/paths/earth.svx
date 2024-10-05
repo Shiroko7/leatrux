@@ -38,9 +38,9 @@ _Each ability costs 2 talent points_
 **3rd Level Spells:**
 - [Erupting Earth](https://5e.tools/spells.html#erupting%20earth_xge)
 - [Wall of Sand](https://5e.tools/spells.html#wall%20of%20sand_xge)
-- [Meld into Stone](https://5e.tools/spells.html#meld%20into%20stone_phb)
+- [Meld into Stone](https://5e.tools/spells.html#meld%20into%20stone_xphb)
 
 **4th Level Spells:**
-- [Stone Shape](https://5e.tools/spells.html#stone%20shape_phb)
-- [Stoneskin](https://5e.tools/spells.html#stoneskin_phb)
+- [Stone Shape](https://5e.tools/spells.html#stone%20shape_xphb)
+- [Stoneskin](https://5e.tools/spells.html#stoneskin_xphb)
 

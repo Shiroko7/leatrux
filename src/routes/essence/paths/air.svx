@@ -15,18 +15,18 @@ _Each ability costs 1 talent point_
 - [Thunderclap](https://5e.tools/spells.html#thunderclap_xge)
 
 **1st Level Spells:**
-- [Fog Cloud](https://5e.tools/spells.html#fog%20cloud_phb)
-- [Feather Fall](https://5e.tools/spells.html#feather%20fall_phb)
-- [Jump](https://5e.tools/spells.html#jump_phb)
-- [Thunderwave](https://5e.tools/spells.html#thunderwave_phb)
+- [Fog Cloud](https://5e.tools/spells.html#fog%20cloud_xphb)
+- [Feather Fall](https://5e.tools/spells.html#feather%20fall_xphb)
+- [Jump](https://5e.tools/spells.html#jump_xphb)
+- [Thunderwave](https://5e.tools/spells.html#thunderwave_xphb)
 - [Warding Wind](https://5e.tools/spells.html#warding%20wind_xge)
 
 **2nd Level Spells:**
-- [Misty Step](https://5e.tools/spells.html#misty%20step_phb)
+- [Misty Step](https://5e.tools/spells.html#misty%20step_xphb)
 - [Dust Devil](https://5e.tools/spells.html#dust%20devil_xge)
-- [Gust of Wind](https://5e.tools/spells.html#gust%20of%20wind_phb)
-- [Shatter](https://5e.tools/spells.html#shatter_phb)
-- [Silence](https://5e.tools/spells.html#silence_phb)
+- [Gust of Wind](https://5e.tools/spells.html#gust%20of%20wind_xphb)
+- [Shatter](https://5e.tools/spells.html#shatter_xphb)
+- [Silence](https://5e.tools/spells.html#silence_xphb)
 
 ---
 
@@ -44,9 +44,9 @@ _Each ability costs 2 talent points_
 - **Cyclone Step:** When you use the Dash action, you can create a swirling vortex of wind around you. Creatures within 5 feet of your path must make a Strength saving throw or be knocked prone. The wind dissipates at the end of your movement. 
 
 **3rd Level Spells:**
-- [Fly](https://5e.tools/spells.html#fly_phb)
-- [Gaseous Form](https://5e.tools/spells.html#gaseous%20form_phb)
-- [Stinking Cloud](https://5e.tools/spells.html#stinking%20cloud_phb)
-- [Wind Wall](https://5e.tools/spells.html#wind%20wall_phb)
-- [Haste](https://5e.tools/spells.html#haste_phb)
+- [Fly](https://5e.tools/spells.html#fly_xphb)
+- [Gaseous Form](https://5e.tools/spells.html#gaseous%20form_xphb)
+- [Stinking Cloud](https://5e.tools/spells.html#stinking%20cloud_xphb)
+- [Wind Wall](https://5e.tools/spells.html#wind%20wall_xphb)
+- [Haste](https://5e.tools/spells.html#haste_xphb)
 

@@ -1,6 +1,12 @@
-import { mdsvex } from "mdsvex";
 import adapter from "@sveltejs/adapter-netlify";
+import rehypeSlug from 'rehype-slug'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
+import { mdsvex } from "mdsvex";
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
+
+const mdsvex_opts = {
+    rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings],
+}
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -11,7 +17,7 @@ const config = {
     adapter: adapter(),
   },
 
-  preprocess: [vitePreprocess(), mdsvex()],
+  preprocess: [vitePreprocess(), mdsvex(mdsvex_opts)],
   extensions: [".svelte", ".svx", ".md"],
 };
 

@@ -10,12 +10,12 @@ _Each ability costs 1 talent point_
 - **Metallic Echo:** When you strike a metallic object with a melee weapon, you can create a ringing sound that echoes in a 10-foot radius. Creatures in the area must succeed on a Constitution saving throw or be deafened until the end of their next turn.
 
 **Cantrips:**
-- [Blade Ward](https://5e.tools/spells.html#blade%20ward_phb)
+- [Blade Ward](https://5e.tools/spells.html#blade%20ward_xphb)
 - [Sword Burst](https://5e.tools/spells.html#sword%20burst_tce)
 
 **2nd Level Spells:**
-- [Cloud of Daggers](https://5e.tools/spells.html#cloud%20of%20daggers_phb)
-- [Heat Metal](https://5e.tools/spells.html#heat%20metal_phb)
+- [Cloud of Daggers](https://5e.tools/spells.html#cloud%20of%20daggers_xphb)
+- [Heat Metal](https://5e.tools/spells.html#heat%20metal_xphb)
 
 ---
 
@@ -34,5 +34,5 @@ _Each ability costs 2 talent points_
 **3rd Level Spells:**
 
 **4th Level Spells:**
-- [Fabricate](https://5e.tools/spells.html#fabricate_phb)
+- [Fabricate](https://5e.tools/spells.html#fabricate_xphb)
 

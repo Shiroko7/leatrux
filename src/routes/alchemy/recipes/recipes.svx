@@ -6,17 +6,19 @@ title: "Potion Recipes"
 
 1. [Potion Recipes](#potion-recipes)
     - [Common Potion Recipes](#common-potion-recipes)
-2. [Spell Elixirs](#spell-elixirs)
+2. [Spell Elixir Recipes](#spell-elixir-recipes)
     - [Common Spell Elixirs](#common-spell-elixirs)
     - [Uncommon Spell Elixirs](#uncommon-spell-elixirs)
     - [Rare Spell Elixirs](#rare-spell-elixirs)
-3. [Poisons](#poisons)
+3. [Poisons Recipes](#poison-recipes)
     - [Common Poisons](#common-poisons)
     - [Uncommon Poisons](#uncommon-poisons)
 
-<h1 id="potion-recipes">Potion Recipes</h1>
+# Potion Recipes
 
-<h2 id="common-potion-recipes">Common Potion Recipes</h2>
+## Common Potion Recipes
+
+<div class="recipe">
 
 ### Healing Potion
 
@@ -30,6 +32,10 @@ title: "Potion Recipes"
 
 **Effect**: You regain 2d4 + 2 hit points when you drink this potion.
 
+</div>
+
+<div class="recipe">
+
 ### Potion of Poison Resistance
 
 **Rarity**: Common  
@@ -41,11 +47,13 @@ title: "Potion Recipes"
 
 **Effect**: When you drink this potion, you gain resistance to poison damage for 1 hour.
 
----
+</div>
 
-<h1 id="spell-elixirs">Spell Elixirs</h1>
+# Spell Elixir Recipes
 
-<h2 id="common-spell-elixirs">Common Spell Elixirs</h2>
+## Common Spell Elixirs
+
+<div class="recipe">
 
 ### Elixir of Spare the Dying
 
@@ -54,6 +62,10 @@ title: "Potion Recipes"
 - **Ingredients**: - 10 gp worth of:
 	1. **Flameweed** (Fire, Common) – The heart, the fire of life, pulses with the preservation of existence. Infuse your elixirs with Flameweed to kindle the spark that spares the dying, ensuring that the light within never fades.
 
+</div>
+
+<div class="recipe">
+
 ### Elixir of Mending
 
 **Rarity**: Common  
@@ -61,28 +73,44 @@ title: "Potion Recipes"
 - **Ingredients**: 10 gp worth of:
 	1. **Ironleaf** (Metal, Common) – The lungs grant breath and vitality, the very essence of restoration. Blend Ironleaf into your concoctions to mend the body, breathing new life into those who have faltered.
 
+</div>
+
+<div class="recipe">
+
 ### Elixir of Guidance
 
 **Rarity**: Common  
 **Sell Price**: 20 gp
-- Ingredients: 10 gp worth of:
+- **Ingredients**: 10 gp worth of:
 	1. **Oakleaf** (Wood, Common) – The liver, rooted in wood, offers direction and vision. Use Oakleaf to craft elixirs that guide the wandering spirit, illuminating paths yet unseen.
+
+</div>
+
+<div class="recipe">
 
 ### Elixir of Resistance
 
 **Rarity**: Common  
 **Sell Price**: 20 gp
-- Ingredients: 10 gp worth of:
+- **Ingredients**: 10 gp worth of:
 	1. **Stonecrop** (Earth, Common) – The spleen fortifies the body with endurance, a bastion against adversity. Stonecrop serves as your ally, creating resistance that shields the weary from harm.
+
+</div>
+
+<div class="recipe">
 
 ### Elixir of Prestidigitation
 
 **Rarity**: Common  
 **Sell Price**: 20 gp
-- Ingredients: 10 gp worth of:
+- **Ingredients**: 10 gp worth of:
 	1. **Waterweed** (Water, Common) – The kidneys cleanse and purify, an eternal flow of vitality. Infuse your potions with Waterweed to create the light touch of prestidigitation, transforming the mundane into the extraordinary.
 
-<h2 id="uncommon-spell-elixirs">Uncommon Spell Elixirs</h2>
+</div>
+
+## Uncommon Spell Elixirs
+
+<div class="recipe">
 
 ### Elixir of Enlarge or Reduce
 
@@ -95,8 +123,11 @@ title: "Potion Recipes"
 
 **Effect**: The target receives the effect of the _Enlarge/Reduce_ spell. If the target is unwilling, it must succeed on a Constitution saving throw against the poisoner's DC.
 
+</div>
 
-<h2 id="rare-spell-elixirs">Rare Spell Elixirs</h2>
+## Rare Spell Elixirs
+
+<div class="recipe">
 
 ### Elixir of Confusion
 
@@ -110,11 +141,13 @@ title: "Potion Recipes"
 
 **Effect**: The target must succeed on a Wisdom saving throw against the poisoner's DC or suffer the effects of the _Confusion_ spell.
 
----
+</div>
 
-<h1 id="poisons">Poisons</h1>
+# Poison Recipes
 
-<h2 id="common-poisons">Common Poisons</h2>
+## Common Poisons
+
+<div class="recipe">
 
 ### Poison of Weakness
 
@@ -127,6 +160,10 @@ title: "Potion Recipes"
 
 **Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned and have disadvantage on Strength-based checks and saving throws for 1 hour.
 
+</div>
+
+<div class="recipe">
+
 ### Poison of Dullness
 
 **Rarity**: Common  
@@ -138,7 +175,11 @@ title: "Potion Recipes"
 
 **Effect**: The victim must succeed on a Wisdom saving throw against the poisoner's DC or be poisoned and have disadvantage on Wisdom-based checks and saving throws for 1 hour.
 
-<h2 id="uncommon-poisons">Uncommon Poisons</h2>
+</div>
+
+## Uncommon Poisons
+
+<div class="recipe">
 
 ### Poison of Sluggishness
 
@@ -152,6 +193,9 @@ title: "Potion Recipes"
 
 **Effect**: The victim must succeed on a Constitution saving throw against the poisoner's DC or be poisoned, have their speed reduced by 10 feet, and have disadvantage on Dexterity-based checks and saving throws for 1 hour.
 
+</div>
+
+<div class="recipe">
 
 ### Poison of Lethargy
 
@@ -165,12 +209,47 @@ title: "Potion Recipes"
 
 **Effect**: The target must succeed on a Constitution saving throw against the poisoner's DC or become poisoned, suffer disadvantage on Constitution checks and saving throws, and gain one level of exhaustion for 1 hour due to extreme fatigue.
 
+</div>
+
 <style>
-    h1,h2,h3,h4 {
-        padding-top: 10px;
+    h1,h2 {
+        padding-top: 0.5em;
     }
+
+    h1 {
+        font-size: 2em;
+        border-bottom: 2px solid oklch(var(--n));
+        color: oklch(var(--p));
+    }
+
+    h2 {
+        font-size: 1.75em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
+    h3 {
+        font-size: 1.5em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+    }
+
+    ul {
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+
     ol {
         list-style-type: decimal; 
         padding-left: 2em;
+        margin: 0.5em 1em;
     }
+
+    .recipe {
+        margin: 0.5em 1em;
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
 </style>
