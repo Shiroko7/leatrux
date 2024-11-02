@@ -8,6 +8,7 @@
         <li>
             <h2>System Rules</h2>
             <ul>
+                <li><h3><a href="setting">Setting and Homebrew Rules</a></h3></li>
                 <li><h3><a href="alchemy">Alchemy</a></h3></li>
                 <li><h3><a href="blacksmithing">Blacksmithing</a></h3></li>
                 <li><h3><a href="essence">Essences</a></h3></li>

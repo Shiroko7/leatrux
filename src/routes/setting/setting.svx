@@ -1,0 +1,137 @@
+# Setting and Homebrew Rules
+
+As you should have realized by now, the **essences** mechanic in this setting has different stages that match different **tiers of play** in D&D 5e, or more accurately, each time your **proficiency bonus** increases. This system is unique to this setting and campaign, having roots in the origin of this world of **dragons** (and dungeons). I originally planned something similar for the **Leatrux's** campaign in a more simplistic manner; however, I expanded it beyond the main elemental planes to cover a wider array of fantasy and magic tropes. You might have also noticed that I like to use confusing terms and sometimes give more than a single name or meaning to a concept. _This isn't only because I'm such a martialpilled qi maxxer on my dao seeking arc_, but because every culture, region, and continent in this setting has a different view of the world's essences, and thus they all have different explanations and names for these concepts.
+
+In a more holistic view, this campaign takes place during a transcendental period in the history of the world where you once played in favor of the gods. _A campaign that I might take to level 30 across countless years_. I had planned visits to every continent, each having its own shift in tone and genre with well-contained yet interconnected stories toward a common goal. _I developed this structure since I plan sessions with the understanding that any one might be the last_. The beginning of the campaign has already run longer than expected, and I barely feel we're halfway through. Things will pick up speed, but I'm not too concerned with this part of the story since this is one of the most important arcs.
+
+This first stop is a **xianxia** world, where everyone cultivates themselves to achieve a higher level of enlightenment, pursuing the **dao** (way, truth, purpose, etc.) between the **heavens** (the laws of the universe) and **earth** (the material world), with _**"man"**_ (or person) being in the middle. It's a ruthless way of living where the strong prey on the weak, where power is valued above all, and **fate** is the main antagonist.
+
+Now, why am I telling you all of this? Well, these concepts aren't just for flavor or lore that's lost on paper. They have mechanical implications and rules. While you haven't been in a situation where this matters yet, in the following sessions you should fear and respect your **seniors** as they have an unfair advantage against people of lower **realms**. This will literally **kill your character** in-game if you're not careful. Regardless of culture or social structure, mastering the **essences** of the world gives you the primal power to rule domains.
+
+_Alright, let this old monster give you a little good fortune:_
+
+## Fighting Opponents of Different Realms
+
+When fighting someone from a higher cultivation stage, characters suffer:
+
+- Disadvantage on all saving throws against their abilities.
+
+When fighting someone from a lower cultivation stage:
+
+- Advantage on saving throws against their abilities
+- +2 bonus to attack rolls for each realm above them
+- +1 bonus to AC for each realm above them
+
+Each cultivation stage grants innate damage reduction against lower stages:
+
+- Adept: Reduce damage from Qi Refining by 5
+- Master: Reduce damage from lower stages by 10
+- Grandmaster: Reduce damage from lower stages by 15
+- Great-grandmaster: Reduce damage from lower stages by 20
+- Pinnacle Great-grandmaster: Reduce damage from lower stages by 30
+
+_*This isn't a per-hit reduction; it's an overall damage reduction per character turn._
+
+I probably won't enforce these rules for regular ass monsters unless I feel it's appropriate, but be aware of others mastering essences, dragons, and ghosts. Also, without these rules, it would be literally impossible to balance encounters with the action economy of 5e.
+
+## The Stages
+
+### Initiate (Levels 1-4)
+
+Also known as qi refining. More than half of the people in the tribes can't even reach this stage and live as servants, slaves, workers, or livestock. Among cultivators, 90% fall into this category. In this stage, you begin to understand energy or qi around you, and you only need one-tenth of normal rations to stay alive.
+
+### Adept (Levels 5-8)
+
+Also known as foundation establishment or qi building. Cultivators at this stage are considered dragons among men and are figures of respect. This group represents the most reliable source of strength for the tribes. In this stage, you can partially function even if you are missing vital body parts, replenishing with the vital energy around you.
+
+### Master (Levels 9-12)
+
+Also known as core formation or golden core. Cultivators at this stage are the pillars of each tribe, taking direct disciples to strengthen them. There aren't more than a handful of them in each tribe. At this stage, you can't be killed unless your core is destroyed, and you can slowly recover body parts.
+
+### Grandmaster (Levels 13-16)
+
+Also known as nascent soul. These represent the tribe leaders and sometimes supreme elders of each tribe. They are as rare as finding a qilin horn or a phoenix's feather. At this stage, you can't be killed unless your nascent soul is destroyed, and even without a physical body, you maintain partial control over your abilities and can escape. You can also begin to understand the different planes and can perform minor teleports at will.
+
+### Great-grandmaster (Levels 17-20)
+
+Also known as soul formation, devas, or semi-gods. They are at the stage where they can challenge the boundary between this isle and the external world and ascend beyond this place. In the vast history of this island, only 10 figures have been able to reach this realm and leave this world, with none ever returning. At this stage, your deva soul can still use your essence abilities even if your body is completely destroyed. You begin to understand the laws of physics around you and can bend them at will.
+
+## The Learning Curve
+
+Learning or changing an essence takes this amount of time depending on the level of the essence:
+
+- Initiate: 1 week
+- Adept: 1 month
+- Master: half a year
+- Grandmaster: 1 year
+- Great-grandmaster: 10 years
+
+Breaking through to a new realm would also take this amount of time, or can be attempted in a similar timeframe. However, this isn't purely mechanically driven and will vary depending on the situation.
+
+## Other terms
+
+### The Sahā Realm
+
+This encompasses everyone below level 17. Not even a drop of water in the ocean. More than 99% of the population falls into this realm, no matter how awesome you think they are.
+
+### The Deva Realm
+
+This includes everyone between levels 17 and 20. This is the pinnacle of the mortal world, the final stop for very few. Here, one can manifest the laws of the world around them. However, they are still subject to samsara (the circle of rebirth), just like mortals.
+
+### The Mahāyāna Realm
+
+This is beyond level 20. This is where entities can ascend to godhood, immortality, or their own path toward the Nirvana.
+
+### The Nirvana Realm
+
+This is beyond level 30. A realm known only theoretically.
+
+
+ 
+
+# Everything in here is subject to change to my will.
+
+
+
+<style>
+    h1,h2 {
+        padding-top: 0.5em;
+    }
+
+    h1 {
+        font-size: 2em;
+        border-bottom: 2px solid oklch(var(--n));
+        color: oklch(var(--p));
+    }
+
+    h2 {
+        font-size: 1.75em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
+    h3 {
+        font-size: 1.5em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+    }
+
+    ul {
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+
+    ol {
+        list-style-type: decimal; 
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+    
+    p {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+</style>
+
