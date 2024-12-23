@@ -1,0 +1,97 @@
+# Arcane Trickster
+(Adapted from Pathfinder's 1e)
+
+More of a Wizard flavored rogue.
+
+**Hit Die**: d6.
+### Requirements
+To qualify to become an arcane archer, a character must fulfill all the following criteria.
+
+**Spellcasting:**  Ability to cast an arcane spell of 2nd level or higher.
+
+**Special**: Sneak Attack +2d6.
+
+| Level | Special                            | Spells per Day             |
+| ----- | ---------------------------------- | -------------------------- |
+| 1st   | Surprise Spells, Sneak attack +1d6 | +1 level of existing class |
+| 2nd   | Tricky Spells                      | +1 level of existing class |
+| 3rd   | Sneak attack +2d6                  | +1 level of existing class |
+| 4th   | Ability Score Improvement          | +1 level of existing class |
+| 5th   | Sneak attack +3d6                  | +1 level of existing class |
+| 6th   | Invisible Thief                    | +1 level of existing class |
+| 7th   | Sneak attack +4d6                  | +1 level of existing class |
+| 8th   | Ability Score Improvement          | +1 level of existing class |
+| 9th   | Sneak attack +5d6                  | +1 level of existing class |
+| 10th  | Superior Surprise Spells           | +1 level of existing clas  |
+
+### Class Features
+All of the following are class features of the arcane trickster prestige class.
+
+#### Weapon and Armor Proficiency
+Arcane tricksters gain no proficiency with any weapon or armor.
+
+#### Spells per Day
+When a new arcane trickster level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an arcane trickster, she must decide to which class she adds the new level for purposes of determining spells per day.
+
+#### Level 1: Surprise Spells
+An Arcane Trickster can apply their Sneak Attack to an Arcane spell attack if the spell deals damage, involves an attack roll, and meets the conditions for Sneak Attack. The extra damage from Sneak Attack is of the same type as the spell's damage. 
+
+#### Level 2: Tricky Spells
+An arcane trickster can cast her spells without their somatic or verbal components, as if using the Subtle Spells meta-magic. Casts using this ability do not increase in spell level or casting time. She can use this ability 1 time per day at 3rd level, 3 times per day at 5th level and one additional time per every two levels thereafter, to a maximum of 5 times per day at 9th level. The arcane trickster decides to use this ability at the time of casting.
+
+#### Level 4: Ability Score Improvement
+You gain the [Ability Score Improvement](https://5e.tools/feats.html#ability%20score%20improvement_xphb) feat or another [feat](https://5e.tools/feats.html) of your choice for which you qualify. 
+
+#### Level 6: Invisible Thief
+An arcane trickster can become invisible, as if under the effects of 
+_greater invisbility_ spell as a bonus action. She can remain invisible for a number of rounds per day equal to her arcane trickster level. Her caster level for this effect is equal to her caster level. These rounds need not be consecutive.
+
+#### Level 8: Ability Score Improvement
+You gain the [Ability Score Improvement](https://5e.tools/feats.html#ability%20score%20improvement_xphb) feat or another [feat](https://5e.tools/feats.html) of your choice for which you qualify. 
+
+#### Level 10: Supreme Surprise Spells
+At 10th level, an arcane trickster can add her sneak attack damage to any Arcane spell that deals damage. This additional damage only applies to spells that deal hit point damage, and the additional damage is of the same type as the spell. If the spell allows a saving throw to negate or halve the damage, it also negates or halves the sneak attack damage.
+
+
+<style>
+    h1,h2 {
+        padding-top: 0.5em;
+    }
+
+    h1 {
+        font-size: 2em;
+        border-bottom: 2px solid oklch(var(--n));
+        color: oklch(var(--p));
+    }
+
+    h2 {
+        font-size: 1.75em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
+    h3 {
+        font-size: 1.5em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+    }
+
+    ul {
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+
+    ol {
+        list-style-type: decimal; 
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+    
+    p {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+</style>
+

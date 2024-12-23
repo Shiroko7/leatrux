@@ -1,0 +1,31 @@
+<script>
+    import "../essence/markdown.css"
+</script>
+
+<div style="max-width: 60%; margin: auto; padding-top: 1rem;">
+    <div class="m-4">
+        <a class="" href="/">Home</a>
+    </div>
+    <h1>Leatrux Archives</h1>
+    <ul>
+        Why? Autism? Mostly, but those are mostly meant for bad guys. Feel free to use them though.
+        <li>
+            <h2>Classes</h2>
+            <ul>
+                <li><h3><a href="classes/bloodrager">Bloodrager</a></h3></li>
+            </ul>
+        </li>
+        <li>
+            <h2>Prestige Classes</h2>
+            <ul>
+                <li><h3><a href="classes/arcane-archer">Arcane Archer</a></h3></li>
+                <li><h3><a href="classes/arcane-trickster">Arcane Trickster</a></h3></li>
+                <li><h3><a href="classes/dragon-disciple">Dragon Disciple</a></h3></li>
+                <li><h3><a href="classes/duellist">Duellist</a></h3></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+

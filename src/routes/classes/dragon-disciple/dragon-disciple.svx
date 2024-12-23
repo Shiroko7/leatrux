@@ -1,0 +1,134 @@
+# Dragon Disciple
+(Adapted from Pathfinder's 1e)
+
+A dragon disciple is a character who has willingly embraced his draconic heritage and, through the power of magic, is able to harness his draconic bloodline to enhance his own abilities. (Copilot generated comment)
+
+**Hit Die**: d12.
+
+### Requirements
+
+To qualify to become a dragon disciple, a character must fulfill all the following criteria.
+
+**Race**: Any non-dragon.
+
+**Skills**: Arcana.
+
+**Languages**: Draconic.
+
+**Spellcasting**: Ability to cast 1st-level arcane spells. If the character has sorcerer levels, he must have the draconic bloodline. If the character gains levels of sorcerer after taking this class, he must take the draconic bloodline.
+
+
+| Level | Special                                                                                                                                        | Spells per Day             |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 1st   | Blood of Dragons                                                                                                                               | —                          |
+| 2nd   | Ability Score Improvement (Str +2), Dragon Bite                                                                                                | +1 level of existing class |
+| 3rd   | Breath Weapon                                                                                                                                  | +1 level of existing class |
+| 4th   | Ability Score Improvement                                                                                                                      | +1 level of existing class |
+| 5th   | Blindsight 30 ft.                                                                                                                              | —                          |
+| 6th   | Ability Score Improvement (Con +2), Dragon Resistances                                                                                         | +1 level of existing class |
+| 7th   | [Dragon form](https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/dragon-disciple/#TOC-Dragon-Form-Sp-) (1/day)                    | +1 level of existing class |
+| 8th   | Ability Score Improvement                                                                                                                      | +1 level of existing class |
+| 9th   | Wings                                                                                                                                          | —                          |
+| 10th  | Blindsight 60 ft., [Dragon form](https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/dragon-disciple/#TOC-Dragon-Form-Sp-) (2/day) | +1 level of existing clas  |
+
+
+### Class Features
+All of the following are class features of the arcane archer prestige class.
+#### Weapon and Armor Proficiency
+
+Dragon disciples gain no proficiency with any weapon or armor.
+
+#### Spells per Day
+At the indicated levels, an arcane archer gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming an arcane archer, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+#### Ability Boost  
+As a dragon disciple gains levels in this prestige class, his ability scores increase as noted on **Table: Dragon Disciple**. These increases stack and are gained as if through level advancement.
+
+#### Level 1: Blood of Dragons
+**Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s energy type, that spell deals +1 point of damage per die rolled.
+**Bloodline Powers**: The power of dragons flows through you and manifests in a number of ways. At 1st level, you must select one of the dragon types. This choice cannot be changed. A number of your abilities grant resistances and deal damage based on your dragon type, as noted on
+
+**Claws**: Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks deals 1d4 points of damage plus your Strength modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming resistances. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of damage of your energy type on a successful hit. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive.
+
+| Dragon Type | Energy Type |
+| ----------- | ----------- |
+| Black       | Acid        |
+| Blue        | Lightning   |
+| Green       | Poison      |
+| Red         | Fire        |
+| White       | Cold        |
+| Brass       | Fire        |
+| Bronze      | Lightning   |
+| Copper      | Acid        |
+| Gold        | Fire        |
+| Silver      | Cold        |
+| Emerald     | Thunder     |
+| Obsidian    | Fire        |
+| Platinum    | Psychic     |
+| Void        | Force       |
+
+#### Level 2: Dragon Bite
+At 2nd level, whenever the dragon disciple uses his bloodline to grow claws, he also gains a bite attack. This is a primary natural attack that deals 1d10 points of damage (1d8 if the dragon disciple is Small), plus the dragon disciple’s Strength modifier. Upon reaching 6th level, this bite also deals 1d10 points of energy damage. The type of damage dealt is determined by the dragon disciple’s bloodline.
+
+#### Level 3: Breath Weapon
+**Breath Weapon**: This breath weapon deals 1d6 points of damage of your energy type per your total level. Those caught in the area of the breath receive a dexterity saving throw for half damage. The DC of this save is equal to your spell DC. The area of effect can be a 30 foot cone or a 60 foot line. You can use this ability once per day.
+
+#### Level 4: Ability Score Improvement
+You gain the [Ability Score Improvement](https://5e.tools/feats.html#ability%20score%20improvement_xphb) feat or another [feat](https://5e.tools/feats.html) of your choice for which you qualify. 
+
+#### Level 5: Blindsense
+At 5th level, the dragon disciple gains blind sight with a range of 30 feet. At 10th level, the range of this ability increases to 60 feet.
+
+#### Level 6: Dragon Resistances
+You have Resistance to the damage type of your draconic bloodine.
+
+#### Level 7: Dragon Form (Sp)
+At 7th level, a dragon disciple can assume the form of a dragon. This ability works like _[form of the dragon](https://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i/) I_. At 10th level, this ability functions as _[form of the dragon](https://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i/) II_ and the dragon disciple can use this ability twice per day. Whenever he casts _[form of the dragon](https://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i/),_ he must assume the form of a dragon of the same type as his bloodline.
+
+#### Level 9: Wings
+Leathery dragon wings grow from your back as a bonus action, giving you a fly speed of 60 feet with average maneuverability. You can dismiss the wings as a free action.
+
+
+ 
+<style>
+    h1,h2 {
+        padding-top: 0.5em;
+    }
+
+    h1 {
+        font-size: 2em;
+        border-bottom: 2px solid oklch(var(--n));
+        color: oklch(var(--p));
+    }
+
+    h2 {
+        font-size: 1.75em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
+    h3 {
+        font-size: 1.5em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+    }
+
+    ul {
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+
+    ol {
+        list-style-type: decimal; 
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+    
+    p {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+</style>
+
