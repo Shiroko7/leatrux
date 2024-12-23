@@ -12,19 +12,15 @@ _Alright, let this old monster give you a little good fortune:_
 
 ## Fighting Opponents of Different Realms
 
-When fighting someone from a higher cultivation stage, characters suffer:
-
-- Disadvantage on all saving throws against their abilities.
-
 When fighting someone from a lower cultivation stage:
 
-- Advantage on saving throws against their abilities
 - +2 bonus to attack rolls for each realm above them
 - +1 bonus to AC for each realm above them
+- +1 bonus to saving throws for each realm above them
 
 Each cultivation stage grants innate damage reduction against lower stages:
 
-- Adept: Reduce damage from Qi Refining by 5
+- Adept: Reduce damage from lower stages by 5
 - Master: Reduce damage from lower stages by 10
 - Grandmaster: Reduce damage from lower stages by 15
 - Great-grandmaster: Reduce damage from lower stages by 20

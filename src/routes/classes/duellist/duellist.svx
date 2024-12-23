@@ -1,0 +1,118 @@
+# Duellist
+(Adapted from Pathfinder's 1e)
+
+A master of the blade, the duellist is a master of precision and finesse. (Copilot generated comment)
+
+**Hit Die**: d10.
+
+### Requirements
+
+To qualify to become a duellist, a character must fulfil all the following criteria.
+
+**Ability Score:** Dexterity 13 or higher.
+
+**Skills**: Acrobatics, Performance.
+
+**Feat**: [Defensive Duelist - 5etools](https://5e.tools/feats.html#defensive%20duelist_xphb)
+
+**Experience:** Character must be at least 5th level.
+
+| Level | Special                           |
+| ----- | --------------------------------- |
+| 1st   | Precise Strike, Enhanced Mobility |
+| 2nd   | Improved Reaction +2              |
+| 3rd   | Combat Reflexes                   |
+| 4th   | Ability Score Improvement         |
+| 5th   | Riptose                           |
+| 6th   | Elaborate Defence                 |
+| 7th   | Deflect Arrows                    |
+| 8th   | Ability Score Improvement         |
+| 9th   | No Retreat, Improved Reaction +4  |
+| 10th  | Crippling Critical                |
+
+### Class Features
+All of the following are class features of the duellist prestige class.
+
+#### Weapon and Armor Proficiency
+The duellist is proficient with all simple and martial weapons. Duellists are proficient with light armor but not with shields.
+
+#### Level 1: Precise Strike (Ex)
+A duellist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duellist level to her damage roll.
+
+When making a precise strike, a duellist cannot attack with a weapon in her other hand or use a shield. A duellist’s precise strike only works against living creatures with discernible anatomies. Any creature that is immune to critical hits is also immune to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike.
+
+#### Level 1: Enhanced Mobility
+Starting at 1st level, when wearing light or no armor and not using a shield, a duellist gains an additional +4 bonus to AC against attacks of opportunity caused when she moves out of a threatened square.
+
+#### Level 2: Improved Reaction 
+At 2nd level, a duellist gains a +2 bonus on initiative checks. At 9th level, the bonus increases to +4.
+
+#### Level 3: Combat Reflexes
+At 3rd level, when using a light or one-handed piercing weapon. You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus.
+
+#### Level 4: Ability Score Improvement
+You gain the [Ability Score Improvement](https://5e.tools/feats.html#ability%20score%20improvement_xphb) feat or another [feat](https://5e.tools/feats.html) of your choice for which you qualify. 
+
+#### Level 5: Riptose  
+Starting at 5th level, a duellist can make an attack of opportunity against any creature whose attack she successfully parries, so long as the creature she is attacking is within reach.
+
+#### Level 6: Elaborate Defence
+Every weapon you wield gains the **Defensive Property**
+**Defensive Property**: When you make an attack with this weapon, you can forgo a portion (or all) of your attack bonus. For every point of attack bonus sacrificed, you gain a +1 bonus to AC until the start of your next turn.
+
+#### Level 7: Deflect Arrows
+At 7th level, a duellist gains the benefit of the [Deflect Arrows](https://www.d20pfsrd.com/feats/combat-feats/deflect-arrows-combat) feat when using a light or one-handed piercing weapon. The duellist does not need a free hand to use this feat.
+
+#### Level 8: Ability Score Improvement
+You gain the [Ability Score Improvement](https://5e.tools/feats.html#ability%20score%20improvement_xphb) feat or another [feat](https://5e.tools/feats.html) of your choice for which you qualify. 
+
+#### Level 9: No Retreat 
+At 9th level, enemies adjacent to the duellist that take a disengage action provoke an attack of opportunity from the duellist.
+
+#### Level 10: Crippling Critical 
+When you confirm a critical hit using a light or one-handed piercing weapon, you can apply one of the following penalties in addition to the damage dealt: reduce all of the target’s speeds by 10 feet (minimum 5 feet), 1d4 points of Strength or Dexterity damage, –4 penalty on all saving throws, –4 penalty to Armor Class, or 2d6 points of bleed damage. These penalties last for 1 minute, except for ability damage, which must be healed normally, and bleed damage, which continues until the target receives magic healing or a DC 15 Medicine skill check.
+
+
+<style>
+    h1,h2 {
+        padding-top: 0.5em;
+    }
+
+    h1 {
+        font-size: 2em;
+        border-bottom: 2px solid oklch(var(--n));
+        color: oklch(var(--p));
+    }
+
+    h2 {
+        font-size: 1.75em;
+        border-bottom: 2px solid oklch(var(--n));
+    }
+
+    h3 {
+        font-size: 1.5em;
+    }
+
+    h4 {
+        font-size: 1.25em;
+    }
+
+    ul {
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+
+    ol {
+        list-style-type: decimal; 
+        padding-left: 2em;
+        margin: 0.5em 1em;
+    }
+    
+    p {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+</style>
+
+
