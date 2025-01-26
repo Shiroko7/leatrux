@@ -1,0 +1,9 @@
+## Harpy's Sincerity
+
+After their deaths during the trial, Herng and Marisella found themselves in a cosmic space, kneeling before an irritated Harpy. She berated them for dying at such an inconvenient moment, explaining that while she could easily resurrect them, doing so in front of witnesses would compromise her larger plans. As she continued her lecture, she proposed sending them to a special domain for a hundred years of training, dismissing their concerns about the time span by explaining the fluid nature of time in her realm.
+
+This scene was interrupted by the dramatic appearance of Lathander himself, whom Marisella immediately addressed as "Father." The god's presence nearly overwhelmed Herng, whose mortal consciousness struggled to process the divine manifestation. Only Harpy's intervention kept him from completely breaking down, while Marisella appeared notably accustomed to her divine father's presence.
+
+What began as Lathander making demands regarding his daughter quickly devolved into an unexpected squabble. Harpy accused him of false concern for Marisella, suggesting his true motivation was control over Amaterra. When Lathander attempted to intimidate her with his divine power, Harpy remained unimpressed, dismissively noting that this was merely his avatar rather than his true form. She then revealed her own true appearance: a majestic adult fey being with draconic features.
+
+The encounter reached its climax as Harpy not only dominated Lathander's avatar but proceeded to negotiate an extortion of cosmic resources from him. The sheer scale of these "galaxy grade" resources proved too much for Herng's mortal mind to comprehend, and he lost consciousness during their exchange of power, unable to process the true scope of what he was witnessing.

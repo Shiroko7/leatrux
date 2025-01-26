@@ -1,0 +1,3 @@
+[[Faelara]] stands as a supreme elder of the [[Lluvia Tribe]], having achieved remarkable advancement to the nascent soul realm before reaching 500 years of age—a feat considered exceptionally swift among the island's cultivators. As the main pillar of wind, she wields considerable influence within the tribe.
+
+Her martial and spiritual legacy manifests in multiple ways: she is the mother of [[Quill Rest]] and took [[Public/Articles/PCs/Laura Cassini|Laura]] under her wing as a disciple, intending to teach her the Arcane Archer path—a unique cultivation method of her own creation. Her reputation was forged in part during the trial of fire, where rumors tell of her emerging as the sole survivor after slaying hundreds of competitors.

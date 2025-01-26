@@ -1,0 +1,3 @@
+The Goat, one of the [[Divine Generals]], was the first to join the adventuring party. Distinguished by his white fur and remarkably human-like demeanor, this peculiar being exhibits highly unusual dietary preferences for his species—eschewing typical goat fare in favor of an exclusively carnivorous diet, with a particular predilection for organs over mere flesh.
+
+Reserved in nature, the Goat operates with a striking independence that often leads to complications. His tendency to act without consulting others and failure to communicate his intentions have frequently resulted in difficulties for his companions.

@@ -1,0 +1,1 @@
+[[Oxitee]], an elven warrior of the [[Tribe Llamarada]], shared his sister's tragic destiny. After leading [[Nilo]] and [[Marisella]] to their tribe alongside her, he too perished at [[Nilo]]'s hands during the trial of fire.

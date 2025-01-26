@@ -1,0 +1,13 @@
+### The Aftermath and Pure Ice Inheritance
+
+After capturing Dexter and witnessing Herng's revival, the party began a thorough investigation of the Liberation Sect's base. While Gio and Nilo focused on rescuing the surviving Lluvia tribe members, Thallassios, Herng, and Laura searched the premises for clues about the sect's experiments. Their search revealed detailed logs documenting various potion experiments, though it became clear the group lacked proper expertise in poison-making. The records also mentioned a figure named Harvis, an echelon seed of their group, who had disappeared into a gas crater, leaving only tattered clothes behind.
+
+Among the captives, they discovered an adept-level jade beauty named Elowen Thorn and a peculiar initiate called Lumina, who had been treated differently from the other prisoners. Unlike the rest, she had been spared from the experiments, though she remained powerless to help her fellow captives. Together with the rescued victims, the party used their medical knowledge and the cave's natural resources to create cures for the various afflictions inflicted upon the prisoners.
+
+During their investigation, Laura discovered a collection of documents from the outside world, apparently stolen from Korrin. Among them, she found a seemingly blank note that reacted to her dragonmark, revealing hidden text. The message detailed correspondence between House Aesio and House Veridis regarding an expedition to "The Land of the End," bearing her father's distinctive handwriting. Interrogation of Dexter revealed their connection to Korrin, whom they discovered was an outsider to the island—a fact that had terrified the sect members.
+
+The situation grew dire when they discovered the cave's entrance had been left open, threatening to flood the complex. After securing the door, Harpy led them to a hidden sanctuary: the Pure Ice Inheritance, a domain of crystal-clear ice. Dexter expressed disbelief at their fortune, as the inheritance had remained hidden during his years of exploration.
+
+Within this sacred space, the party underwent trials testing their convictions about purity. Their success earned them powerful rewards: three tears of Crystalina, a magical wand, a magical scimitar, and a single-use Ice Storm object. The party distributed these treasures, with Herng claiming the wand and Thallassios receiving the Frostreaver from Laura.
+
+Their victory was short-lived, however, as Dexter managed an audacious escape. Using frog excrement as a component for an invisibility spell, he successfully broke free from captivity and sealed the door with an arcane lock, leaving the party to contemplate their next move.

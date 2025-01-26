@@ -1,0 +1,1 @@
+Magnate, proud owner of [[Satlypaws]] and the guy who paid for the [[Fulh'ulbrech]].

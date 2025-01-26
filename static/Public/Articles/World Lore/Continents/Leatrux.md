@@ -1,0 +1,3 @@
+Leatrux stands as a sanctuary continent, named after its platinum dragon god who serves as a benevolent protector rather than a ruler. This land has become a haven for those seeking refuge from the conflicts that plague other realms, its shores welcoming those who have lost their homes to countless wars. Unlike other continents where dragons hold sway in numbers, Leatrux is unique in that its guardian deity stands alone - no other dragons make their home in these lands. 
+
+What makes this realm truly remarkable is its religious freedom. While other continents might demand devotion to their dragon gods, Leatrux the Platinum Dragon has done something unprecedented - allowing people to freely practice their own faiths and maintain their cultural traditions. 

@@ -1,0 +1,1 @@
+Elaindra holds the position of main pillar of rain within the water path. Her influence on the [[Lluvia Tribe]] runs deep, as she previously served as its matriarch and left an indelible mark by renaming the tribe during her reign. She maintains her power in the nascent soul realm of cultivation.

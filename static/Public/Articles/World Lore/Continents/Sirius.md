@@ -1,0 +1,3 @@
+Sirius is a vast expanse of ice and snow that has only recently been recognized as a continent, following the rise of its ambitious White dragon god. Unlike the established realms, this frozen territory is emerging as a new power, with its ruler setting sights beyond its frigid borders - particularly toward [[Aildrieg]] and its magical dominion.
+
+The landscape is an endless vista of ice fields, glaciers, and frozen peaks, where the bitter cold shapes every aspect of existence. Few dare to make their home in such an unforgiving environment, making the population sparse and scattered. Those who do survive here have adapted to extreme conditions that would break most others.

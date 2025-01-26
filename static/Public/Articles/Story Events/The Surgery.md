@@ -1,0 +1,15 @@
+## The Surgery
+
+As preparations for the desperate procedure began, Wang Dabao surprised everyone by bringing in an unexpected ally—Velira Shadowflame. The female bard's presence was met with mixed reactions, but her ability to provide inspiration through her arts could prove invaluable. She acknowledged the group with a silent nod, her reluctance evident; she was there solely for Marisella's sake, viewing the rest as necessary inconveniences.
+
+The operation would require perfect harmony of the five elements, with Nilo, Gio, Laura, Thallassios, and Lime serving as the primary surgeons. Lumina took up a supporting role, her divination abilities ready to twist fate in their favor—though fortune seemed to frown upon them that day. Their resources were limited: a handful of healing potions and materials that would have to suffice for both procedures.
+
+They began with Marisella, whose condition was most severe, requiring reconstruction of all five yin organs. The gravity of their task hung heavy in the air as they started with the heart, channeling fire essence in a procedure that nearly claimed her life. The kidney reconstruction came next, utilizing water essence, but they managed to restore only one of the pair. The spleen followed, requiring careful manipulation of earth essence, again achieving only partial success. The liver procedure, guided by wood essence, yielded similar results—functional, but not optimal. Finally, they reached the lungs, where metal essence flowed through their efforts, and at last, they achieved a complete success.
+
+Wang Dabao poured his heart into his performance, using every ounce of his inspirational ability to support Marisella's procedure. Velira, more conservative in her efforts, reserved most of her energy, offering only a single inspiration for Herng's upcoming surgery.
+
+Herng's procedure, though equally delicate, benefited from their newly gained experience. With three organs requiring attention—lungs, kidneys, and liver—they worked with greater confidence despite their dwindling resources. The difference showed in the results; each organ was restored to full functionality, a marked improvement over their earlier attempts.
+
+Eight exhausting hours after they began, the procedures were complete. Their patients lay unconscious, still trapped between life and death by the curse that had claimed them, but their bodies were whole again. Now came another test of patience: waiting for the curse to fade and for their companions to wake, hoping their desperate gambit would prove successful.
+
+The surgeons, drained both physically and mentally, could only watch and wait, their own recovery secondary to monitoring their patients' vital signs. In the quiet aftermath, the weight of what they had accomplished—and what might still go wrong—settled over the room like a heavy shroud.

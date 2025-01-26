@@ -1,0 +1,1 @@
+The inhabitants of the island are all elves, divided into three tribes, each with distinct characteristics, practices, and specializations. The party splits up to explore and interact with each tribe, uncovering their secrets and unique dynamics.
