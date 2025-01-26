@@ -16,21 +16,43 @@
   let error: string | null = null;
   let isInitializing = true;
 
+  // Load history and initialize
   onMount(async () => {
     try {
+      const savedMessages = localStorage.getItem('dndChatMessages');
+      if (savedMessages) {
+        messages = JSON.parse(savedMessages);
+      }
+      
       await vectorStore.initialize();
       isInitializing = false;
     } catch (e) {
-      error = `Failed to initialize: ${(e as Error).message}`;
+      error = `Spellbook failed: ${(e as Error).message}`;
       isInitializing = false;
     }
   });
+
+  // Auto-save messages
+  $: {
+    try {
+      localStorage.setItem('dndChatMessages', JSON.stringify(messages));
+    } catch (e) {
+      console.error('History preservation spell failed:', e);
+    }
+  }
 
   function formatTitle(path: string): string {
     return path
       .split('/').pop()
       ?.replace(/_/g, ' ')
-      ?.replace(/\.md$/, '') || 'Unknown';
+      ?.replace(/\.md$/, '') || 'Ancient Scroll';
+  }
+
+  function formatMessage(text: string): string {
+    return text
+      .replace(/\*\*(.*?)\*\*/g, '<strong class="text-primary">$1</strong>')
+      .replace(/\*(.*?)\*/g, '<em class="text-secondary">$1</em>')
+      .replace(/\n/g, '<br>');
   }
 
   async function sendMessage() {
@@ -41,9 +63,12 @@
     isLoading = true;
     error = null;
 
-    messages = [...messages, { role: 'user', content: userMessage }];
+    // Create temporary updated messages array
+    const updatedMessages = [...messages, { role: 'user', content: userMessage }];
+    messages = updatedMessages;
 
     try {
+      // Get relevant context
       const relevantDocs = await vectorStore.findRelevantContext(userMessage);
       const contextResults = relevantDocs.map(doc => ({
         content: doc.content,
@@ -51,28 +76,38 @@
         title: formatTitle(doc.path)
       }));
 
+      // Build context string
       const context = contextResults
         .map(doc => `**From ${doc.title}**\n${doc.content}`)
         .join('\n\n');
 
-      const systemPrompt = `You are a D&D sage. Strict rules:
-1. NEVER give personal opinions
-2. NEVER discuss unrelated topics
+      // System prompt with rules and context
+      const systemPrompt = `You are an ancient D&D sage. Strict rules:
+1. NEVER give opinions or modern references
+2. ONLY discuss campaign content
 3. ALWAYS stay in-character
-4. If unsure: "The ancient tomes are unclear..."
-5. Never mention being AI
-6. Use **bold** and *italics*
+4. If unsure: "The tomes are unclear..."
+5. Never mention being artificial
+6. Use **bold** for names/spells, *italics* for lore
 
-Relevant context:
+Relevant knowledge:
 ${context}`;
 
-      const response = await createChatCompletion([
+      // Include full conversation history
+      const apiMessages = [
         { role: 'system', content: systemPrompt },
-        { role: 'user', content: userMessage }
-      ]);
+        ...updatedMessages.map(msg => ({
+          role: msg.role,
+          content: msg.content
+        }))
+      ];
 
+      // Get AI response
+      const response = await createChatCompletion(apiMessages);
+
+      // Update messages with response
       messages = [
-        ...messages,
+        ...updatedMessages,
         { 
           role: 'assistant',
           content: response,
@@ -80,33 +115,36 @@ ${context}`;
         }
       ];
     } catch (e) {
-      error = `Error: ${(e as Error).message}`;
+      error = `Arcane connection failed: ${(e as Error).message}`;
     } finally {
       isLoading = false;
     }
-  }
-
-  function formatMessage(text: string): string {
-    return text
-      .replace(/\*\*(.*?)\*\*/g, '<strong class="text-primary">$1</strong>')
-      .replace(/\*(.*?)\*/g, '<em class="text-secondary">$1</em>')
-      .replace(/\n/g, '<br>');
   }
 </script>
 
 <div class="min-h-screen bg-base-300 flex flex-col">
   <!-- Navigation Bar -->
   <nav class="bg-base-200 shadow-md">
-    <div class="max-w-3xl mx-auto p-4">
+    <div class="max-w-3xl mx-auto p-4 flex justify-between items-center">
       <a href="/" class="btn btn-ghost gap-2">
         <span class="text-xl">🏰</span>
         <span>Campaign Archives</span>
       </a>
+      <button
+        on:click={() => {
+          messages = [];
+          localStorage.removeItem('dndChatMessages');
+        }}
+        class="btn btn-sm btn-error"
+        title="Clear chat history"
+      >
+        🧹 Clear History
+      </button>
     </div>
   </nav>
 
   <!-- Main Content -->
-  <div class="flex-1 max-w-3xl mx-auto w-full p-4 flex flex-col gap-4">
+  <div class="max-w-3xl mx-auto w-full p-4 flex-1 flex flex-col gap-4">
     {#if isInitializing}
       <div class="flex-1 flex items-center justify-center">
         <div class="text-center space-y-4">
