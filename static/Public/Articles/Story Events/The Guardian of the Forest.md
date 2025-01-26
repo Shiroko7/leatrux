@@ -1,0 +1,13 @@
+## The Guardian of the Forest
+
+The presence of Mu Youqing and his guardian beast Xiaobao had become an insurmountable barrier to the trial's third stage. These powerful entities had systematically prevented any advancement, forcing Korrin and the Liberation Sect to organize a collective resistance. They gathered all available cultivators, calling for group representatives to devise a strategy against the nascent soul realm master.
+
+The initial plan seemed sound—send a select team backed by two adepts to engage Xiaobao separately, allowing them an easier path to the third stage once the signal was given. They might even defeat the guardian beast if fortune favored them. Laura, speaking for her group, advocated for taking this seemingly safer route. However, Korrin had other plans, specifically requesting Thallassios's participation in the main battle, citing the powerful weapons in his possession. True to his nature, Thallassios agreed without hesitation, unknowingly binding his companions' fates to his decision.
+
+The strategy session that followed produced an intricate plan involving multiple spell formations and the distribution of powerful magical potions to key participants. Thallassios would receive layers of magical enhancement, positioning him as the spear's tip in their offensive against the guardian. The weight of responsibility settled heavily upon him, though he seemed oblivious to its true magnitude.
+
+After the general meeting, Korrin extended a private invitation to Nilo and Gio, offering them positions among his chosen echelons within the sect. They received his offer with measured consideration, expressing a desire to consult their masters about such a significant commitment.
+
+That night, Lime paid another visit to Nilo, her cynicism regarding the upcoming confrontation evident in her words. She specifically questioned Thallassios's chances of survival in his appointed role, suggesting darker motivations behind his selection. Despite her skepticism, she expressed curiosity about Korrin's apparent confidence. Her parting words to Nilo carried both warning and invitation—safety, she implied, lay at her side.
+
+Meanwhile, Selune reached out to Thallassios through Frostreaver, requesting a private audience. In the seclusion of a separate room, her illusory form materialized, heavy with concern. She warned him plainly of the vast power gap between him and their nascent soul realm opponent, but found his resolve unshakeable. Accepting his decision, she offered one final blessing through an intimate dual cultivation session. Though Thallassios could only endure two rounds, insufficient for a breakthrough, the experience forged a deeper bond between them.

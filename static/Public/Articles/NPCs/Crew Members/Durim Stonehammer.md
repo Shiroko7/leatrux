@@ -1,0 +1,1 @@
+Durim serves as the leader carpenter of the [[Fulh'ulbrech]], where his gruff dwarven demeanor matches his obsessive dedication to the ship's maintenance. When not scrutinizing every wooden detail of the vessel, he can typically be found enjoying strong drink. He holds traditional women—particularly non-elven relatives—in high regard.

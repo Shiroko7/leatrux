@@ -18,6 +18,8 @@
         <li>
             <h2>Campaign Resources</h2>
             <ul>
+                <li><h3><a href="chat">DM's Assistant</a></h3></li>
+                <li><h3><a href="https://publish.obsidian.md/leatrux/">Ancient Tomes</a></h3></li>
                 <li><h3><a href="continents/phudara">Phudara Tribes</a></h3></li>
                 <li><h3><a href="shop">Merchants</a></h3></li>
             </ul>

@@ -1,0 +1,7 @@
+The [[Harpy]] is a capricious fey creature whose presence has been intertwined with the party since their arrival at the [[Isle of Whispers]]. Her nature manifests in a chaotic blend of mischief and near-tyrannical impulses, making her an unpredictable force in any situation.
+
+Most notably, she played a pivotal role in reviving [[Public/Articles/PCs/Herng Azurit|Herng]] during the events of [[The Incels]]—a decision she would come to regret, leading her to petition [[Gio]] to reverse the resurrection and return him to his state as a tart.
+
+The true extent of [[Harpy]]'s powers was unveiled during [[Harpy's Sincerity]], when [[Public/Articles/PCs/Herng Azurit|Herng]] witnessed her extraordinary capabilities firsthand. Her might was demonstrated through her ability to freely manipulate and exhort an avatar of the god [[Lathender]]—a feat that revealed the true scope of her supernatural influence and power.
+
+Within the [[The Shadow Sect|Shadow Sect]], Harpy has carved out a distinctive position as a self-proclaimed saintess. In this role, she takes on the dual responsibilities of talent scout and island supervisor, identifying potential recruits while maintaining oversight of the isle's activities.

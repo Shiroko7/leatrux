@@ -1,0 +1,1 @@
+[[Selene Aeloria]] serves as the current matriarch of the [[Lluvia Tribe]], commanding authority from the nascent soul realm. Her personality is notably coquettish, a trait that stands in interesting contrast to her powerful position and cultivation level.

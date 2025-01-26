@@ -1,0 +1,1 @@
+A little Kobold with silver scales. Sailmaster of the [[Fulh'ulbrech]]. He believes that he will awaken the powers of his ancestors. Being a powerful and big red dragon. Silverscale went to bully the [[Gio]] when he was imprisoned for murder. He was sent flying during the night of [[The Ghosts of the Sea]]. His destiny unknown.

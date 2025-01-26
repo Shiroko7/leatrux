@@ -1,0 +1,3 @@
+Aildries is a continent under the watchful eye of its silver dragon goddess, a benevolent ruler who prioritizes the advancement of arcane knowledge among her people. Under her guidance, the continent has become the world's foremost center of magical learning.
+
+The landscape is dotted with grand academies and towers of magical study, where wizards from across the globe come to deepen their understanding of the arcane arts. These institutions have produced the most powerful spellcasters known to exist, their expertise unmatched in any other realm.

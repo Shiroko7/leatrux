@@ -1,0 +1,13 @@
+Following the chaos of the first phase, one group consisting of Nilo, Gio, Lime, Velira, Herng, Marisella, and Rachel found themselves in an eternally dark forest devoid of wildlife and natural sounds. While the Trial of Fire was meant to restrict all participants to the initiate level of cultivation, they discovered their magical items functioning at full power—a concerning anomaly. This discovery was followed by an even more troubling sight: a cultivator at the nascent soul realm flying overhead, confirming that the trial's power restrictions had somehow failed. During this time, Marisella worked to comfort the distraught Velira, who was struggling with recent defeats.
+Their journey through this realm revealed increasingly disturbing scenes:
+
+- A spectral library with ghostly hands searching through floating books, warning of a "hungry forest"
+- A training ground where spectral warriors performed increasingly desperate combat forms
+- Will-o'-wisps lamenting betrayal by someone named "Faelara"
+- An abandoned camp where Herng obtained a cursed item
+
+Their progress slowed due to their need for longer rest periods compared to elves, leaving them vulnerable. This vulnerability was tested when Nerion's group, including his adept protectors Jorath and Draven Shadowflame, ambushed them. The confrontation took an unexpected turn when Lime transformed into a bear and brutally defeated Jorath, secretly consuming his foundation. Nerion pursued the fleeing Velira while Draven retreated after facing the combined party. Afterward, Nilo discreetly consumed Jorath's heart, while Marisella noted the unusual nature of Lime's male bear form.
+
+The group's journey continued with a battle against a Chasme, collecting samples for study. However, their expedition took a tragic turn at a mysteriously abandoned camp near the mountain. Disturbing this site drew the attention of the powerful being they had observed earlier, resulting in the deaths of Herng and Marisella.
+
+Salvation came unexpectedly from Korrin, who appeared with his closest adepts and transported the survivors to a dimensional mansion. There, they found members of all three tribes and the Liberation Sect coexisting under his protection. Nilo and Gio, moved by their deep personal connections to the deceased—Nilo's gratitude for Marisella's past kindness and Gio's history with Herng—committed to attempting a resurrection. They discovered their companions' souls remained trapped in their bodies, which suffered from a Chasme-like vitality drain. Despite Lime's questioning of their resolve, Nilo even considered using his master's life-saving amulet on Marisella as they worked to gather the necessary materials for the resurrection attempt.

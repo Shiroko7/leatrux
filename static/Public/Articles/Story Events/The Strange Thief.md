@@ -1,0 +1,13 @@
+## The Strange Thief
+
+While the goat announced its departure to handle "business" in the Lluvia tribe, a concerned Nilo and Gio pursued it, arriving too late to prevent what was to come. Meanwhile, Laura was discussing with Faelara about a series of mysterious thefts plaguing the tribe, with magical items and materials vanishing from their stocks. Faelara directed Laura to pay respects to the paintings of previous wind pillars, expensive works gifted by a talented wooden path artist.
+
+Laura's inspection revealed something unusual—one painting was covered in ants. Following the trail, she discovered the painting was a fake, only to be confronted by Galea, a senior sister who warned her away from the investigation. The arrival of Nilo and Gio interrupted their tense exchange, with Galea departing after casting verbal barbs at the newcomers.
+
+The investigation expanded as they enlisted Lumina's help. They learned that even Lady Elowen had been affected by the thefts, finding her in a rage and threatening her servant Fin, who joined their search to clear his name. The group identified several suspects: Jin, a crippled former master; Kin, a young merchant; Min, a quiet fisherman; and Lin, a herbalist. During their investigation, Laura purchased a Silverthorn flower from Lin's shop as a cover, later giving it to Nilo to maintain appearances.
+
+Following the goat's trail led them to Kin, whose house reeked of disenchantment materials. There, they discovered Elandor's involvement. In the ensuing confrontation, a series of catastrophic mishaps left Nilo severely injured and poisoned, with Elandor being forcefully propelled away by the goat's intervention.
+
+Rather than pursue Elandor, the group made a shocking discovery: the goat had orchestrated a vast network of nearly a hundred mortals to steal powerful artifacts and rare materials. Faced with the likelihood that the true culprits would face execution to appease public outrage, they made a morally questionable decision. They chose to frame Jin, whose position as a former master made her a believable scapegoat. With the goat's assistance, they altered memories to fabricate a confrontation and capture. Laura, disturbed by this decision, requested to be excluded from the deception.
+
+In an unexpected turn of events, all the mortals the goat had recruited for its theft network ultimately joined the crew of the Fulh'ulbrech, finding a new purpose and refuge from their past activities. This addition significantly expanded the ship's crew, though the moral implications of their collective deception would continue to weigh on some of the party members.

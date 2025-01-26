@@ -1,0 +1,5 @@
+## The Opening Ceremony
+
+The eyes of the island's cultivation world focused on the gathering for the Trial of Fire. What began as a standard ceremony took an unexpected turn when the Lluvia Tribe made a shocking announcement: they would offer monetary rewards for the heads of rival tribe members. The other two tribes responded in kind, transforming the trial into a potential bloodbath. Gio's taunting of the Lluvia tribe resulted in a tenfold increase in the bounty on both his and Nilo's heads.
+
+Before the ceremony's conclusion, an unusual event occurred when Nilo, Gio, Herng and the missing Thallassios and Laura were suddenly pulled into the air. Herng quickly reminded Harpy about their need for groups, leading to the hasty inclusion of Marisella, Rachel, Lime, and the surprised Lumina. Meanwhile, the competition's dynamics shifted dramatically with the unexpected entry of the Liberation Sect, adding a fourth faction of 100 initiates to the existing 300.

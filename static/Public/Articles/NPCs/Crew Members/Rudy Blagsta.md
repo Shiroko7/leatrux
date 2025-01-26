@@ -1,0 +1,1 @@
+Rudy is a hobgoblin fisherman from the [[Fulh'ulbrech]]. After surviving the events of [[The Ghosts of the Sea]], he followed the party to the [[Isle of Whispers]] where he joined the [[Lluvia Tribe]]'s fisher guild to earn his own fortune.

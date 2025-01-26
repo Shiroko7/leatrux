@@ -1,0 +1,1 @@
+Amaterra is the world where Campaigns I and II take place. It is also the name of the dragon who created this planet. Amaterra divided herself into three aspects to nurture the world and make it a home for her draconic kin.

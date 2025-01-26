@@ -1,0 +1,13 @@
+## Reuniting at the Liberation Sect Mansion
+
+The reunion at Korrin's interdimensional mansion brought with it a mix of grief and desperate hope. Team Aqua learned of Herng and Marisella's fate, the news landing heavily among them. Wang Dabao, despite the somber atmosphere, couldn't contain his excitement at meeting Marisella, though the timing of his enthusiasm felt oddly displaced against the gravity of their situation.
+
+With the resurrection attempt scheduled for the following day, preparations took on an urgent rhythm. Nilo and Gio had already made extensive arrangements, with Nilo drawing inspiration from his master's research into yin organs. His theory was ambitious yet grounded in a macabre logic—if he could craft replacement organs for Herng and Marisella's crushed internals, the very curse that claimed their lives might preserve them in a state between life and death long enough for the procedure to work.
+
+As night fell over the mansion, a subtle drama began to unfold in its corridors. Lumina paced outside the rooms, her usual confidence replaced by visible anxiety as she struggled to find the courage to approach Nilo. Laura, noticing this unusual behavior, fabricated a reason to visit the kitchen, keeping a careful eye on Lumina's movements while maintaining a facade of casual indifference.
+
+The situation grew more complex when Lime emerged from her room. She took note of Lumina's nervous energy but proceeded past her with practiced nonchalance, entering Nilo's room as if it were a familiar routine. Lumina, unable to resist, positioned herself near the door, straining to hear their interaction. Inside, Lime's behavior shifted to something more provocative, her words of encouragement carrying a deliberate edge as she positioned herself near the door, seemingly aware of their audience.
+
+Satisfied with her performance, Lime sealed the room against eavesdroppers. Her demeanor transformed entirely as she began to dissect the political implications of tomorrow's attempted resurrection. She spoke with the sharp insight of a seasoned politician, outlining strategies to leverage their position against both the Tribes and the Sect. Her concerns extended beyond politics to Nilo's growing bloodlust, and she produced a peace offering of sorts—meat from animals she had hunted during their journey. Nilo, pragmatic despite everything, accepted some portions as a precaution.
+
+Meanwhile, Laura returned from her supposed kitchen errand to find Lumina still lingering, though the young woman quickly attempted to act as if nothing had transpired, retreating to their shared room.

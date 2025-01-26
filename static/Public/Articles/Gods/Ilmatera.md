@@ -1,0 +1,3 @@
+The goddess Ilmatera embodies endurance and martyrdom, serving as a divine patron for the suffering and oppressed. Known for her selfless nature, she willingly bears others' burdens and pain, with legends suggesting she would take on all the world's suffering if possible. She holds a particular affinity for those facing persecution and encourages both endurance in the afflicted and assistance from others.
+
+During the events of the Ghosts of the Sea, Ilmatera appeared to [[Nilo]] under the guise of Illira and provided aid to the party in their confrontation with [[Umberlee]].

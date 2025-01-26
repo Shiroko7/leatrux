@@ -7,13 +7,15 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
-    "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch"
+    "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
+    "index": "tsx scripts/generate-notes-index.ts"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.2.2",
     "@sveltejs/adapter-netlify": "^4.3.1",
     "@sveltejs/kit": "^2.5.18",
     "@types/fuzzy-search": "^2.1.4",
+    "@types/node": "^22.10.10",
     "autoprefixer": "^10.4.16",
     "daisyui": "^4.12.2",
     "markdownlint": "^0.35.0",
@@ -25,14 +27,21 @@
     "svelte-check": "^3.4.3",
     "svelte-preprocess": "^6.0.2",
     "tailwindcss": "^3.3.6",
-    "typescript": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.7.0",
+    "typescript": "^5.7.3",
     "vite": "^5.4.8"
   },
   "type": "module",
   "dependencies": {
+    "@langchain/openai": "^0.4.1",
+    "@octokit/rest": "^21.1.0",
     "@sveltejs/adapter-static": "^3.0.2",
+    "@xenova/transformers": "^2.17.2",
     "fuzzy-search": "^3.2.1",
     "js-yaml": "^4.1.0",
+    "langchain": "^0.3.13",
+    "octokit": "^4.1.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-slug": "^6.0.0"
   }

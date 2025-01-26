@@ -1,0 +1,1 @@
+Thornor, patriarch of the [[Tribe Llamarada]], stands as a master of metallurgic martial arts. Though long resigned to his fate, his diligent cultivation never wavered. Now, as calamity looms on the horizon, he races desperately toward a breakthrough that might ensure his survival and those of his tribe. He was interested in the foreign martial arts of [[Gio]].

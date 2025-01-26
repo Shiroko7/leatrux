@@ -1,0 +1,1 @@
+A young elven initiate of the [[Tribe Llamarada]] met her fate during the sacred trial of fire. Together with her brother [[Oxitee]], she had guided [[Nilo]] and [[Marisella]] to her tribe, only to fall by [[Nilo]]'s hand during the ritual.

@@ -1,0 +1,1 @@
+Captain of the [[Fulh'ulbrech]]. [[Eldon Deunwise]]'s best friend. Presumably dead by a severe thorax injury and several drownings.

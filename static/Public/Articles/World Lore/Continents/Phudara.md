@@ -1,0 +1,3 @@
+Phudara is a mystical continent under the domain of the emerald dragon goddess, a realm shrouded in natural wonder and mystery. While the exact population remains unknown, what's truly remarkable about this land is its extraordinary ecosystem.
+
+The forests of Phudara possess a magical vitality that surpasses even the legendary world trees found on other continents. Its wildlife exhibits enchanted properties unseen anywhere else - creatures that seem to blur the line between natural and magical beings, plants that pulse with arcane energy, and forests that appear to breathe with their own consciousness.

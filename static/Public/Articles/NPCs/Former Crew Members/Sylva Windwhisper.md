@@ -1,0 +1,1 @@
+An Aarakocra lookout of the [[Fulh'ulbrech]]. She went missing after she tried to save her little companion [[Silverscale]] from being send flying from the deck on the night of the [[The Ghosts of the Sea]].

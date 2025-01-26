@@ -1,0 +1,1 @@
+[[Nami]] is a female elven initiate who serves under the matriarch [[Selene Aeloria]]. She performs her duties as one of the matriarch's many servants.

@@ -1,0 +1,1 @@
+Griznak was a bugbear who served as first mate aboard the [[Fulh'ulbrech]]. He was discovered dead on the lower deck in the aftermath of [[The Ghosts of the Sea]].

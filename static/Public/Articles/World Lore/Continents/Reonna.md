@@ -1,0 +1,3 @@
+Reonna stands as a remote and isolated continent, characterized by its vast seascapes and towering salt-encrusted peaks. Under the watch of its Yellow dragon goddess, this realm remains one of the world's most secluded territories.
+
+The inhabitants of Reonna mirror their deity's reclusive nature. They are a people who have chosen isolation, neither venturing beyond their shores nor welcoming outsiders to their lands. Their society has developed in complete isolation, creating customs and traditions untouched by outside influence.
