@@ -1,13 +1,14 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { vectorStore } from '$lib/vectorStore';
-  import { createChatCompletion } from '$lib/embeddings';
+  import { createStreamingChatCompletion } from '$lib/embeddings';
   import type { ContextResult } from '$lib/types';
 
   type Message = {
     role: 'user' | 'assistant';
     content: string;
     context?: ContextResult[];
+    isStreaming?: boolean;
   };
 
   let messages: Message[] = [];
@@ -35,7 +36,9 @@
   // Auto-save messages
   $: {
     try {
-      localStorage.setItem('dndChatMessages', JSON.stringify(messages));
+      // Only save messages that aren't currently streaming
+      const completedMessages = messages.filter(msg => !msg.isStreaming);
+      localStorage.setItem('dndChatMessages', JSON.stringify(completedMessages));
     } catch (e) {
       console.error('History preservation spell failed:', e);
     }
@@ -102,21 +105,64 @@ ${context}`;
         }))
       ];
 
-      // Get AI response
-      const response = await createChatCompletion(apiMessages);
-
-      // Update messages with response
+      // Add initial assistant message with empty content that will be streamed into
       messages = [
         ...updatedMessages,
         { 
           role: 'assistant',
-          content: response,
-          context: contextResults
+          content: '',
+          context: contextResults,
+          isStreaming: true
         }
       ];
+
+      // Use streaming API
+      createStreamingChatCompletion(
+        apiMessages,
+        // On each chunk, update the message content
+        (chunk) => {
+          messages = messages.map((msg, i) => {
+            if (i === messages.length - 1 && msg.role === 'assistant') {
+              return {
+                ...msg,
+                content: msg.content + chunk
+              };
+            }
+            return msg;
+          });
+        },
+        // On error
+        (e) => {
+          error = `Arcane connection failed: ${e.message}`;
+          // Mark message as no longer streaming
+          messages = messages.map((msg, i) => {
+            if (i === messages.length - 1 && msg.role === 'assistant') {
+              return {
+                ...msg,
+                isStreaming: false
+              };
+            }
+            return msg;
+          });
+          isLoading = false;
+        },
+        // On complete
+        () => {
+          // Mark message as no longer streaming
+          messages = messages.map((msg, i) => {
+            if (i === messages.length - 1 && msg.role === 'assistant') {
+              return {
+                ...msg,
+                isStreaming: false
+              };
+            }
+            return msg;
+          });
+          isLoading = false;
+        }
+      );
     } catch (e) {
       error = `Arcane connection failed: ${(e as Error).message}`;
-    } finally {
       isLoading = false;
     }
   }
@@ -171,8 +217,11 @@ ${context}`;
             <div class={`chat-bubble ${message.role === 'user' ? 'bg-primary text-primary-content' : 'bg-base-100'}`}>
               <div class="prose prose-sm dark:prose-invert max-w-none">
                 {@html formatMessage(message.content)}
+                {#if message.isStreaming}
+                  <span class="inline-block animate-pulse">▋</span>
+                {/if}
               </div>
-              {#if message.context}
+              {#if message.context && !message.isStreaming}
                 <div class="mt-2 pt-2 border-t border-base-content/10 text-xs">
                   <span class="font-bold">Verified in:</span>
                   {#each message.context as doc}
@@ -187,19 +236,6 @@ ${context}`;
             </div>
           </div>
         {/each}
-
-        {#if isLoading}
-          <div class="chat chat-start">
-            <div class="chat-image avatar">
-              <div class="w-10 rounded-full bg-base-100 border-2 border-primary/10">
-                <span class="text-2xl">📜</span>
-              </div>
-            </div>
-            <div class="chat-bubble bg-base-100">
-              <span class="loading loading-dots loading-sm"></span>
-            </div>
-          </div>
-        {/if}
       </div>
 
       <!-- Input Form -->

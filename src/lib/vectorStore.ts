@@ -61,7 +61,7 @@ export const vectorStore = {
       // 4. Filter and sort results
       .filter(({ score }) => score > 0)
       .sort((a, b) => b.score - a.score)
-      .slice(0, 5)
+      .slice(0, 10)
       .map(({ note }) => note);
   }
 

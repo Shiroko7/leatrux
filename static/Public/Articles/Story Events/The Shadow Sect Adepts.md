@@ -1,0 +1,19 @@
+After the arena incident, [[Shui Yuan'hua]] gathered [[Nilo]], [[Thalassios]] and [[Laura]], introducing herself as their fellow disciple within the [[The Shadow Sect|shadow sect]]. With genuine delight, she produced a spatial pouch and withdrew a bag containing one thousand platinum. A funding instructed from the will of the island. [[Nilo]]'s hands moved with the swiftness of autumn lightning, securing the treasure before his companions fully registered its appearance.
+
+[[Shui Yuan'hua|Yan'hua]] advised them to use these resources wisely at the approaching auction. With a blush coloring her cheeks, she offered to guide [[Nilo]] in cultivating profound yin energy, mentioning the divine technique for achieving perfect yin body bestowed upon her when she claimed the water inheritance during the [[Trial of Fire]]. Before [[Nilo]] could properly respond, [[Thalassios]] misinterpreted her words with spiritual crudeness. His suggestive remarks caused [[Shui Yuan'hua|Yan'hua]]'s complexion to transform from alabaster to crimson. She departed swiftly, leaving them to shower apologies upon her retreating form.
+
+The consequences of [[Su Yaolan]]'s favor manifested in the following days. As [[Thalassios]] and [[Laura]] secluded themselves, [[Nilo]] found his duties at the medical guard increasingly challenging. Those who once freely offered blood now regarded him with cautious distance.
+
+Meanwhile, [[Gio]] emerged from seclusion to find his masters entrusting him with an auction mission. They presented him with a wooden tablet, instructing him not to exceed one hundred thousand gold and to break the tablet should he need assistance.
+
+Journeying alone, [[Gio]] soon detected a presence trailing him. He confronted a tall figure with verdant hair and an enigmatic smile—[[Fendral]], who introduced himself as a fellow [[The Shadow Sect|shadow sect]] member offering enlightenment through acid. Though initially resistant, [[Gio]] eventually accepted vials of crimson, azure, amber, and emerald liquids, incurring a ten thousand gold debt. When [[Gio]] expressed concern about payment, [[Fendral]] casually suggested the [[Serpentsoul Clan]]'s proposition as a solution, recommending their tight snakes if he's not into female elves.
+
+To balance this debt, [[Gio]] offered mysterious dust from his pouch. After sampling it directly, [[Fendral]] declared it superior to anything he'd encountered—a treasure of remarkable auction value. As they continued together, [[Fendral]] spoke of sect brotherhood and his own financial difficulties preventing him from assisting with [[Harpy]]'s requests.
+
+Across the mountain, [[Herng]] joined a merchant caravan for the auction, noticing [[Chromaela Ironheart]] of the [[Ironheart Clan]]. Recognizing her name from the [[Trial of Fire]] records, he approached her as a fellow sect disciple. She knew him without introduction, stating the island's will had spoken extensively of him.
+
+When questioned, she delivered a cutting response: she was instructed to withhold his funding due to his unreliable, spineless, degenerate, perverted, and abusive nature. Rather than dispute these characterizations, [[Herng]] merely offered justifications. [[Chromaela]] then referenced widespread rumors, including a disturbing incident with [[Durim]].
+
+"I am profoundly disgusted," she stated when [[Herng]] suggested she seemed unbothered, though her expression remained unchanged, "but perhaps my face fails to convey the depth of my revulsion."
+
+Her sharp words convinced [[Herng]] to retreat to solitude for the remainder of their journey toward the auction grounds.

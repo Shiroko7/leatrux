@@ -42,6 +42,7 @@
     "js-yaml": "^4.1.0",
     "langchain": "^0.3.13",
     "octokit": "^4.1.0",
+    "openai": "^4.87.3",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-slug": "^6.0.0"
   }
