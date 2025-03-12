@@ -1,0 +1,9 @@
+The sterile halls of the [[Lluvia Tribe]]'s medical guard welcomed [[Nilo]] as he arrived with [[Public/Articles/PCs/Laura Cassini|Laura]] and [[Lumina]] in tow. Paying his respects to [[Sister Mei]], he explained his situation and proposed a mutually beneficial arrangement—he would assist in treating patients while requesting blood donations for his studies.
+
+[[Sister Mei]] brought the trio to a private meeting room to discuss the matter further. Her perspective echoed [[Lime]]'s earlier insights, questioning why [[Nilo]] would choose to work outside his own tribe. She noted the strategic advantages of his presence during [[Public/Articles/PCs/Laura Cassini|Laura]]'s upcoming tribulation, where his healing skills could benefit many.
+
+During their conversation, [[Sister Mei]] subtly suggested that [[Nilo]] didn't need to request permission from all patients—implying that terminal cases might be suitable targets for his collection efforts without the formality of consent.
+
+Unlike [[Nilo]]'s companions from the ship, [[Lumina]] showed surprising eagerness to help, immediately offering to donate her blood. Her complete trust in [[Nilo]]'s intentions stood in stark contrast to the reservations his closer friends maintained.
+
+He soon noticed an increase in patients, particularly from the [[Liberation Sect]]. Investigation revealed the cause: the revival of honor duels in the training grounds, where men fought to court women. With this unexpected influx of injuries, [[Nilo]] recalculated that he could secure the hundred blood samples needed for his breakthrough ritual in just over a month.

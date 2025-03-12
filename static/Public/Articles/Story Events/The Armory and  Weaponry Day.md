@@ -1,0 +1,13 @@
+The third day of the auction focused on weapons and armor, where the party invested in enhancing their battle capabilities. [[Nilo]] secured a magically reinforced studded leather armor and a short bow, while [[Herng]] purchased an enchanted shield. [[Thalassios]] acquired a magically enhanced breastplate, leaving [[Laura]] with her heart set on the elegant and radiant [[Starshot Longbow]]. Unfortunately, their collective funds had been depleted by [[Thalassios]]'s extravagant purchase of the [[Manual of Quickness Action]].
+
+[[Thalassios]], confronting his financial obligation, approached [[Wang Dabao|Juan David]] regarding his debt. He paid thirty thousand gold pieces outright, whereupon [[Wang Dabao|Juan David]] proposed a compromise—he would forgive the remaining balance in exchange for [[Thalassios]]'s share of the sold passages aboard the [[Fulh'ulbrech]]. [[Thalassios]] readily accepted this arrangement, though his companions privately anticipated an inevitable swindle.
+
+Meanwhile, [[Herng]] sought out [[Chromaela Ironheart]] regarding the funding she was meant to provide their sect group. She revealed that, having witnessed their profligate spending on the first day, she had been instructed to withhold the gold until the auction's conclusion, promising to release it on the final day.
+
+Determined to acquire her desired bow, [[Laura]] turned to her senior sisters from her cultivation order. They advised against troubling their master with such trivial matters and collectively contributed six thousand gold pieces—their estimate of the bow's likely selling price. Their only condition was a future favor should they require her assistance.
+
+When the [[Starshot Longbow]] finally appeared on the auction block, [[Laura]] began bidding against several competitors. [[Llyrith]]—whom none in the party recalled meeting—withdrew early from contention. [[Feng]] from the [[Liberation Sect]] posed a more persistent challenge, as did [[Laura Bush]], who seemed intent on forcing her namesake to change her identity.
+
+In a bold move, [[Laura Cassini]] approached [[Laura Bush]] directly, offering with a deceptively sweet smile to change her name if [[Laura Bush]] purchased the bow for her. Confused by this ambiguous proposition and despite holding the current highest bid backed by her grandfather [[Zarvon Fungart]]'s authority, [[Laura Bush]] surprisingly withdrew from the competition.
+
+Thanks to this unexpected turn, [[Laura Cassini]] acquired the coveted [[Starshot Longbow]] for one thousand gold pieces less than anticipated—a small victory in the grand theater of the auction.

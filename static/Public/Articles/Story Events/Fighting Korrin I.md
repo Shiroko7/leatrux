@@ -7,3 +7,5 @@ The dragon's scales proved impenetrable, and its first breath of fire demonstrat
 Yet death itself seemed to bow to the will of the island, as fallen allies rose again and again. Above, [[Phudara]]'s illusory dragon form dwarfed [[Korrin]]'s transformation, a reminder of greater powers at play. When [[Lumina]] miraculously forced open an escape route, some took it - [[Lumina]] herself, [[Marisella]], and [[Lime]] fleeing to safety. [[Korrin]], growing desperate, resorted to swallowing [[Sylas]] whole, hoping to circumvent the island's protection.
 
 The tide turned through moments of brilliant coordination: [[Gio]]'s qi-shattering strike guided by tremorsense alone, [[Rachel Darm|Rachel]]'s fog-dispelling blow that forced [[Korrin]] back to elven form, and the final coordinated assault by [[Public/Articles/PCs/Thalassios Euphasath|Thalassios]] and [[Public/Articles/PCs/Herng Azurit|Herng]]. Victory found the party standing over their unconscious or dead opponents, the Liberation Sect thoroughly defeated.
+
+
