@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { vectorStore } from '$lib/vectorStore';
-  import { createStreamingChatCompletion } from '$lib/embeddings';
+  import { createChatCompletion } from '$lib/embeddings';
   import type { ContextResult } from '$lib/types';
 
   type Message = {
@@ -36,9 +36,7 @@
   // Auto-save messages
   $: {
     try {
-      // Only save messages that aren't currently streaming
-      const completedMessages = messages.filter(msg => !msg.isStreaming);
-      localStorage.setItem('dndChatMessages', JSON.stringify(completedMessages));
+      localStorage.setItem('dndChatMessages', JSON.stringify(messages));
     } catch (e) {
       console.error('History preservation spell failed:', e);
     }
@@ -70,6 +68,16 @@
     const updatedMessages = [...messages, { role: 'user', content: userMessage }];
     messages = updatedMessages;
 
+    // Add a placeholder assistant message that will be updated incrementally
+    messages = [
+      ...updatedMessages,
+      { 
+        role: 'assistant',
+        content: '',
+        isStreaming: true  // Flag to indicate this is being streamed
+      }
+    ];
+
     try {
       // Get relevant context
       const relevantDocs = await vectorStore.findRelevantContext(userMessage);
@@ -85,15 +93,16 @@
         .join('\n\n');
 
       // System prompt with rules and context
-      const systemPrompt = `You are an ancient D&D sage. Strict rules:
-1. NEVER give opinions or modern references
+      const systemPrompt = `You are an ancient D&D sage assistant. ALWAYS follow those sacred rules:
+1. NEVER give personal opinions 
 2. ONLY discuss campaign content
 3. ALWAYS stay in-character
 4. If unsure: "The tomes are unclear..."
 5. Never mention being artificial
 6. Use **bold** for names/spells, *italics* for lore
+7. Remove all [[]] from your respones.
 
-Relevant knowledge:
+This is all the knowledge about the campaign:
 ${context}`;
 
       // Include full conversation history
@@ -105,64 +114,68 @@ ${context}`;
         }))
       ];
 
-      // Add initial assistant message with empty content that will be streamed into
-      messages = [
-        ...updatedMessages,
-        { 
-          role: 'assistant',
-          content: '',
-          context: contextResults,
-          isStreaming: true
-        }
-      ];
+      // Start streaming response
+      const streamingResponse = await fetch('/api/proxy/chat', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          model: "gemini-flash-lite",
+          messages: apiMessages,
+          temperature: 0.7,
+          max_tokens: 1024
+        })
+      });
 
-      // Use streaming API
-      createStreamingChatCompletion(
-        apiMessages,
-        // On each chunk, update the message content
-        (chunk) => {
-          messages = messages.map((msg, i) => {
-            if (i === messages.length - 1 && msg.role === 'assistant') {
-              return {
-                ...msg,
-                content: msg.content + chunk
-              };
+      if (!streamingResponse.ok) {
+        const errorBody = await streamingResponse.text();
+        console.error('Chat API error details:', errorBody);
+        throw new Error(`Chat API error: ${streamingResponse.status} ${streamingResponse.statusText}`);
+      }
+
+      const reader = streamingResponse.body?.getReader();
+      if (!reader) {
+        throw new Error('Stream reader not available');
+      }
+
+      const decoder = new TextDecoder();
+      let assistantMessageIndex = messages.length - 1;
+
+      // Process the stream
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        
+        const chunk = decoder.decode(value);
+        const lines = chunk.split('\n').filter(line => line.trim() !== '');
+        
+        for (const line of lines) {
+          try {
+            const data = JSON.parse(line);
+            if (data.choices && data.choices[0]?.delta?.content) {
+              // Update the streaming message with new content
+              const newContent = data.choices[0].delta.content;
+              messages[assistantMessageIndex].content += newContent;
+              // Force Svelte to update the UI
+              messages = [...messages];
             }
-            return msg;
-          });
-        },
-        // On error
-        (e) => {
-          error = `Arcane connection failed: ${e.message}`;
-          // Mark message as no longer streaming
-          messages = messages.map((msg, i) => {
-            if (i === messages.length - 1 && msg.role === 'assistant') {
-              return {
-                ...msg,
-                isStreaming: false
-              };
-            }
-            return msg;
-          });
-          isLoading = false;
-        },
-        // On complete
-        () => {
-          // Mark message as no longer streaming
-          messages = messages.map((msg, i) => {
-            if (i === messages.length - 1 && msg.role === 'assistant') {
-              return {
-                ...msg,
-                isStreaming: false
-              };
-            }
-            return msg;
-          });
-          isLoading = false;
+          } catch (e) {
+            console.error('Error parsing stream chunk:', e);
+          }
         }
-      );
+      }
+
+      // Finalize the message when streaming is complete
+      messages[assistantMessageIndex].isStreaming = false;
+      messages[assistantMessageIndex].context = contextResults;
+      messages = [...messages];
+      
     } catch (e) {
       error = `Arcane connection failed: ${(e as Error).message}`;
+      // Remove the streaming message if there was an error
+      messages = messages.filter(msg => !msg.isStreaming);
+    } finally {
       isLoading = false;
     }
   }
@@ -218,7 +231,7 @@ ${context}`;
               <div class="prose prose-sm dark:prose-invert max-w-none">
                 {@html formatMessage(message.content)}
                 {#if message.isStreaming}
-                  <span class="inline-block animate-pulse">▋</span>
+                  <span class="loading loading-dots loading-sm"></span>
                 {/if}
               </div>
               {#if message.context && !message.isStreaming}
@@ -246,6 +259,7 @@ ${context}`;
           placeholder="Consult the ancient tomes..."
           class="join-item input input-bordered flex-1 bg-base-100 focus:outline-none"
           on:keydown={(e) => e.key === 'Enter' && !isLoading && sendMessage()}
+          disabled={isLoading}
         />
         <button
           type="submit"

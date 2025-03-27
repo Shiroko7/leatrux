@@ -1,11 +1,5 @@
-// New streaming version
-export async function createStreamingChatCompletion(
-  messages: any[], 
-  onChunk: (chunk: string) => void,
-  onError: (error: Error) => void,
-  onComplete: () => void
-): Promise<void> {
-  console.log('Starting streaming chat completion with messages:', messages);
+export async function createChatCompletion(messages: any[]): Promise<string> {
+  console.log('Starting chat completion with messages:', messages);
   try {
     const response = await fetch('/api/proxy/chat', {
       method: 'POST',
@@ -13,74 +7,51 @@ export async function createStreamingChatCompletion(
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        model: "deepseek-chat",
+        model: "gemini-2.0-flash", // Updated to Flash Lite model
         messages,
         temperature: 0.7,
-        stream: true
+        max_tokens: 1024 // Optional: control response length
       })
     });
-    
-    console.log('Streaming chat response status:', response.status);
+    console.log('Chat response status:', response.status);
 
     if (!response.ok) {
       const errorBody = await response.text();
       console.error('Chat API error details:', errorBody);
-      onError(new Error(`Chat API error: ${response.status} ${response.statusText}`));
-      return;
+      throw new Error(`Chat API error: ${response.status} ${response.statusText}`);
     }
 
-    // Get the response as a stream
+    // Handle streaming response
     const reader = response.body?.getReader();
     if (!reader) {
-      onError(new Error('Failed to get stream reader'));
-      return;
+      throw new Error('Stream reader not available');
     }
 
-    const decoder = new TextDecoder('utf-8');
-    let buffer = '';
+    let fullContent = '';
+    const decoder = new TextDecoder();
 
-    // Process the stream
     while (true) {
       const { done, value } = await reader.read();
-      if (done) {
-        break;
-      }
-
-      // Decode the chunk and add to buffer
-      const chunk = decoder.decode(value, { stream: true });
-      buffer += chunk;
-
-      // Process complete event chunks in the buffer
-      while (buffer.includes('\n')) {
-        const lineEnd = buffer.indexOf('\n');
-        const line = buffer.substring(0, lineEnd).trim();
-        buffer = buffer.substring(lineEnd + 1);
-
-        if (line.startsWith('data: ')) {
-          const data = line.substring(6); // Remove 'data: ' prefix
-          
-          if (data === '[DONE]') {
-            // Stream is complete
-            onComplete();
-            return;
+      if (done) break;
+      
+      const chunk = decoder.decode(value);
+      const lines = chunk.split('\n').filter(line => line.trim() !== '');
+      
+      for (const line of lines) {
+        try {
+          const data = JSON.parse(line);
+          if (data.choices && data.choices[0]?.delta?.content) {
+            fullContent += data.choices[0].delta.content;
           }
-
-          try {
-            const parsed = JSON.parse(data);
-            const content = parsed.choices[0]?.delta?.content;
-            if (content) {
-              onChunk(content);
-            }
-          } catch (e) {
-            console.warn('Failed to parse streaming chunk:', data, e);
-          }
+        } catch (e) {
+          console.error('Error parsing stream chunk:', e);
         }
       }
     }
-    
-    onComplete();
+
+    return fullContent;
   } catch (e) {
-    console.error('Streaming chat completion failed:', e);
-    onError(e instanceof Error ? e : new Error(String(e)));
+    console.error('Chat completion failed:', e);
+    throw e;
   }
 }
