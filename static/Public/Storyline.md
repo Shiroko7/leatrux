@@ -57,29 +57,45 @@
 			- [[Hearing the Latest News]]
 			- [[Reuniting with their Masters]]
 			- [[Durim's Predicament]]
-		- The Raising Crew
-			- [[Durim's Assasination Attempt]]
-			- [[Meeting Bei Li'er]]
-			- [[Planning for the Future of the Island]]
-		- The Great Plan
-			- [[Seeking for Help]]
-			- [[Herng Wasting Everyone's Time]]
-		- The Breakthrough
-			- [[Laura's Orthodox Ritual]]
-				- [[Laura's Second Tribulation]]
-			- [[Thalassios's Frost Fusion]]
-			- [[Gio's Heart Tribulation]]
-			- [[Herng's Explosive Breakthrough]]
-			- [[Nilo's Heavenly Rejection]]
-				- [[Nilo's Quest for Blood]]
-			- [[Durim Stonehammer's Winter Arc]]
-		- The [[Fulh'ulbrech]] revival
-			- [[Theater and Drama at the Arena]]
-			- [[The Jade Beauty Tribulation]]
-			- [[The Shadow Sect Adepts]]
-			- The Grand Auction
-				- Spending All Their Money
-					- [[The Rare Materials Day]]
-					- [[The Wondrous Items Day]]
-					- [[The Armory and  Weaponry Day]]
-					- [[The Services and Miscellaneous Day]]
+	- The Raising Crew
+		- [[Durim's Assasination Attempt]]
+		- [[Meeting Bei Li'er]]
+		- [[Planning for the Future of the Island]]
+	- The Great Plan
+		- [[Seeking for Help]]
+		- [[Herng Wasting Everyone's Time]]
+	- The Breakthrough
+		- [[Laura's Orthodox Ritual]]
+			- [[Laura's Second Tribulation]]
+		- [[Thalassios's Frost Fusion]]
+		- [[Gio's Heart Tribulation]]
+		- [[Herng's Explosive Breakthrough]]
+		- [[Nilo's Heavenly Rejection]]
+			- [[Nilo's Quest for Blood]]
+		- [[Durim Stonehammer's Winter Arc]]
+	- The [[Fulh'ulbrech]] Revival
+		- [[Theater and Drama at the Arena]]
+		- [[The Jade Beauty Tribulation]]
+		- [[The Shadow Sect Adepts]]
+		- The Grand Auction
+			- Spending All Their Money
+				- [[The Rare Materials Day]]
+				- [[The Wondrous Items Day]]
+				- [[The Armory and  Weaponry Day]]
+				- [[The Wang's Gambit]]
+		- [[Grommash's Return]]
+		- [[The Raising Crew]]
+	- The Aberrant Legacy
+		- [[Thalassios Breaks the Ice About the Frostreaver]]
+		- [[Nilo's First Night with Yaolan]]
+		- [[Nilo's Blood Tribulation]]
+		- [[Possession Attempt]]
+		- [[A New Chapter]]
+	- The Inferno Heart Citadel
+		- Preparing for the Expedition
+			- [[The Serpentine Dream]]
+			- [[The Netherbreath Fungus in Thalassios]]
+			- [[Extorting the Supreme Patriachs]]
+			- [[Saying Goodbye]]
+		- [[The Search for the Nautilus]]
+	

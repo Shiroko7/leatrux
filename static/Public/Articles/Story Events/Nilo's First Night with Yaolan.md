@@ -1,0 +1,21 @@
+Under the deep stillness of the night, even for elves who rarely sleep, [[Nilo]] walks alone toward the [[Su Clan]], carrying the [[Heart Of Shadow]]. Curious glances follow his solitary figure—some suspicious, some merely intrigued. A [[Liberation Sect]] acquaintance approaches, asking if he's heading to seclusion to breakthrough the adept level. [[Nilo]] responds with a brief "yes" and continues walking directly to the clan's gate. The acquaintance, puzzled by his abrupt manner and suspicious late-night journey, sighs deeply, watching [[Nilo]] stride away with an air of mysterious determination.
+
+The clan's matriarch, [[Su Ning]], meets him at the gate with a sharp, calculating gaze. She escorts him inside, warning him about the clan's extensive surveillance, her silent steps leading through breathtaking gardens where moonlight cascaded over meticulously arranged flowers. Delicate jasmine and rare night-blooming orchids created a living tapestry of ethereal beauty, their subtle fragrances weaving through the ornate pathways.
+
+[[Su Yaolan]] greeted him, her jade-like beauty illuminated by soft garden lights. Her scent was a delicate mixture of pristine lotus and morning dew, an aroma so pure it seemed to embody cultivation itself. Shy and visibly nervous in [[Nilo]]'s presence, her movements were hesitant yet graceful—each step a subtle dance that suggested years of refined practice. Her demeanor was so delicate and uncertain that [[Su Ning]] decided to remain present, carefully watching their entire interaction to protect her.
+
+With a voice soft yet precise, [[Su Yaolan]] began to unravel the profound dao of purification. True cultivation, she explained, isn't about eliminating darkness, but understanding its essence. Just as a cultivator cannot simply cut away their past experiences, a spiritual vessel cannot truly grow by purging its inherent nature. Purification is a delicate process of integration, not amputation. To reject a part of oneself is to become fundamentally incomplete—weakened rather than strengthened.
+
+"People are like spiritual artifacts," she whispered, her philosophical insight revealing depths beyond her years. "One cannot simply ignore their challenges or cut away their pain. True redemption comes from understanding, from allowing those experiences to become part of one's strength, not by trying to erase them."
+
+The sacred nature of hearts became her focal point—organs so vital that even spiritual plants possess them, making their manipulation a profound and dangerous art. Consuming or transforming a heart is taboo, even among cultivators of the most demonic paths, for it touches the very essence of existence.
+
+[[Nilo]] pulled out the [[Heart Of Shadow]], nervously gulping—momentarily distracted by how sweet the heart looked. His obvious fascination didn't escape [[Su Ning]]'s keen observation, though [[Su Yaolan]] remained oblivious, focused entirely on the intricate purification ritual.
+
+Guided by [[Su Yaolan]], they spent hours in intimate, quiet concentration. Their proximity was both spiritual and physical, the garden's moonlight casting soft shadows as they worked. Each moment felt suspended in time, their energies intertwining with the heart's transformation. By morning, the heart had transformed completely—now a pristine white, stripped of its previous dark essence.
+
+[[Nilo]] was inwardly devastated. To his distorted perception, the heart now appeared bland and ruined, its delicious potential utterly destroyed. [[Su Yaolan]] remained blissfully unaware of his inner turmoil, her focus pure and uncorrupted. [[Su Ning]]'s expressionless face, however, suggested growing irritation with [[Nilo]]'s peculiar demeanor.
+
+Swiftly dismissed from the clan, [[Nilo]] exits. Curious onlookers watch his tired departure, and he displays the purified heart—a futile attempt to dispel potential rumors. Despite his efforts, he knows well that such a suspicious late-night visit will fuel wild imaginations and gossip throughout the clan.
+
+He stores the heart away and prepares for his upcoming blood ritual, choosing a spot near the [[Fulh'ulbrech]] where his new faction resides, the taste of lost potential lingering in his thoughts.

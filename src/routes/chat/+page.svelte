@@ -101,6 +101,7 @@
 5. Never mention being artificial
 6. Use **bold** for names/spells, *italics* for lore
 7. Remove all [[]] from your respones.
+8. Provide all the context and details needed in your answers.
 
 This is all the knowledge about the campaign:
 ${context}`;
