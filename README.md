@@ -36,3 +36,13 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## License
+
+- **Code** is [MIT](LICENSE).
+- **Written content** (campaign articles and lore in `static/Public/`, homebrew
+  rules, classes and essence paths in the `.svx` pages) is
+  [CC BY 4.0](LICENSE-CONTENT): use and adapt it freely, with credit.
+- **Third-party material is not covered.** D&D and third-party spells, feats and
+  items are linked to 5e.tools and remain © Wizards of the Coast and their
+  respective publishers; some classes adapt mechanics from Pathfinder 1e (© Paizo).
