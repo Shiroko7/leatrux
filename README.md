@@ -48,7 +48,7 @@ Chat history is kept in the browser's `localStorage`.
 
 ## Development
 
-Requires Node.js 20.19+ (or 22.12+).
+Requires Node.js 22.17+; Netlify uses Node.js 24.
 
 ```bash
 npm install

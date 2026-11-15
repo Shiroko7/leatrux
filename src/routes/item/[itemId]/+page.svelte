@@ -3,4 +3,4 @@
     const item = null;
 </script>
 
-<Item {item}/>
+<Item selectedItem={item}/>

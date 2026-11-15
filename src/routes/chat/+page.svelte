@@ -1,8 +1,8 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { vectorStore } from '$lib/vectorStore';
-  import { createChatCompletion } from '$lib/embeddings';
-  import type { ContextResult } from '$lib/types';
+  import { vectorStore } from '#lib/vectorStore.ts';
+  import { createChatCompletion } from '#lib/embeddings.ts';
+  import type { ContextResult } from '#lib/types.ts';
 
   type Message = {
     role: 'user' | 'assistant';
@@ -65,7 +65,7 @@
     error = null;
 
     // Create temporary updated messages array
-    const updatedMessages = [...messages, { role: 'user', content: userMessage }];
+    const updatedMessages: Message[] = [...messages, { role: 'user', content: userMessage }];
     messages = updatedMessages;
 
     // Add a placeholder assistant message that will be updated incrementally

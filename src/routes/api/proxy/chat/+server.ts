@@ -7,7 +7,7 @@ export async function POST({ request }) {
     const requestData = await request.json();
     
     // Transform messages from ChatGPT/DeepSeek format to Gemini format
-    const contents = requestData.messages.map(msg => {
+    const contents = requestData.messages.map((msg: { role: string; content: string }) => {
       // Handle system message differently since Gemini doesn't have system messages
       if (msg.role === 'system') {
         return {
@@ -129,7 +129,7 @@ export async function POST({ request }) {
           console.error('Streaming error:', e);
           controller.enqueue(encoder.encode(JSON.stringify({ 
             error: 'Streaming error', 
-            details: e.message 
+            details: e instanceof Error ? e.message : String(e)
           })));
           controller.close();
         }
@@ -151,7 +151,7 @@ export async function POST({ request }) {
     console.error('Proxy error:', e);
     return new Response(JSON.stringify({ 
       error: 'Proxy error', 
-      details: e.message 
+      details: e instanceof Error ? e.message : String(e)
     }), {
       status: 500,
       headers: {

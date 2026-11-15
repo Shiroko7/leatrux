@@ -1,4 +1,4 @@
-import { stemmer } from '$lib/stemmer';
+import { stemmer } from '#lib/stemmer.ts';
 
 type Note = { content: string; path: string };
 

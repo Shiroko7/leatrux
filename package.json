@@ -8,11 +8,12 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
-    "index": "tsx scripts/generate-notes-index.ts"
+    "index": "tsx scripts/generate-notes-index.ts",
+    "test:security": "node --test tests/deepmerge.test.cjs"
   },
   "devDependencies": {
-    "@sveltejs/adapter-netlify": "^6.0.4",
-    "@sveltejs/kit": "^2.70.3",
+    "@sveltejs/adapter-netlify": "^7.0.1",
+    "@sveltejs/kit": "^3.2.0",
     "@sveltejs/vite-plugin-svelte": "^7.3.1",
     "@types/fuzzy-search": "^2.1.4",
     "@types/node": "^26.6.3",
@@ -22,12 +23,12 @@
     "postcss": "^8.5.28",
     "prettier": "^3.9.9",
     "prettier-plugin-svelte": "^4.1.1",
-    "svelte": "^5.57.1",
+    "svelte": "^5.57.2",
     "svelte-check": "^4.7.6",
     "tailwindcss": "^3.4.19",
     "tsx": "^4.23.15",
     "typescript": "^6.0.3",
-    "vite": "^8.3.1"
+    "vite": "^8.3.3"
   },
   "type": "module",
   "dependencies": {
@@ -36,6 +37,13 @@
     "rehype-slug": "^6.0.0"
   },
   "overrides": {
-    "cookie": "^0.7.2"
+    "deepmerge": "file:./vendor/deepmerge"
+  },
+  "imports": {
+    "#lib": "./src/lib/index.js",
+    "#lib/*": "./src/lib/*"
+  },
+  "engines": {
+    "node": ">=22.17.0"
   }
 }
