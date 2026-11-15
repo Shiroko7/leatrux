@@ -1,22 +1,22 @@
 <script lang="ts">
-  import { page } from "$app/stores";
+  import { page } from "$app/state";
   import { get, writable } from 'svelte/store';
-  import { allItems, allItemsMap, translateFileName, type Item } from "../items";
+  import { allItems, allItemsMap, translateFileName, type Item, type Weapon, type Armor } from "../items";
   import FuzzySearch from "fuzzy-search";
   import TypingParagraph from "../../../components/shared/TypingParagraph.svelte";
   import { getItemsForMerchant, getFilenamesWithWildcardItems } from "./merchants";
 
 
   const merchantItems = writable<Item[]>(allItems);
-  const merchantName = $page.params.merchantId;
+  const merchantName = page.params.merchantId ?? '';
   const merchantImageUrl = "/"+merchantName+".jpg"
 
   const updateMerchantItems = () => {
-      const merchantItemNames = new Set(getItemsForMerchant(merchantName));
-      const currentAllItems = get(merchantItems);
-      const filtered = currentAllItems.filter(item => merchantItemNames.has(item.name));
-      const combined = getFilenamesWithWildcardItems(merchantName).reduce((acc, file) => [...acc, ...allItemsMap[translateFileName(file)] ?? []], filtered);
-      merchantItems.set(combined);
+    const merchantItemNames = new Set(getItemsForMerchant(merchantName));
+    const currentAllItems = get(merchantItems);
+    const filtered = currentAllItems.filter((item) => merchantItemNames.has(item.name));
+    const combined = getFilenamesWithWildcardItems(merchantName).reduce((acc, file) => [...acc, ...allItemsMap[translateFileName(file)] ?? []], filtered);
+    merchantItems.set(combined);
   };
 
   updateMerchantItems();
@@ -56,8 +56,8 @@
         var aValue = a[prop];
         var bValue = b[prop];
         if (prop == "cost") {
-          aValue = convertUnit(aValue, a["costUnit"]);
-          bValue = convertUnit(bValue, b["costUnit"]);
+          aValue = convertUnit(a.cost, a.costUnit);
+          bValue = convertUnit(b.cost, b.costUnit);
         }
         return sortOrder * (aValue < bValue ? -1 : aValue > bValue ? 1 : 0);
       })
@@ -96,6 +96,14 @@
     const result = combined.filter(Boolean).join(", ");
 
     return result ? result : "";
+  }
+
+  function isWeapon(item: Item): item is Weapon {
+    return 'damage' in item;
+  }
+
+  function isArmor(item: Item): item is Armor {
+    return 'resistance' in item;
   }
 
   function clearInput() {
@@ -184,97 +192,97 @@
     class="flex-1 m-2 border-collapse border border-neutral overflow-hidden"
   >
     <div class="h-full overflow-auto">
-    <table class="w-full">
-      <thead class="uppercase">
-        <tr class="bg-neutral">
-          <th>
-            <div class="flex items-center">
+      <table class="w-full">
+        <thead class="uppercase">
+          <tr class="bg-neutral">
+            <th>
+              <div class="flex items-center">
               Name <button on:click={() => sortByProperty("name")}>
-                <svg
-                  class="w-3 h-3 ms-1.5"
-                  aria-hidden="true"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
-                  />
-                </svg>
-              </button>
+                  <svg
+                    class="w-3 h-3 ms-1.5"
+                    aria-hidden="true"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
+                    ></path>
+                  </svg>
+                </button>
             </div></th
           >
-          <th>
-            <div class="flex items-center">
+            <th>
+              <div class="flex items-center">
               Properties <button on:click={() => sortByProperty("properties")}>
-                <svg
-                  class="w-3 h-3 ms-1.5"
-                  aria-hidden="true"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
-                  />
-                </svg>
-              </button>
+                  <svg
+                    class="w-3 h-3 ms-1.5"
+                    aria-hidden="true"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
+                    ></path>
+                  </svg>
+                </button>
             </div></th
           >
-          <th>
-            <div class="flex items-center">
+            <th>
+              <div class="flex items-center">
               Rarity <button on:click={() => sortByProperty("rarity")}>
-                <svg
-                  class="w-3 h-3 ms-1.5"
-                  aria-hidden="true"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
-                  />
-                </svg>
-              </button>
+                  <svg
+                    class="w-3 h-3 ms-1.5"
+                    aria-hidden="true"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
+                    ></path>
+                  </svg>
+                </button>
             </div></th
           >
-          <th>
-            <div class="flex items-center">
+            <th>
+              <div class="flex items-center">
               Cost <button on:click={() => sortByProperty("cost")}>
-                <svg
-                  class="w-3 h-3 ms-1.5"
-                  aria-hidden="true"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
-                  />
-                </svg>
-              </button>
+                  <svg
+                    class="w-3 h-3 ms-1.5"
+                    aria-hidden="true"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.574 11.024h6.852a2.075 2.075 0 0 0 1.847-1.086 1.9 1.9 0 0 0-.11-1.986L13.736 2.9a2.122 2.122 0 0 0-3.472 0L6.837 7.952a1.9 1.9 0 0 0-.11 1.986 2.074 2.074 0 0 0 1.847 1.086Zm6.852 1.952H8.574a2.072 2.072 0 0 0-1.847 1.087 1.9 1.9 0 0 0 .11 1.985l3.426 5.05a2.123 2.123 0 0 0 3.472 0l3.427-5.05a1.9 1.9 0 0 0 .11-1.985 2.074 2.074 0 0 0-1.846-1.087Z"
+                    ></path>
+                  </svg>
+                </button>
             </div></th
           >
-        </tr>
-      </thead>
-      <tbody>
-        {#each fuzzySearchByName(fuzzySearchByName($merchantItems, selectedCategory, "category"), searchFilter) as item (item)}
-          <tr
-            class:selected={clickedItem === item}
-            on:click={() => toggleSelection(item)}
-            on:mouseover={() => hoverSelection(item)}
-            on:focus={() => hoverSelection(item)}
-            on:mouseout={() => hoverSelection(item)}
-            on:blur={() => hoverSelection(item)}
-          >
-            <td>{item.name}</td>
-            <td>{item.properties.join(", ")}</td>
-            <td class="text-center">{@html colorRarity(item.rarity)}</td>
-            <td class="text-right whitespace-nowrap">{item.cost} {item.costUnit}</td>
           </tr>
-        {/each}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {#each fuzzySearchByName(fuzzySearchByName($merchantItems, selectedCategory, "category"), searchFilter) as item (item)}
+            <tr
+              class:selected={clickedItem === item}
+              on:click={() => toggleSelection(item)}
+              on:mouseover={() => hoverSelection(item)}
+              on:focus={() => hoverSelection(item)}
+              on:mouseout={() => hoverSelection(item)}
+              on:blur={() => hoverSelection(item)}
+            >
+              <td>{item.name}</td>
+              <td>{item.properties.join(", ")}</td>
+              <td class="text-center">{@html colorRarity(item.rarity)}</td>
+              <td class="text-right whitespace-nowrap">{item.cost} {item.costUnit}</td>
+            </tr>
+          {/each}
+        </tbody>
+      </table>
     </div>
   </div>
 
@@ -297,16 +305,14 @@
         <p>{selectedItem.description}</p>
       </div>
 
-      {#if "damage" in selectedItem}
-        <div>
-          <strong>Damage:</strong>
-          {selectedItem.damage}
-        </div>
+      {#if isWeapon(selectedItem)}
+        <div><strong>Damage:</strong> {selectedItem.damage}</div>
+
         <div>
           <strong>Damage Types:</strong>
           {selectedItem.damageTypes}
         </div>
-      {:else if "resistance" in selectedItem}
+      {:else if isArmor(selectedItem)}
         <div>
           <strong>Resistance:</strong>
           {selectedItem.resistance}

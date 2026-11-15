@@ -2,7 +2,7 @@
   export let text: string = '';
 
   let animatedText = '';
-  let timeoutId: number | null = null;
+  let timeoutId: ReturnType<typeof setTimeout> | null = null;
 
   function typeText() {
     if (timeoutId !== null) {
